@@ -1,1 +1,201 @@
-
+artista,oyentes,reproducciones
+['Wim Mertens'],251456,3083007
+['Bohuslav Martinů'],47164,335268
+['Johann Sebastian Bach'],2407664,93196346
+['Ludwig van Beethoven'],2741600,57319871
+['Joseph Haydn'],148921,1486653
+['Christoph Willibald Gluck'],390094,1980313
+['Wolfgang Amadeus Mozart'],2414782,68994605
+['George Frideric Handel'],476838,5891275
+['Manuel de Falla'],151858,750946
+['Julia Wolfe'],24330,94202
+['Nithyasree Mahadevan'],2533,14927
+['Richard Strauss'],522505,4020297
+['Fritz Kreisler'],204684,1245153
+['Tanburi Cemil Bey'],7563,57331
+['Dimanche FR'],348,1349
+['Albert Roussel'],8214,67478
+['Alban Berg'],100346,795148
+['Tushar Dutta'],304,2026
+['Karol Szymanowski'],76348,521431
+['Charles Koechlin'],35099,181498
+['Murat Salim Tokac'],1930,17181
+['Max Reger'],50753,285941
+['Johannes Brahms'],1450716,18475372
+['Pietro Locatelli'],39134,267428
+['Richard Wagner'],850514,10069863
+['Ole Bull'],15097,42651
+['Giuseppe Verdi'],865841,9456397
+['Stephen Dodgson'],1159,4020
+['Pablo Sorozábal'],1716,7153
+['Henri Dutilleux'],26123,183771
+['Claude Debussy'],1894579,35899444
+['Juan María Solare'],12663,508363
+['Francois Devienne'],2096,12687
+['Gustav Mahler'],721313,8003290
+['Simone Pedroni'],732,5930
+['Jean Françaix'],8662,66720
+['Tom Johnson'],3035,20453
+['Reinhold Glière'],23353,112787
+['Evan Bogerd'],24,597
+['Niels Rønsholdt'],104,1860
+['Alice Ping Yee Ho'],93,252
+['Marcos Antonio Portugal'],240,1561
+['Dietrich Buxtehude'],142007,1255458
+['Koushik Bhattacharjee'],11,76
+['Modest Mussorgsky'],200309,1489084
+['João Carlos Martins'],2074,19055
+['Erik Satie'],1681765,35191904
+['Dinos Constantinides'],124,1302
+['Giovanni Paisiello'],25167,93555
+['Edvard Grieg'],1279433,13595214
+['Benjamin Britten'],283401,2430464
+['Alfred Schnittke'],120757,1268377
+['André-Ernest-Modeste Grétry'],2305,23600
+['Francois-Joseph Gossec'],22427,99309
+['André Jolivet'],4797,43349
+['Gerald Finzi'],84010,387125
+['Gideon Klein'],711,3693
+['Giovanni Pierluigi da Palestrina'],98311,1115265
+['Antón García Abril'],3849,18310
+['Luis de Pablo'],629,4012
+['Béla Bartók'],480631,4807109
+['Antonín Dvořák'],1172366,12219677
+['Dominick Argento'],775,7778
+['Jean-Philippe Rameau'],349147,2874559
+['Enrique Granados'],107813,579499
+['Antonio Vivaldi'],1887055,40645222
+['Georg Philipp Telemann'],407760,4239882
+['Gabriel Fauré'],907979,7650879
+['Istvan Szekely'],4605,39489
+['Bernat Vivancos'],2969,13825
+['Sérgio de Vasconcellos Corrêa'],4,8
+['Olena Yuriivna Shostko'],1,1
+['Dmitri Shostakovich'],981316,11398114
+['Franz Liszt'],1284234,15414518
+['An-Lun Huang'],214,598
+['Herbert Howells'],33184,167320
+['Carlos Gardel'],230083,2485642
+['Johann Nepomuk Hummel'],84252,430949
+['Radamés Gnattali'],4753,34432
+['Michael Gielen'],1308,9120
+['Johann Baptist Vanhal'],22395,141127
+['Ariel Ramírez'],13175,117834
+['Hector Berlioz'],442661,2595984
+['Rahul Vellal'],485,3391
+['Matteo Carcassi'],9628,85379
+['Roman Berger'],113,331
+['Mario Castelnuovo-Tedesco'],20179,117409
+['Jacqueline Fontyn'],152,1061
+['Jules Massenet'],384383,1638217
+['Ignaz Pleyel'],3626,26065
+['Franz Danzi'],15256,66521
+['Heitor Villa-Lobos'],162087,1685490
+['Carl Philipp Emanuel Bach'],475416,3066263
+['James Whitbourn'],17023,91847
+['Charles-Marie Widor'],14834,101394
+['Carl Heinrich Graun'],3564,28462
+['Ottorino Respighi'],314733,2209190
+['Muzio Clementi'],113898,593155
+['Gioachino Rossini'],198176,1310147
+['Tomás Bretón'],1281,8034
+['Francesco Petrini'],275,1094
+['Antonio Soler'],14905,98506
+['Jean Sibelius'],883457,8182933
+['Toru Takemitsu'],47869,260635
+['Arcangelo Corelli'],351616,3791723
+['Bedřich Smetana'],442470,2392113
+['Viet Cuong'],1283,8380
+['Carsten Bo Eriksen'],618,2036
+['Luigi Boccherini'],473645,2695723
+['Felix Mendelssohn'],1042957,10173197
+['Claudio Monteverdi'],253453,2667048
+['Francisco Tárrega'],184164,1502479
+['Bundu Khan'],226,1112
+['Antonio Lauro'],33354,252690
+['Arthur Moreira Lima'],4501,49121
+['Fernando Sor'],90456,668727
+['Alicia de Larrocha'],40931,302829
+['Barkat Ali Khan'],146,639
+['Vincent Persichetti'],7024,41061
+['Allan Pettersson'],4830,49630
+['Severin van Dijk'],38,204
+['Matthew Welch'],635,6056
+['Nils Henrik Asheim'],415,3124
+['Kenneth Fuchs'],2439,9087
+['Henryk Górecki'],206626,1464169
+['György Kurtág'],41505,373334
+['Ian Venables'],284,2008
+['Hisako Hiseki'],235,1624
+['Richard Barrett'],2499,15153
+['Alessandro Scarlatti'],111980,793365
+['Jaromír Weinberger'],1146,3504
+['Franz Schmidt'],7085,35820
+['Virgil Thomson'],4323,22955
+['Geoffrey Poole'],209,759
+['Fridthjov Anderssen'],23,172
+['Michael Finnissy'],8908,47621
+['Andreas Jakob Romberg'],473,2125
+['Paul Hindemith'],98179,684949
+['Danny Clay'],2622,34059
+['Christopher Cerrone'],2092,16665
+['Sebastian Morawietz'],3262,18374
+['Ruperto Chapí'],1191,5972
+['Carson Cooman'],645,6051
+['David Matthews'],53627,294040
+['Exam Study Music Company'],16,91
+['Marin Marais'],121938,1122555
+['Camille Saint-Saëns'],1344048,15005258
+['Franz Schubert'],1401326,17109569
+['Luigi Dallapiccola'],6005,58790
+['Giovanni Battista Pergolesi'],210384,1711737
+['Marian Sawa'],175,4928
+['Dmitry Kabalevsky'],21239,111714
+['Friedrich Kuhlau'],14542,72647
+['Georges Bizet'],840496,6628954
+['Brenton Broadstock'],91,535
+['Mieczysław Weinberg'],15125,137418
+['Garreth Broke'],57197,193550
+['Selim Palmgren'],11242,41054
+['Tomás Marco'],731,3924
+['Mily Balakirev'],29122,137570
+['Daan Janssens'],28,110
+['Mikhail Glinka'],58836,221125
+['Ann Millikan'],74,265
+['Lennox Berkeley'],4730,23895
+['York Bowen'],2776,22026
+['Franco Margola'],308,2515
+['Michael Nyman'],732243,11410535
+['Luigi Cherubini'],41829,211262
+['Edward Elgar'],327846,2463617
+['Francisco Mignone'],19580,69283
+['Scott Joplin'],227756,1710687
+['Frank Martin'],9416,68534
+['Anton Bruckner'],292808,1966936
+['Guy Bovet'],412,1942
+['Duke Ellington'],1408375,21312765
+['Alan Weiss'],353,2680
+['Alcatrazz'],89205,1066775
+['Carl Friedrich Abel'],18279,121734
+['T. Brinda'],50,157
+['Hubert Parry'],39644,192796
+['Vicente Martín Y Soler'],354,8496
+['Vissarion Shebalin'],1200,5527
+['Bekah Simms'],143,432
+['Michael Oesterle'],141,609
+['Carl Nielsen'],113366,584035
+['Classical Music Orchestra!'],181,1201
+['Erich Wolfgang Korngold'],66505,327671
+['Miriam Hyde'],984,6989
+['John Corigliano'],48690,262657
+['Berglind María Tómasdóttir'],188,406
+['Daniel Ligorio'],184,922
+['Kurt Atterberg'],11310,76015
+['Karl-Erik Welin'],184,493
+['Dionisio Aguado'],4815,26982
+['Max Bruch'],269905,1321638
+['Alfred Cortot'],14338,185054
+['Astor Piazzolla'],416023,6708560
+['Lori Laitman'],624,4321
+['Michael Torke'],6410,41026
+['Michael Haydn'],51900,294608

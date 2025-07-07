@@ -1,1 +1,201 @@
-
+artista,oyentes,reproducciones
+['Gari'],5007,102118
+['Joan Colomo'],8589,219787
+['Familia Caamagno'],924,19443
+['Los Negativos'],2284,28506
+['Igor Paskual'],910,13420
+['Los Hermanos Cubero'],4210,47817
+['Sergio Dalma'],69514,698877
+['Loquillo'],55075,755611
+['Petti'],1563,10262
+['Lauroba'],457,8417
+['Altxatu'],130,4303
+['Bomba Estéreo'],343076,5556356
+['Jammin´ Dose'],202,9024
+['Los Rebeldes'],23210,160309
+['Aerolineas Federales'],5147,50071
+['Pep Sala'],1442,12470
+['Arco'],34745,435827
+['Nocturnos'],742,6555
+['Cybee'],1815,14009
+['Comandante Twin'],4033,30149
+['Physis Versus Nomos'],66,508
+['Eskean Kristö'],382,3817
+['Rukula'],57,433
+['Maki'],109256,4158703
+['Embusteros'],2366,26339
+['Bantastic Fand'],40,308
+['The Prussians'],3102,19567
+['Bastille'],2168924,81254079
+['Xiula'],1238,16893
+['Bluestain'],434,3504
+['Eraso!'],778,9828
+['Oskorri'],8204,100890
+['Atzembla'],690,14264
+['The Kleejoss Band'],141,6315
+['Os Resentidos'],9332,68795
+['La Porta Dels Somnis'],611,7483
+['Track Dogs'],1731,12020
+['The Oddballs'],493,4277
+['Young Forest'],146,1321
+['Tano!'],795,11832
+['Terratombats'],384,4566
+['Bely Basarte'],30927,492849
+['Lildami'],5629,100159
+['Salto'],7286,111511
+['Bultz!'],75,984
+['Pepet I Marieta'],3761,50806
+['Correcaminos Rock and Roll Band'],35,113
+['Pablo Valdés'],265,7301
+['Pelax'],55,931
+['Rulo y la contrabanda'],17822,427783
+['The Gift'],60991,939938
+['La Terrasseta de Preixens'],905,10201
+['O Sonoro Maxín'],309,1527
+['Txapelpunk'],6327,58419
+['Raimon'],8246,73385
+['La Unión'],213432,1950028
+['The Sick Boys'],117,703
+['Dixebra'],2075,96477
+['Dio'],1342023,36455102
+['El Mató a un Policía Motorizado'],115671,5380578
+['Lucas Masciano'],8674,61037
+['Miquel Abras'],4494,41213
+['Sidecars'],32272,590960
+['Banda de Gaites Villa de Xixón'],41,368
+"['Quico El Célio, El Noi I El Mut De Ferreries']",778,7949
+['Cesk Freixas'],10300,154471
+['El Chico Amperio'],128,2175
+['Juanes'],1045326,16972416
+['Sherish'],25,290
+['Isla Iglú'],780,2934
+['Hendrik Röver'],769,12503
+['Faith No More'],1626999,60050143
+['Alex Ubago'],212673,2683862
+['Melange'],3448,38893
+['Strombers'],4443,73936
+['Joseba Tapia'],1151,15583
+['Feliu Ventura'],6935,62517
+['Astarot'],3468,42419
+['Autumn Comets'],7948,57299
+['Molina Molina'],3342,15920
+['Animal'],21016,147117
+['Roy Orbison'],1789594,21859500
+['Camilo Séptimo'],73520,2090212
+['Efecto Pasillo'],55750,603760
+['Robbie Williams'],2545235,59072393
+['The Potes'],52,1281
+['Nat Simons'],12653,53233
+['Álvaro Urquijo'],621,2615
+['Perlata'],280,2799
+['Caboverde'],297,7395
+['Minor Empires'],1646,45726
+['Tregua'],834,6703
+['Nyandú'],1881,14368
+['Ochobre'],76,1778
+['Koel'],621,4464
+['Mikel Laboa'],7936,145661
+['Egurra Ta Kitto'],398,3899
+['Lluis Llach'],6167,70572
+['MARLENA'],22294,489131
+['La Trinca'],8010,80837
+['Stai Zitto'],48,853
+['Dinamita Pa Los Pollos'],13551,77412
+['Gotelé'],215,688
+['Quimi Portet'],12358,176802
+['Tachenko'],35932,491505
+['Xarim Aresté'],2947,29312
+['Chelsea Boots'],3025,18347
+['Dakidarria'],2598,34501
+['Gimnástica'],626,9293
+['EraBatera'],188,1574
+['Duran Duran'],2677417,58758428
+['Ñekü'],142,575
+['Los Gatos del Gitano'],551,3464
+['Grises'],13032,167430
+['ALIS'],11367,160715
+['Los Retrovisores'],993,7709
+['Mujeres'],36991,1038907
+['ENMA FERNÁNDEZ'],44,360
+['Da Igual'],717,8832
+['Kiko Veneno'],97834,944437
+['Skama la rede'],1180,38775
+['Itaca Band'],7472,148764
+['Nixon'],17225,198654
+['Qverno'],486,5353
+['Vaquero'],25125,193841
+['Alejandro Conde'],524,4360
+['Barricada'],75358,1639737
+['Urtz'],5131,54762
+['La Vil Canalla'],21,53
+['Durango14'],355,2943
+['Ruxe Ruxe'],711,6121
+['Xabi Bandini'],450,4147
+['Ataque Escampe'],3614,103226
+['Zona Oscura'],26,217
+['Os Amigos dos Músicos'],461,6735
+['Miquel Gil'],4947,26613
+['Melendi'],279194,6438906
+['The Cardigans'],3151959,72050258
+['Wham!'],2869152,35437680
+['Planet Funk'],371072,4445416
+['Jofre Bardagí'],1643,9687
+['Ezpalak'],1631,32740
+['Liher'],797,20183
+['Los Piratas'],122876,2629883
+['Sanjosex'],13279,213216
+['Airbag'],152263,6267875
+['Nueva Vulcano'],18981,636591
+['Mentah'],632,6563
+['Shinova'],12047,426045
+['Mexican Institute Of Sound'],192565,1648285
+['Cobra'],23629,294980
+['Miss Caffeina'],61108,1799110
+['Fito y Fitipaldis'],109408,2980520
+['Bestia Bebé'],21556,638822
+['Keu Agirretxea'],155,1938
+['Habi'],607,13667
+['Los Marañones'],395,13080
+['Cris Juanico'],3162,19819
+['Elbicho'],52306,708914
+['CLAIM'],2034,12884
+['El Belda i el Conjunt Badabadoc'],745,8194
+['Thee Braindrops'],159,1390
+['Triana'],41352,777375
+['Marlon'],31053,475849
+['Joan Miquel Oliver'],22774,423057
+['Mägo de Oz'],292544,13260699
+['Jabier Muguruza'],2802,17659
+['Toulouse'],90769,421416
+['Pastora Soler'],44971,679760
+['Los Delinqüentes'],133573,1908137
+['Los Secretos'],117436,1245933
+['Jarabe De Palo'],515663,7857095
+['Diego Martín'],16814,138161
+['107 Faunos'],23399,566556
+['Tomeu Penya'],4440,34261
+['El Sueño de Morfeo'],100399,1334473
+['Lynyrd Skynyrd'],2941302,52938506
+['Carmen 113'],5223,75135
+['La Pegatina'],90065,1548277
+['Etxe'],933,4624
+['Txuma Murugarren'],1312,7201
+['Javier Ojeda'],1305,6269
+['Etsaiak'],4147,37161
+['Izeberg'],23,341
+['Brioles'],1791,23404
+['Destino 48'],423,4534
+['Capsula'],40429,496592
+['Huecco'],58867,731574
+['Vinicio Capossela'],109256,2115465
+['Atencion Tsunami'],1178,17627
+['El Diluvi'],2748,54172
+['Pokers'],48,219
+['Texxcoco'],3640,23782
+['Adrià Puntí'],10540,111444
+['Ivette Nadal'],2755,25075
+"[""Jane's Addiction""]",1310824,17931692
+['La Gossa Sorda'],15157,563855
+['Roger Usart'],149,1742
+['Jacobo Serra'],3965,26366
+['Kokein'],984,6347
