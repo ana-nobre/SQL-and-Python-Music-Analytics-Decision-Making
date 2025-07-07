@@ -35,7 +35,7 @@ USE MusicStream;
 # id_genero (FK)
 # nombre_artista (FK)
 
-CREATE TABLE Tabla_stats (
+	CREATE TABLE Tabla_stats (
     id_stats INT AUTO_INCREMENT PRIMARY KEY,
     id_genero INT,
     id_artista INT,
@@ -54,7 +54,7 @@ CREATE TABLE Tabla_stats (
 # CONSTRAINT
 # id_genero (FK)
 
-CREATE TABLE Tabla_Similar (
+	CREATE TABLE Tabla_Similar (
     id_similar INT AUTO_INCREMENT PRIMARY KEY,
     id_genero INT,
     artista VARCHAR(50) NOT NULL,
