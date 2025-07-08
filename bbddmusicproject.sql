@@ -71,3 +71,12 @@ USE Musicproject;
     id_bio INT AUTO_INCREMENT PRIMARY KEY,
     artista VARCHAR(50) NOT NULL,
     bio VARCHAR (500) NOT NULL);
+    
+ALTER TABLE tabla_tracks MODIFY COLUMN track LONGTEXT;
+ALTER TABLE tabla_tracks MODIFY COLUMN album LONGTEXT;
+ALTER TABLE tabla_tracks MODIFY COLUMN fecha VARCHAR(35);
+UPDATE tabla_tracks SET id_genero = 1 WHERE id_track BETWEEN 15001 AND 16000;
+
+
+    
+    
