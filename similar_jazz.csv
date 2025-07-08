@@ -1,201 +1,549 @@
-artista,similares
-['Astrio'],"['Gnaposs', 'Chocadelia Internacional', 'bRUNA', 'The Zombie Kids', 'Mock & Toof']"
-['Jacky Terrasson'],"['Bill Charlap Trio', 'Cyrus Chestnut', 'Eric Legnini Trio', 'Brad Mehldau Trio', 'Kenny Barron']"
-['Jimmy Dorsey'],"['Tommy Dorsey and His Orchestra', 'Tommy Dorsey & His Orchestra', 'Glenn Miller', 'Artie Shaw', 'Tommy Dorsey']"
-['Kin Garcia Trio'],[]
-['ORQUESTRA DE JAZZ DE GALICIA'],"['Real Filharmonia de Galicia', 'Quinito Mourelle', 'Atlantic Bridge Jazz Project', 'Ton Risco, Jacobo de Miguel', 'Pablo Sanmamed Trío']"
-['Candy Dulfer'],"['Jessy J', 'Brian Simpson', 'Cindy Bradley', 'Mindi Abair', 'Dave Koz']"
-['Jimmy Dorsey'],"['Tommy Dorsey and His Orchestra', 'Tommy Dorsey & His Orchestra', 'Glenn Miller', 'Artie Shaw', 'Tommy Dorsey']"
-['Oscar Peterson Trio'],"['Oscar Peterson', 'Bill Evans Trio', 'Ben Webster & Oscar Peterson', 'Cannonball Adderley', 'McCoy Tyner']"
-['Barry Likumahuwa'],"['Barry Likumahuwa Project', 'Soulvibe', 'Parkdrive', 'Ecoutez', 'Aditya']"
-['Maynard Ferguson'],"[""Gordon Goodwin's Big Phat Band"", 'Arturo Sandoval', 'Woody Herman', 'Buddy Rich', 'Count Basie & His Orchestra']"
-['Juliana Cortes'],"['Ná Ozzetti', 'Vinícius Calderoni', 'César Lacerda', 'Teca Calazans', 'Duda Brack']"
-['Mezz Mezzrow'],"['Buster Bailey', 'Bud Freeman', 'Barney Bigard', 'Pee Wee Russell', 'Luis Russell']"
-['Beny Moré'],"['Rubén González', 'La Sonora Matancera', 'Cachao', 'Bienvenido Granda', 'Orquesta Aragón']"
-['Alice Lamb'],"['Josh Franklin', 'Karizma Duo', 'Danielle Walsom', 'Jessie Reeves', 'Elena Ramona']"
-['Phil Woods'],"['Sonny Criss', 'Sonny Stitt', 'Zoot Sims', 'Cannonball Adderley', 'Art Pepper']"
-['Massimo Faraò'],"['Beegie Adair', 'Nocturnal Spirits', 'Peter Sandberg', 'Classic Jazz', 'Jack Jezzro']"
-['Greg Walker'],"['Royce Campbell', 'Terri England', 'Omar Sosa & Adam Rudolph', 'David Summerfield Orchester', 'Latin Island']"
-['SaxoFOUR'],"['Wolfgang Puschnig', 'Vienna Art Orchestra', 'Christian Muthspiel', 'Gianluigi Trovesi & Gianni Coscia', 'Gabriele Mirabassi']"
-['Snowboy'],"['Driza Bone', 'Emperors New Clothes', 'Leena Conquest', 'Goldbug', 'New Jersey Kings']"
-"['David ""Fathead"" Newman']","['Ricky Ford', 'Houston Person & Ron Carter', 'Antoine Roney', 'Warren Vaché', 'Louis Hayes & Cannonball Legacy Band']"
-['Ole Amund Gjersvik'],"['Giuseppe Millaci', 'Freddie Colonal', 'ピアノジャズ 贅沢', 'Magic Trio', 'Marco Papa Emil Buchholtz']"
-['Jan Ptaszyn Wroblewski Sextet'],"['Kuba Więcek', 'Andrzej Kurylewicz Quintet', 'Andrzej Trzaskowski', 'Mieczysław Kosz', 'Jan Ptaszyn Wróblewski']"
-['Raphael Wressnig'],"['Yihequan', 'Paolo ""Apollo"" Negri', 'Raphael Wressnig & Alex Schultz', 'Barbara Dennerlein', 'Dave Lennox']"
-['Scheen Jazzorkester'],"[""Gard Nilssen's Supersonic Orchestra"", 'Paal Nilssen-Love Circus', 'Anne Efternøler', 'Caroline Davis', 'Large Unit']"
-['Giulia Valle Trio'],['Apartamentos Acapulco']
-['Woody Herman'],"['Woody Herman & His Orchestra', 'Stan Kenton', 'Benny Carter', 'Benny Goodman', 'Maynard Ferguson']"
-"['Johnny ""Hammond"" Smith']",[]
-['Octavio Bugni'],['Sant Andreu Jazz Band']
-['Glenn Weyant'],"['Bud Shank/Bob Cooper', 'Juhani Nuorvala', 'Geri Galian', 'Dressed Up Animals', ""Tim Berne's Hard Cell""]"
-['Enrico Intra'],"['Gianni Marchetti', 'Stelvio Cipriani', 'Alessandro Alessandroni', 'Sandro Brugnolini', 'Piero Umiliani']"
-['Eduardo Mendonça'],"['Anna Canario', 'Bossa Nova All Stars', 'Gene Lees', 'Luca Mundaca', 'Túlio Borges']"
-['Greekboy'],"['moakz', 'mSdoS', 'Okee', 'Duoscience', 'Funkware']"
-['Barney Kessel'],"['Tal Farlow', 'Herb Ellis', 'Joe Pass', 'Pat Martino', 'Jim Hall']"
-['Enrico Intra'],"['Gianni Marchetti', 'Stelvio Cipriani', 'Alessandro Alessandroni', 'Sandro Brugnolini', 'Piero Umiliani']"
-['Eric Bouvelle'],"['Italian Ballroom', 'Ruggero Passarini', 'Eric Bouvelle Et Son Orchestre', 'Accordion', 'Lluis Cuadrench']"
-['Ivo Perelman'],"['Whit Dickey', 'Guillermo Gregorio', 'Daniel Carter', 'Franz Koglmann', 'Barry Guy']"
-"[""Mark O'Connor""]","['Bryan Sutton', 'David Grier', 'Strength In Numbers', 'Edgar Meyer', 'Tony Trischka']"
-['Jan Ptaszyn Wroblewski Sextet'],"['Kuba Więcek', 'Andrzej Kurylewicz Quintet', 'Andrzej Trzaskowski', 'Mieczysław Kosz', 'Jan Ptaszyn Wróblewski']"
-['PAX JAPONICA GROOVE'],"['note native', 'DAISHI DANCE x SHINJI TAKEDA', 'World Sketch', 'Coldfeet', 'DJ Kawasaki']"
-['Duke Ellington'],"['Duke Ellington & His Orchestra', 'Count Basie', 'Earl Hines', 'Louis Armstrong', 'Charles Mingus']"
-"['Eddie ""Cleanhead"" Vinson']","['Roy Milton', 'Joe Liggins', 'Eddie Shaw', 'Raful Neal', 'Julia Lee']"
-['Monika Hoffman'],"['Nannie Porres', 'Carin Lundin', 'Rune Ofwerman Trio', 'Ellen Andersson Quartet', 'Jesper norberg']"
-['Federico Casagrande'],"['Mike Moreno', 'Kalle Kalima', 'Lo Greco Bros', 'Adam Rogers', 'Eric Schaefer']"
-['Ruben Alves'],"['EU.CLIDES', 'Chong Kwong', ""Dino d'Santiago"", 'Rita Vian', 'Filipe Karlsson']"
-['İlhan İrem'],[]
-['Christine Tobin'],"['Liane Carroll', 'Anita Wardell', 'Trish Clowes', ""Jim Black's AlasNoAxis"", 'Trichotomy']"
-['Eugene Williams'],"['Ben Tankard', 'David Bauer', 'David Baroni', 'Shekinah Glory Ministry', 'William Murphy']"
-['Lucky Thompson'],"['Kenny Dorham', 'Gil Mellé', 'Don Byas', 'Jackie McLean', 'Illinois Jacquet']"
-['SaxoFOUR'],"['Wolfgang Puschnig', 'Vienna Art Orchestra', 'Christian Muthspiel', 'Gianluigi Trovesi & Gianni Coscia', 'Gabriele Mirabassi']"
-['Jimmy Forrest'],"['Gene Ammons', 'Coleman Hawkins', 'Hank Mobley', 'Sonny Criss', 'Booker Ervin']"
-['James Butler'],"['Restaurant Lounge Background Music', 'Florito', 'Kai French', 'Charles Snyder', 'Smooth Dinner Jazz']"
-['Greg Walker'],"['Royce Campbell', 'Terri England', 'Omar Sosa & Adam Rudolph', 'David Summerfield Orchester', 'Latin Island']"
-['James Butler'],"['Restaurant Lounge Background Music', 'Florito', 'Kai French', 'Charles Snyder', 'Smooth Dinner Jazz']"
-['Greg Walker'],"['Royce Campbell', 'Terri England', 'Omar Sosa & Adam Rudolph', 'David Summerfield Orchester', 'Latin Island']"
-['Greg Walker'],"['Royce Campbell', 'Terri England', 'Omar Sosa & Adam Rudolph', 'David Summerfield Orchester', 'Latin Island']"
-['Martin Liege'],"['Salina Cruz', 'James Butler', 'Colima', 'Caborca', 'Quartzside']"
-['James Butler'],"['Restaurant Lounge Background Music', 'Florito', 'Kai French', 'Charles Snyder', 'Smooth Dinner Jazz']"
-['Martin Liege'],"['Salina Cruz', 'James Butler', 'Colima', 'Caborca', 'Quartzside']"
-['Afro-Cuban All Stars'],"['Ibrahim Ferrer', 'Rubén González', 'Guillermo Portabales', 'Compay Segundo', 'Buena Vista Social Club']"
-['Jimmie Lunceford'],"['Fletcher Henderson', 'Earl Hines', 'Roy Eldridge', 'Charlie Barnet', 'Fletcher Henderson and His Orchestra']"
-['Dexter'],"['509-E', 'Snj', 'RZO', 'MV Bill', 'Sabotage']"
-['Túlio Borges'],"['Ryan Green and Scott Anderson', 'Caffeine Club', 'Yoshinari Nakamatsu', 'Anna Canario', 'Marcos Barnah']"
-['Mah Kouyaté'],"['Sékouba Bambino', 'Alou Sangaré', 'Ami Koita', 'Babáni Koné', 'Djeneba Seck']"
-['Shannon & Keast'],"['Meg Birch', 'Talisha Karrer', 'The Shaken Bakers', 'Nora & Will', 'Ginnie']"
-['Terry Dexter'],"['Tanya Blount', 'Trina & Tamara', 'Big Bub', 'Shae Jones', 'Coko']"
-['Kika Sprangers'],"['Yuri Honing Acoustic Quartet', 'Teus Nobel', 'Eric Vloeimans', 'Joost Lijbaart', 'Bruut!']"
-['Wendell Brunious'],"['The New Orleans Jazz Vipers', 'Big Chief Monk Boudreaux', 'Huey ""Piano"" Smith', 'John Boutté', 'Albert Burbank']"
-['David Finck'],"['Eric Chacón', 'Tobias Stavngaard', 'Shane Hampsheir', 'Jeremy Lister', 'Fabian Kallerdahl']"
-['Katie Noonan'],"['Clare Bowditch', 'Clare Bowditch and The Feeding Set', 'Kate Ceberano', 'Deborah Conway', 'Sophie Koh']"
-['Joshua Redman Quartet'],"['Joshua Redman', 'Brad Mehldau Trio', 'Chris Potter', 'Michael Brecker', 'John Scofield']"
-['Instrumental Jazz Music Ambient'],"['Night-Time Jazz', 'GOOD MORNING MUSIC', 'French Cafe Music', 'Good Morning Jazz Cafe', 'Jazz Piano']"
-['Al Jolson'],"['Paul Whiteman', 'Gene Austin', 'Ruth Etting', 'Sammy Davis, Jr.', 'Bessie Smith']"
-['California Ramblers'],"['Phil Baxter and His Orchestra', ""Dixieland Bull's Band"", 'Carolina Club Orchestra', 'The Melody Sheiks', 'Jazzenodians']"
-['Lina Nyberg'],"['Isabella Lundgren', 'Vivian Buczek', 'Ellas Kapell', 'Claes Janson', 'Ellen Andersson']"
-['Peter Szendofi'],"['Doug Johns', 'Alex Bershadsky', 'Luke Vajsar', 'The Kristin Korb/Todd Johnson Trio', 'Simon Little']"
-['Roger Wolfe Kahn'],"['Charlie Spivak', 'Maurice Winnick', 'Lew Stone & His Band', 'Jack Hylton & His Orchestra', 'Hal Kemp and his Orchestra']"
-['The Jazz Crusaders'],"['The Crusaders', 'Les McCann', 'Lou Donaldson', 'Joe Sample', 'Jimmy Smith']"
-['Alexey Kruglov'],"['Алексей Круглов', 'The Ganelin Trio', 'Plaistow', 'The Vandermark 5', 'Tim Berne']"
-['Charles Mingus'],"['John Coltrane', 'Thelonious Monk', 'Miles Davis', 'Eric Dolphy', 'Art Blakey & The Jazz Messengers']"
-['Monika Hoffman'],"['Nannie Porres', 'Carin Lundin', 'Rune Ofwerman Trio', 'Ellen Andersson Quartet', 'Jesper norberg']"
-['Christian Garrick'],"['Laurent Zeller', 'Sophy Purnell', 'Andrew James Simmons', 'Richard Wilkinson', 'Joshua Pacey']"
-['Andreas Tschopp'],"['J.C. Higginbotham (w. Louis Armstrong)', 'Allen Hermann', 'yoichi murata', 'Marshall Gilkes Quartet', 'Vincent Nilsson']"
-['Emma Pask'],"['The Idea of North', 'Katie Noonan', 'Vince Jones', 'Kate Ceberano', 'Grace Knight']"
-['Andrezz'],"['Scott Allen', 'Pennygiles', 'Pouyah', 'Soul Culture', 'mSdoS']"
-['Vangelis Katsoulis'],"['Vito Ricci', 'Akis', 'Mkwaju Ensemble', 'A.R.T. Wilson', 'Motohiko Hamase']"
-['Barre Phillips'],"['Bennie Maupin', 'Terje Rypdal', 'Paul Bley', 'John Surman', 'Dave Holland']"
-['J. C. Higginbotham'],[]
-['Mari Nakamoto'],"['Ayako Hosokawa', 'Isao Suzuki Quartet', 'Tsuyoshi Yamamoto', 'Isao Suzuki Trio', 'Isao Suzuki']"
-['Mala Traza'],[]
-['Hubert Deuringer'],"['Heinz Munsonius', 'Mario Battaini', 'Will Glahe', 'Kai Warner', 'The Fantasy Strings']"
-['Marilyn Scott'],"['Jeanie Bryson', 'Eden Atwood', 'Amanda Carr', 'Sherry Petta', 'Carla Cook']"
-['Monika Hoffman'],"['Nannie Porres', 'Carin Lundin', 'Rune Ofwerman Trio', 'Ellen Andersson Quartet', 'Jesper norberg']"
-['Memphis Jazzers'],"['Andy Kirk & His Twelve Clouds of Joys', 'The Missourians', 'King Oliver & His Orchestra', ""Bennie Moten's Kansas City Orchestra"", ""McKinney's Cotton Pickers""]"
-['Kirk Lightsey'],"['Mary Lou Willliams', 'Armen Donelian', 'Laszlo Gardony', 'Marius Nordal', 'Karel Boehlee']"
-['Somewhere Off Jazz Street'],"['Manet', 'Lowering', 'Swami LatePlate', 'Dale Cooper Quartet & The Dictaphones', 'Trigg & Gusset']"
-['David Hazeltine Trio'],"['Romantic Jazz Trio', 'Cedar Walton Trio', 'Roma Trio', 'Eddie Higgins Quartet', ""John Di Martino's Romantic Jazz Trio""]"
-['Steiger'],"['SCHNTZL', 'MDCIII', 'De Beren Gieren', 'PAARD.', 'BeraadGeslagen']"
-['Akiko Tsuruga'],"['Tony Monaco', 'Deep Blue Organ Trio', 'Mike LeDonne', 'Brian Charette', 'Melvin Rhyne']"
-['Claude Cozens Trio'],[]
-['Aga Zaryan'],"['Muzykoterapia', 'Dorota Miśkiewicz', 'Możdżer Danielsson Fresco', 'Gaba Kulka', 'Katarzyna Groniec']"
-['Ole Swing'],"['Afrodisian Orchestra', 'Enriquito', 'Tchavolo Schmitt', 'Patax', 'Sant Andreu Jazz Band']"
-['Herbie Mann'],"['Bobbi Humphrey', 'The Horace Silver Quintet', 'Hubert Laws', 'Jimmy Smith', 'Stan Getz']"
-['Carme Canela'],"['Kitty Margolis', 'Katrine Madsen', 'Adele Sebastian', 'Gail Pettis', 'Sathima Bea Benjamin']"
-['Martin Liege'],"['Salina Cruz', 'James Butler', 'Colima', 'Caborca', 'Quartzside']"
-['James Butler'],"['Restaurant Lounge Background Music', 'Florito', 'Kai French', 'Charles Snyder', 'Smooth Dinner Jazz']"
-['Cab Calloway & His Orchestra'],"['Cab Calloway', 'Artie Shaw and His Orchestra', 'Benny Goodman', 'Count Basie & His Orchestra', 'Count Basie']"
-"['Earth, Wind & Fire']","['Kool & the Gang', 'Brothers Johnson', 'Ohio Players', 'Commodores', 'The Emotions']"
-['Alberto Tarin'],"['TOMMY TORNADO', 'The Oldians', 'Skaks', 'Dean Fraser', 'reggae jazz project']"
-['Jeanette Lindström'],"['Susi Hyldgaard', 'Muriel Zoe', 'Sonia Cat-Berro', 'Rebecka Törnqvist', 'Anders Widmark']"
-['Oscar Aleman'],[]
-['Michiel Borstlap'],"['Christian Janssen', 'Elias Kiefer', 'Matteo Myderwyk', 'The Masked Pianoman', 'Büşra Kayıkçı']"
-['David Manuhutu'],"['Kevin Yosua', 'Mahesa Santoso', 'Sri Hanuraga', 'Tommy Pratomo', 'the DAUNAS']"
-['Bebo Valdés'],"['Chucho Valdés', 'Cachao', 'Rubén González', ""Paquito D'Rivera"", 'Michel Camilo']"
-['Oscar Aleman'],[]
-['Charles Schillings'],"['Big Muff', 'Variety Lab', 'Doctor Rockit', 'Stéphane Pompougnac', 'Rouge Rouge']"
-['Mani Deïz'],"['Cenza', 'Dany Dan', 'Mani Deiz', 'Anton Serra', 'The Hop']"
-['IAMPAUL'],"['Alecs DeLarge', 'Lito Akari', 'Don Philippe', 'Gnarly', 'UKDD']"
-['The Tepping Trio'],"['Melaine Susiane', 'Simone Du Beke Trio', 'The Duck Quartet', 'The Fure Trio', 'The Pet Trio']"
-['Fletcher Henderson & His Orchestra'],[]
-['Ahmad Jamal'],"['Ahmad Jamal Trio', 'Bud Powell', 'Hank Jones', 'Oscar Peterson', 'McCoy Tyner']"
-['Desidério Lázaro'],"['João Firmino', 'João Hasselberg', 'Nelson Cascais', 'João Firmino Quinteto', 'Bernardo Moreira Sexteto']"
-['Duoscience'],"['mSdoS', 'Intelligent Manners', 'Rowpieces', 'Flowrian', 'DJ Clart']"
-['Shelly Manne'],"['Bud Shank', 'Hampton Hawes', 'Gerry Mulligan Quartet', 'The Three Sounds', 'Howard McGhee']"
-['Brian Tarquin'],"['Duncan Millar', 'Soundscape UK', 'Gota', 'The Sax Pack', 'Bob Mamet']"
-['Ella Fitzgerald'],"['Ella Fitzgerald & Louis Armstrong', 'Sarah Vaughan', 'Billie Holiday', 'Dinah Washington', 'Louis Armstrong']"
-['Sumkali'],[]
-['The MaddGeek'],"['kid lafixa', 'Gradozero', 'hisotsu', 'jesb', 'Eclectic Elephants']"
-['TOKYO SHIOKOUJI'],[]
-['Stefano Di Battista'],"['Monty Alexander', 'Melissa Aldana', 'Chris Potter', 'Paolo Fresu', 'Erik Truffaz']"
-['¡Cubanismo!'],"['Mi Son', 'Vieja Trova Santiaguera', 'Los Guaracheros De Oriente', 'NG La Banda', 'Barbarito Torres']"
-['Bunk Johnson'],"['Kid Ory', 'Muggsy Spanier', 'New Orleans Rhythm Kings', 'Red Nichols', 'Wild Bill Davison']"
-['Edward Vesala Ensemble'],"['Matti Järvinen', 'Isokynä Lindholm', 'Jukka Tolonen', 'Eero Koivistoinen', 'Piirpauke']"
-['Mat Mathews'],"['Quintet Johnny Meyer', 'Le Quartette swing Emile Carrara', 'Tony Murena Et Son Ensemble Swing', 'Cornell Smelser and His Orchestra', 'Art Van Damme']"
-['Susanne Regen'],"['John Flame', 'Gregory Aigersson', 'Victor Sommers', 'Philip De Blue', 'Daniel Philo']"
-['Pietro Tonolo'],"['Danilo Rea', 'Rita Marcotulli', 'Doctor 3', 'Rosario Giuliani', 'Roberto Gatto']"
-['Luiz Ayrao'],"['Paulo Diniz', 'Márcio Greyck', 'Noite Ilustrada', 'Benito Di Paula', 'Agepê']"
-['TICO DE MORAES'],"['Brazil XXI', 'Nova Bossa Ltd.', 'The Big Bossa', 'Eduardo Braga', 'Imajjine']"
-"['Medeski, Martin & Wood']",[]
-['Arturo Sandoval'],"['Maynard Ferguson', 'Chucho Valdés', 'Poncho Sanchez', ""Paquito D'Rivera"", 'Roy Hargrove']"
-"[""B's Bees""]",[]
-['Jackie McLean'],"['Lee Morgan', 'Hank Mobley', 'Booker Ervin', 'Tina Brooks', 'Andrew Hill']"
-['Jack Hylton & His Orchestra'],"['Lew Stone & His Band', 'Ambrose & His Orchestra', 'Jack Hylton', 'Roger Wolfe Kahn', 'Hal Kemp and his Orchestra']"
-['Bora Çeliker'],"['Matt Carmichael', 'Kerem Görsev', 'Cenk Erdoğan', 'Elif Çağlar', 'Lee EunMi']"
-['Ohmega Watts'],"['Othello', 'Giant Panda', 'Crown City Rockers', 'Y Society', 'Surreal & The Sound Providers']"
-"['YoYo the ""Pianoman""']","['MEGAPTERAS', 'K.Yashiro', 'Emphasis On Jazz', 'May Inoue', '菅野邦彦']"
-['Kentaro Takizawa'],"['Coldfeet', 'Chieko Kinbara', 'GTS', 'DJ Kawasaki', 'Studio Apartment']"
-['Herbie Mann'],"['Bobbi Humphrey', 'The Horace Silver Quintet', 'Hubert Laws', 'Jimmy Smith', 'Stan Getz']"
-['Mel Tormé'],"['Vic Damone', 'Peggy Lee', ""Anita O'Day"", 'Tony Bennett', 'Billy Eckstine']"
-['Funkee Boy'],"['Jeanette Harris', 'Gail Jhonson', 'Elan Trotman', 'Brian Lenair', 'Shaun Labelle']"
-['Sugarwork'],"['Jimetta Rose & The Voices Of Creation', 'RAH & The Ruffcats', 'Norman Willmore', 'Baby Rose (w/ BADBADNOTGOOD)', 'Orlas']"
-['Denise King'],"['Papik, Fabio Tullio', 'Karen Souza', 'Eve St. Jones', 'Papik', 'Ely Bruna']"
-['Chano Dominguez'],[]
-['Javier Colina'],"['Chano Domínguez', 'Bebo Valdes & Chucho Valdes', 'Ignasi Terraza Trio', 'Tete Montoliu', 'Bebo & Colina']"
-['Magalí Sare'],"['Alex & Julia', 'Xarim Aresté', 'Nico Roig', 'Lluís Cabot', 'Guillem Ramisa']"
-['Dani Nel·lo'],"['Rudy Albano', 'Salerosa', 'Latin Sampling', 'Thomas Rotter Quartet', 'Dean Schmidt']"
-['Chano Dominguez'],[]
-['Servando Rascón'],"['Freddy Marichal', 'Tank Trio', 'Amanda Tovalin', ""Na'rimbo"", 'Joaquina Mertz']"
-['Beny Moré'],"['Rubén González', 'La Sonora Matancera', 'Cachao', 'Bienvenido Granda', 'Orquesta Aragón']"
-['Orquesta Aragón'],"['Los Van Van', 'Celia Cruz', 'Sierra Maestra', 'Ismael Miranda', 'La Sonora Matancera']"
-['Wayne Gorbea'],"['Orquesta La Conspiración', 'Ray Perez', 'ORQUESTA SABOTAJE', 'Henry Fiol', 'Tommy Olivencia y Su Orquesta']"
-['Joe Cuba'],"['Joe Cuba Sextet', 'Justo Betancourt', 'Mon Rivera', 'Ismael Rivera', 'La Playa Sextet']"
-['Joe Cuba'],"['Joe Cuba Sextet', 'Justo Betancourt', 'Mon Rivera', 'Ismael Rivera', 'La Playa Sextet']"
-['Gary Burton'],"['Chick Corea', 'John Scofield', 'Pat Metheny Group', 'John Abercrombie', 'Pat Metheny']"
-['Bobby Darin'],"['Dean Martin', 'Sammy Davis, Jr.', 'Perry Como', 'The Platters', 'Wayne Newton']"
-['Jestofunk'],"['Brooklyn Funk Essentials', 'STR4TA', 'Uptown Funk Empire', 'The Brand New Heavies', 'Chris Joss']"
-['Muff'],"['The Wednesdays', 'Nina Pušlar', 'Alya', 'Vlado Kreslin', 'Neisha']"
-['Harry James'],"['Tommy Dorsey', 'Harry James & His Orchestra', 'Glenn Miller', 'The Pied Pipers', 'Benny Goodman']"
-['Carlos Lyra'],"['Sylvia Telles', 'Wanda De Sah', 'Johnny Alf', 'Pery Ribeiro', 'Os Cariocas']"
-['John Burnsby'],"['Olivia Keast', 'Talisha Karrer', 'Meg Birch', 'The Shaken Bakers', 'Shannon & Keast']"
-"['Henry ""Red"" Allen']","['Muggsy Spanier', 'Kid Ory', 'Bunk Johnson', 'Bud Freeman', 'Hot Lips Page']"
-['Tito Rodriguez'],"['Rolando Laserie', 'La Sonora Matancera', 'Cheo Feliciano', 'Héctor Lavoe', 'Ismael Rivera']"
-['Luciana Souza'],"['Stacey Kent', 'Dianne Reeves', 'Cécile McLorin Salvant', 'Eliane Elias', 'Tierney Sutton']"
-['Machito'],"['Sabu', 'Tito Puente', 'Willie Bobo', 'Mongo Santamaria', 'Poncho Sanchez']"
-['Howard McGhee'],"['Hampton Hawes', 'Roy Haynes', 'Jackie McLean', 'Woody Shaw', 'Harold Land']"
-['Coffee House Jazz Club'],"['Outdoor Piano Party', 'Coffee Shop Swingers', 'Chill Out Dinner Jazz', 'Dinner Time Romantic Jazz Music', 'Paris Jazz Coffee Lounge']"
-['Dale Burbeck'],"['Mitch Joy', 'John Devson', 'Marcus Daves', 'Elena Torne', 'Glenn Milton']"
-['Rob Burke'],"['Julien Wilson', 'Jonathan Zwartz', 'Don Burrows', 'Andrea Keller', 'Jacam Manricks']"
-['Luigi Vitale'],"['Il Mago del Gelato', 'Coca Puma', 'Delicatoni', 'Bassolino', 'Alberto Fortis']"
-['Beny Moré'],"['Rubén González', 'La Sonora Matancera', 'Cachao', 'Bienvenido Granda', 'Orquesta Aragón']"
-['Tubby Hayes'],"['Tubby Hayes Quartet', 'The Jazz Couriers', 'Don Rendell', 'Ronnie Scott', 'The Tubby Hayes Quintet']"
-['Kendraka'],"['Tarun Balani', 'Tajdar Junaid', 'Rajna Swaminathan', 'Something Relevant', 'Till Apes']"
-['King Curtis'],"['Carla Thomas', 'Rufus Thomas', 'Wilson Pickett', 'Sister Rosetta Tharpe', 'Jimmy McGriff']"
-['Joel Lyssarides'],"['Eric Legnini Trio', 'Oded Tzur', 'Brian Blade & The Fellowship Band', 'Aldo Romano', 'Michael Wollny']"
-['Lemongrass'],"['Weathertunes', 'Jens Buchert', 'Five Seasons', 'Sine', 'Michael E']"
-['Urbie Green'],"['Carl Fontana', 'John Allred And Wycliffe Gordon', 'Frank Rosolino', 'Jiggs Whigham', 'Bill Watrous']"
-['Miriam Makeba'],"['Brenda Fassie', 'Letta Mbulu', 'Ladysmith Black Mambazo', 'Hugh Masekela', 'Angélique Kidjo']"
-['Billy Eckstine'],"['Nat King Cole', 'Vic Damone', 'Mel Tormé', 'Kay Starr', 'Sarah Vaughan']"
-['Limid'],"['capuze', 'schubidoobie', 'freche gesellschaft', 'Terfak', 'Punkt & Koma']"
-['Luca Flores'],"['Danilo Rea', 'Quintorigo', 'Doctor 3', 'Petra Magoni & Ferruccio Spinetti', 'Rita Marcotulli']"
-['Illinois Jacquet'],"['Gene Ammons', 'Ben Webster', 'Coleman Hawkins', 'Roy Eldridge', 'Johnny Hodges']"
-['Living Room'],"['Chill Beats Music', 'Tullio', 'Schwarz & Funk', 'Bluewerks', 'Ingo Herrmann']"
-['Mundell Lowe'],"['Dempsey Wright', 'The Bernie Nerow Trio', 'Joy Bryan', 'Oscar Moore', 'Buddy Collette']"
-['Sarah Vaughan'],"['Dinah Washington', 'Ella Fitzgerald', 'Carmen McRae', 'Nancy Wilson', ""Anita O'Day""]"
-['Stefan Keller'],[]
-['Bola Sete'],"['Vince Guaraldi & Bola Sete', 'Zimbo Trio', 'Baden Powell', 'Tamba 4', 'Milton Banana Trio']"
-['Mongo Santamaria'],"['Ray Barretto', 'Willie Bobo', 'Eddie Palmieri', 'Tito Puente', 'Poncho Sanchez']"
-['Dale Burbeck'],"['Mitch Joy', 'John Devson', 'Marcus Daves', 'Elena Torne', 'Glenn Milton']"
-['Thelonious Coltrane'],"['Remulak', 'otesla', 'Donkeychote', 'yeyts.', 'Fed Nance']"
-['Konstantin Klashtorni'],"['Kool&Klean', 'Brian Simpson', 'Jonathan Fritzén', 'Chillaxonic', 'Vincent Ingala']"
-['James Butler'],"['Restaurant Lounge Background Music', 'Florito', 'Kai French', 'Charles Snyder', 'Smooth Dinner Jazz']"
+id_genero,artista,similar
+2,Jacky Terrasson,Bill Charlap Trio
+2,Jacky Terrasson,Cyrus Chestnut
+2,Jacky Terrasson,Eric Legnini Trio
+2,Jimmy Dorsey,Tommy Dorsey and His Orchestra
+2,Jimmy Dorsey,Tommy Dorsey & His Orchestra
+2,Jimmy Dorsey,Glenn Miller
+2,ORQUESTRA DE JAZZ DE GALICIA,Real Filharmonia de Galicia
+2,ORQUESTRA DE JAZZ DE GALICIA,Quinito Mourelle
+2,ORQUESTRA DE JAZZ DE GALICIA,Atlantic Bridge Jazz Project
+2,Candy Dulfer,Jessy J
+2,Candy Dulfer,Brian Simpson
+2,Candy Dulfer,Cindy Bradley
+2,Jimmy Dorsey,Tommy Dorsey and His Orchestra
+2,Jimmy Dorsey,Tommy Dorsey & His Orchestra
+2,Jimmy Dorsey,Glenn Miller
+2,Oscar Peterson Trio,Oscar Peterson
+2,Oscar Peterson Trio,Bill Evans Trio
+2,Oscar Peterson Trio,Ben Webster & Oscar Peterson
+2,Barry Likumahuwa,Barry Likumahuwa Project
+2,Barry Likumahuwa,Soulvibe
+2,Barry Likumahuwa,Parkdrive
+2,Maynard Ferguson,Gordon Goodwin's Big Phat Band
+2,Maynard Ferguson,Arturo Sandoval
+2,Maynard Ferguson,Woody Herman
+2,Juliana Cortes,Ná Ozzetti
+2,Juliana Cortes,Vinícius Calderoni
+2,Juliana Cortes,César Lacerda
+2,Mezz Mezzrow,Buster Bailey
+2,Mezz Mezzrow,Bud Freeman
+2,Mezz Mezzrow,Barney Bigard
+2,Beny Moré,Rubén González
+2,Beny Moré,La Sonora Matancera
+2,Beny Moré,Cachao
+2,Alice Lamb,Josh Franklin
+2,Alice Lamb,Karizma Duo
+2,Alice Lamb,Danielle Walsom
+2,Phil Woods,Sonny Criss
+2,Phil Woods,Sonny Stitt
+2,Phil Woods,Zoot Sims
+2,Massimo Faraò,Beegie Adair
+2,Massimo Faraò,Nocturnal Spirits
+2,Massimo Faraò,Peter Sandberg
+2,Greg Walker,Royce Campbell
+2,Greg Walker,Terri England
+2,Greg Walker,Omar Sosa & Adam Rudolph
+2,SaxoFOUR,Wolfgang Puschnig
+2,SaxoFOUR,Vienna Art Orchestra
+2,SaxoFOUR,Christian Muthspiel
+2,Snowboy,Driza Bone
+2,Snowboy,Emperors New Clothes
+2,Snowboy,Leena Conquest
+2,"David ""Fathead"" Newman",Ricky Ford
+2,"David ""Fathead"" Newman",Houston Person & Ron Carter
+2,"David ""Fathead"" Newman",Antoine Roney
+2,Ole Amund Gjersvik,Giuseppe Millaci
+2,Ole Amund Gjersvik,Freddie Colonal
+2,Ole Amund Gjersvik,ピアノジャズ 贅沢
+2,Jan Ptaszyn Wroblewski Sextet,Kuba Więcek
+2,Jan Ptaszyn Wroblewski Sextet,Andrzej Kurylewicz Quintet
+2,Jan Ptaszyn Wroblewski Sextet,Andrzej Trzaskowski
+2,Raphael Wressnig,Yihequan
+2,Raphael Wressnig,"Paolo ""Apollo"" Negri"
+2,Raphael Wressnig,Raphael Wressnig & Alex Schultz
+2,Scheen Jazzorkester,Gard Nilssen's Supersonic Orchestra
+2,Scheen Jazzorkester,Paal Nilssen-Love Circus
+2,Scheen Jazzorkester,Anne Efternøler
+2,Giulia Valle Trio,Apartamentos Acapulco
+2,Woody Herman,Woody Herman & His Orchestra
+2,Woody Herman,Stan Kenton
+2,Woody Herman,Benny Carter
+2,Octavio Bugni,Sant Andreu Jazz Band
+2,Glenn Weyant,Bud Shank/Bob Cooper
+2,Glenn Weyant,Juhani Nuorvala
+2,Glenn Weyant,Geri Galian
+2,Enrico Intra,Gianni Marchetti
+2,Enrico Intra,Stelvio Cipriani
+2,Enrico Intra,Alessandro Alessandroni
+2,Eduardo Mendonça,Anna Canario
+2,Eduardo Mendonça,Bossa Nova All Stars
+2,Eduardo Mendonça,Gene Lees
+2,Greekboy,moakz
+2,Greekboy,mSdoS
+2,Greekboy,Okee
+2,Barney Kessel,Tal Farlow
+2,Barney Kessel,Herb Ellis
+2,Barney Kessel,Joe Pass
+2,Enrico Intra,Gianni Marchetti
+2,Enrico Intra,Stelvio Cipriani
+2,Enrico Intra,Alessandro Alessandroni
+2,Eric Bouvelle,Italian Ballroom
+2,Eric Bouvelle,Ruggero Passarini
+2,Eric Bouvelle,Eric Bouvelle Et Son Orchestre
+2,Ivo Perelman,Whit Dickey
+2,Ivo Perelman,Guillermo Gregorio
+2,Ivo Perelman,Daniel Carter
+2,Mark O'Connor,Bryan Sutton
+2,Mark O'Connor,David Grier
+2,Mark O'Connor,Strength In Numbers
+2,Jan Ptaszyn Wroblewski Sextet,Kuba Więcek
+2,Jan Ptaszyn Wroblewski Sextet,Andrzej Kurylewicz Quintet
+2,Jan Ptaszyn Wroblewski Sextet,Andrzej Trzaskowski
+2,PAX JAPONICA GROOVE,note native
+2,PAX JAPONICA GROOVE,DAISHI DANCE x SHINJI TAKEDA
+2,PAX JAPONICA GROOVE,World Sketch
+2,Duke Ellington,Duke Ellington & His Orchestra
+2,Duke Ellington,Count Basie
+2,Duke Ellington,Earl Hines
+2,"Eddie ""Cleanhead"" Vinson",Roy Milton
+2,"Eddie ""Cleanhead"" Vinson",Joe Liggins
+2,"Eddie ""Cleanhead"" Vinson",Eddie Shaw
+2,Monika Hoffman,Nannie Porres
+2,Monika Hoffman,Carin Lundin
+2,Monika Hoffman,Rune Ofwerman Trio
+2,Federico Casagrande,Mike Moreno
+2,Federico Casagrande,Kalle Kalima
+2,Federico Casagrande,Lo Greco Bros
+2,Ruben Alves,EU.CLIDES
+2,Ruben Alves,Chong Kwong
+2,Ruben Alves,Dino d'Santiago
+2,Christine Tobin,Liane Carroll
+2,Christine Tobin,Anita Wardell
+2,Christine Tobin,Trish Clowes
+2,Eugene Williams,Ben Tankard
+2,Eugene Williams,David Bauer
+2,Eugene Williams,David Baroni
+2,Lucky Thompson,Kenny Dorham
+2,Lucky Thompson,Gil Mellé
+2,Lucky Thompson,Don Byas
+2,SaxoFOUR,Wolfgang Puschnig
+2,SaxoFOUR,Vienna Art Orchestra
+2,SaxoFOUR,Christian Muthspiel
+2,Jimmy Forrest,Gene Ammons
+2,Jimmy Forrest,Coleman Hawkins
+2,Jimmy Forrest,Hank Mobley
+2,James Butler,Restaurant Lounge Background Music
+2,James Butler,Florito
+2,James Butler,Kai French
+2,Greg Walker,Royce Campbell
+2,Greg Walker,Terri England
+2,Greg Walker,Omar Sosa & Adam Rudolph
+2,James Butler,Restaurant Lounge Background Music
+2,James Butler,Florito
+2,James Butler,Kai French
+2,Greg Walker,Royce Campbell
+2,Greg Walker,Terri England
+2,Greg Walker,Omar Sosa & Adam Rudolph
+2,Greg Walker,Royce Campbell
+2,Greg Walker,Terri England
+2,Greg Walker,Omar Sosa & Adam Rudolph
+2,Martin Liege,Salina Cruz
+2,Martin Liege,James Butler
+2,Martin Liege,Colima
+2,James Butler,Restaurant Lounge Background Music
+2,James Butler,Florito
+2,James Butler,Kai French
+2,Martin Liege,Salina Cruz
+2,Martin Liege,James Butler
+2,Martin Liege,Colima
+2,Afro-Cuban All Stars,Ibrahim Ferrer
+2,Afro-Cuban All Stars,Rubén González
+2,Afro-Cuban All Stars,Guillermo Portabales
+2,Jimmie Lunceford,Fletcher Henderson
+2,Jimmie Lunceford,Earl Hines
+2,Jimmie Lunceford,Roy Eldridge
+2,Dexter,509-E
+2,Dexter,Snj
+2,Dexter,RZO
+2,Túlio Borges,Ryan Green and Scott Anderson
+2,Túlio Borges,Caffeine Club
+2,Túlio Borges,Yoshinari Nakamatsu
+2,Mah Kouyaté,Sékouba Bambino
+2,Mah Kouyaté,Alou Sangaré
+2,Mah Kouyaté,Ami Koita
+2,Shannon & Keast,Meg Birch
+2,Shannon & Keast,Talisha Karrer
+2,Shannon & Keast,The Shaken Bakers
+2,Terry Dexter,Tanya Blount
+2,Terry Dexter,Trina & Tamara
+2,Terry Dexter,Big Bub
+2,Kika Sprangers,Yuri Honing Acoustic Quartet
+2,Kika Sprangers,Teus Nobel
+2,Kika Sprangers,Eric Vloeimans
+2,Wendell Brunious,The New Orleans Jazz Vipers
+2,Wendell Brunious,Big Chief Monk Boudreaux
+2,Wendell Brunious,"Huey ""Piano"" Smith"
+2,David Finck,Eric Chacón
+2,David Finck,Tobias Stavngaard
+2,David Finck,Shane Hampsheir
+2,Katie Noonan,Clare Bowditch
+2,Katie Noonan,Clare Bowditch and The Feeding Set
+2,Katie Noonan,Kate Ceberano
+2,Joshua Redman Quartet,Joshua Redman
+2,Joshua Redman Quartet,Brad Mehldau Trio
+2,Joshua Redman Quartet,Chris Potter
+2,Instrumental Jazz Music Ambient,Night-Time Jazz
+2,Instrumental Jazz Music Ambient,GOOD MORNING MUSIC
+2,Instrumental Jazz Music Ambient,French Cafe Music
+2,Al Jolson,Paul Whiteman
+2,Al Jolson,Gene Austin
+2,Al Jolson,Ruth Etting
+2,California Ramblers,Phil Baxter and His Orchestra
+2,California Ramblers,Dixieland Bull's Band
+2,California Ramblers,Carolina Club Orchestra
+2,Lina Nyberg,Isabella Lundgren
+2,Lina Nyberg,Vivian Buczek
+2,Lina Nyberg,Ellas Kapell
+2,Peter Szendofi,Doug Johns
+2,Peter Szendofi,Alex Bershadsky
+2,Peter Szendofi,Luke Vajsar
+2,Roger Wolfe Kahn,Charlie Spivak
+2,Roger Wolfe Kahn,Maurice Winnick
+2,Roger Wolfe Kahn,Lew Stone & His Band
+2,The Jazz Crusaders,The Crusaders
+2,The Jazz Crusaders,Les McCann
+2,The Jazz Crusaders,Lou Donaldson
+2,Alexey Kruglov,Алексей Круглов
+2,Alexey Kruglov,The Ganelin Trio
+2,Alexey Kruglov,Plaistow
+2,Charles Mingus,John Coltrane
+2,Charles Mingus,Thelonious Monk
+2,Charles Mingus,Miles Davis
+2,Monika Hoffman,Nannie Porres
+2,Monika Hoffman,Carin Lundin
+2,Monika Hoffman,Rune Ofwerman Trio
+2,Christian Garrick,Laurent Zeller
+2,Christian Garrick,Sophy Purnell
+2,Christian Garrick,Andrew James Simmons
+2,Andreas Tschopp,J.C. Higginbotham (w. Louis Armstrong)
+2,Andreas Tschopp,Allen Hermann
+2,Andreas Tschopp,yoichi murata
+2,Emma Pask,The Idea of North
+2,Emma Pask,Katie Noonan
+2,Emma Pask,Vince Jones
+2,Andrezz,Scott Allen
+2,Andrezz,Pennygiles
+2,Andrezz,Pouyah
+2,Vangelis Katsoulis,Vito Ricci
+2,Vangelis Katsoulis,Akis
+2,Vangelis Katsoulis,Mkwaju Ensemble
+2,Barre Phillips,Bennie Maupin
+2,Barre Phillips,Terje Rypdal
+2,Barre Phillips,Paul Bley
+2,Mari Nakamoto,Ayako Hosokawa
+2,Mari Nakamoto,Isao Suzuki Quartet
+2,Mari Nakamoto,Tsuyoshi Yamamoto
+2,Hubert Deuringer,Heinz Munsonius
+2,Hubert Deuringer,Mario Battaini
+2,Hubert Deuringer,Will Glahe
+2,Marilyn Scott,Jeanie Bryson
+2,Marilyn Scott,Eden Atwood
+2,Marilyn Scott,Amanda Carr
+2,Monika Hoffman,Nannie Porres
+2,Monika Hoffman,Carin Lundin
+2,Monika Hoffman,Rune Ofwerman Trio
+2,Memphis Jazzers,Andy Kirk & His Twelve Clouds of Joys
+2,Memphis Jazzers,The Missourians
+2,Memphis Jazzers,King Oliver & His Orchestra
+2,Kirk Lightsey,Mary Lou Willliams
+2,Kirk Lightsey,Armen Donelian
+2,Kirk Lightsey,Laszlo Gardony
+2,Somewhere Off Jazz Street,Manet
+2,Somewhere Off Jazz Street,Lowering
+2,Somewhere Off Jazz Street,Swami LatePlate
+2,David Hazeltine Trio,Romantic Jazz Trio
+2,David Hazeltine Trio,Cedar Walton Trio
+2,David Hazeltine Trio,Roma Trio
+2,Steiger,SCHNTZL
+2,Steiger,MDCIII
+2,Steiger,De Beren Gieren
+2,Akiko Tsuruga,Tony Monaco
+2,Akiko Tsuruga,Deep Blue Organ Trio
+2,Akiko Tsuruga,Mike LeDonne
+2,Aga Zaryan,Muzykoterapia
+2,Aga Zaryan,Dorota Miśkiewicz
+2,Aga Zaryan,Możdżer Danielsson Fresco
+2,Ole Swing,Afrodisian Orchestra
+2,Ole Swing,Enriquito
+2,Ole Swing,Tchavolo Schmitt
+2,Herbie Mann,Bobbi Humphrey
+2,Herbie Mann,The Horace Silver Quintet
+2,Herbie Mann,Hubert Laws
+2,Carme Canela,Kitty Margolis
+2,Carme Canela,Katrine Madsen
+2,Carme Canela,Adele Sebastian
+2,Martin Liege,Salina Cruz
+2,Martin Liege,James Butler
+2,Martin Liege,Colima
+2,James Butler,Restaurant Lounge Background Music
+2,James Butler,Florito
+2,James Butler,Kai French
+2,Cab Calloway & His Orchestra,Cab Calloway
+2,Cab Calloway & His Orchestra,Artie Shaw and His Orchestra
+2,Cab Calloway & His Orchestra,Benny Goodman
+2,"Earth, Wind & Fire",Kool & the Gang
+2,"Earth, Wind & Fire",Brothers Johnson
+2,"Earth, Wind & Fire",Ohio Players
+2,Alberto Tarin,TOMMY TORNADO
+2,Alberto Tarin,The Oldians
+2,Alberto Tarin,Skaks
+2,Jeanette Lindström,Susi Hyldgaard
+2,Jeanette Lindström,Muriel Zoe
+2,Jeanette Lindström,Sonia Cat-Berro
+2,Michiel Borstlap,Christian Janssen
+2,Michiel Borstlap,Elias Kiefer
+2,Michiel Borstlap,Matteo Myderwyk
+2,David Manuhutu,Kevin Yosua
+2,David Manuhutu,Mahesa Santoso
+2,David Manuhutu,Sri Hanuraga
+2,Bebo Valdés,Chucho Valdés
+2,Bebo Valdés,Cachao
+2,Bebo Valdés,Rubén González
+2,Charles Schillings,Big Muff
+2,Charles Schillings,Variety Lab
+2,Charles Schillings,Doctor Rockit
+2,Mani Deïz,Cenza
+2,Mani Deïz,Dany Dan
+2,Mani Deïz,Mani Deiz
+2,IAMPAUL,Alecs DeLarge
+2,IAMPAUL,Lito Akari
+2,IAMPAUL,Don Philippe
+2,The Tepping Trio,Melaine Susiane
+2,The Tepping Trio,Simone Du Beke Trio
+2,The Tepping Trio,The Duck Quartet
+2,Ahmad Jamal,Ahmad Jamal Trio
+2,Ahmad Jamal,Bud Powell
+2,Ahmad Jamal,Hank Jones
+2,Desidério Lázaro,João Firmino
+2,Desidério Lázaro,João Hasselberg
+2,Desidério Lázaro,Nelson Cascais
+2,Duoscience,mSdoS
+2,Duoscience,Intelligent Manners
+2,Duoscience,Rowpieces
+2,Shelly Manne,Bud Shank
+2,Shelly Manne,Hampton Hawes
+2,Shelly Manne,Gerry Mulligan Quartet
+2,Brian Tarquin,Duncan Millar
+2,Brian Tarquin,Soundscape UK
+2,Brian Tarquin,Gota
+2,Ella Fitzgerald,Ella Fitzgerald & Louis Armstrong
+2,Ella Fitzgerald,Sarah Vaughan
+2,Ella Fitzgerald,Billie Holiday
+2,The MaddGeek,kid lafixa
+2,The MaddGeek,Gradozero
+2,The MaddGeek,hisotsu
+2,Stefano Di Battista,Monty Alexander
+2,Stefano Di Battista,Melissa Aldana
+2,Stefano Di Battista,Chris Potter
+2,¡Cubanismo!,Mi Son
+2,¡Cubanismo!,Vieja Trova Santiaguera
+2,¡Cubanismo!,Los Guaracheros De Oriente
+2,Bunk Johnson,Kid Ory
+2,Bunk Johnson,Muggsy Spanier
+2,Bunk Johnson,New Orleans Rhythm Kings
+2,Edward Vesala Ensemble,Matti Järvinen
+2,Edward Vesala Ensemble,Isokynä Lindholm
+2,Edward Vesala Ensemble,Jukka Tolonen
+2,Mat Mathews,Quintet Johnny Meyer
+2,Mat Mathews,Le Quartette swing Emile Carrara
+2,Mat Mathews,Tony Murena Et Son Ensemble Swing
+2,Susanne Regen,John Flame
+2,Susanne Regen,Gregory Aigersson
+2,Susanne Regen,Victor Sommers
+2,Pietro Tonolo,Danilo Rea
+2,Pietro Tonolo,Rita Marcotulli
+2,Pietro Tonolo,Doctor 3
+2,Luiz Ayrao,Paulo Diniz
+2,Luiz Ayrao,Márcio Greyck
+2,Luiz Ayrao,Noite Ilustrada
+2,TICO DE MORAES,Brazil XXI
+2,TICO DE MORAES,Nova Bossa Ltd.
+2,TICO DE MORAES,The Big Bossa
+2,Arturo Sandoval,Maynard Ferguson
+2,Arturo Sandoval,Chucho Valdés
+2,Arturo Sandoval,Poncho Sanchez
+2,Jackie McLean,Lee Morgan
+2,Jackie McLean,Hank Mobley
+2,Jackie McLean,Booker Ervin
+2,Jack Hylton & His Orchestra,Lew Stone & His Band
+2,Jack Hylton & His Orchestra,Ambrose & His Orchestra
+2,Jack Hylton & His Orchestra,Jack Hylton
+2,Bora Çeliker,Matt Carmichael
+2,Bora Çeliker,Kerem Görsev
+2,Bora Çeliker,Cenk Erdoğan
+2,Ohmega Watts,Othello
+2,Ohmega Watts,Giant Panda
+2,Ohmega Watts,Crown City Rockers
+2,"YoYo the ""Pianoman""",MEGAPTERAS
+2,"YoYo the ""Pianoman""",K.Yashiro
+2,"YoYo the ""Pianoman""",Emphasis On Jazz
+2,Kentaro Takizawa,Coldfeet
+2,Kentaro Takizawa,Chieko Kinbara
+2,Kentaro Takizawa,GTS
+2,Herbie Mann,Bobbi Humphrey
+2,Herbie Mann,The Horace Silver Quintet
+2,Herbie Mann,Hubert Laws
+2,Mel Tormé,Vic Damone
+2,Mel Tormé,Peggy Lee
+2,Mel Tormé,Anita O'Day
+2,Funkee Boy,Jeanette Harris
+2,Funkee Boy,Gail Jhonson
+2,Funkee Boy,Elan Trotman
+2,Sugarwork,Jimetta Rose & The Voices Of Creation
+2,Sugarwork,RAH & The Ruffcats
+2,Sugarwork,Norman Willmore
+2,Denise King,"Papik, Fabio Tullio"
+2,Denise King,Karen Souza
+2,Denise King,Eve St. Jones
+2,Javier Colina,Chano Domínguez
+2,Javier Colina,Bebo Valdes & Chucho Valdes
+2,Javier Colina,Ignasi Terraza Trio
+2,Magalí Sare,Alex & Julia
+2,Magalí Sare,Xarim Aresté
+2,Magalí Sare,Nico Roig
+2,Dani Nel·lo,Rudy Albano
+2,Dani Nel·lo,Salerosa
+2,Dani Nel·lo,Latin Sampling
+2,Servando Rascón,Freddy Marichal
+2,Servando Rascón,Tank Trio
+2,Servando Rascón,Amanda Tovalin
+2,Beny Moré,Rubén González
+2,Beny Moré,La Sonora Matancera
+2,Beny Moré,Cachao
+2,Orquesta Aragón,Los Van Van
+2,Orquesta Aragón,Celia Cruz
+2,Orquesta Aragón,Sierra Maestra
+2,Wayne Gorbea,Orquesta La Conspiración
+2,Wayne Gorbea,Ray Perez
+2,Wayne Gorbea,ORQUESTA SABOTAJE
+2,Joe Cuba,Joe Cuba Sextet
+2,Joe Cuba,Justo Betancourt
+2,Joe Cuba,Mon Rivera
+2,Joe Cuba,Joe Cuba Sextet
+2,Joe Cuba,Justo Betancourt
+2,Joe Cuba,Mon Rivera
+2,Gary Burton,Chick Corea
+2,Gary Burton,John Scofield
+2,Gary Burton,Pat Metheny Group
+2,Bobby Darin,Dean Martin
+2,Bobby Darin,"Sammy Davis, Jr."
+2,Bobby Darin,Perry Como
+2,Jestofunk,Brooklyn Funk Essentials
+2,Jestofunk,STR4TA
+2,Jestofunk,Uptown Funk Empire
+2,Muff,The Wednesdays
+2,Muff,Nina Pušlar
+2,Muff,Alya
+2,Harry James,Tommy Dorsey
+2,Harry James,Harry James & His Orchestra
+2,Harry James,Glenn Miller
+2,Carlos Lyra,Sylvia Telles
+2,Carlos Lyra,Wanda De Sah
+2,Carlos Lyra,Johnny Alf
+2,John Burnsby,Olivia Keast
+2,John Burnsby,Talisha Karrer
+2,John Burnsby,Meg Birch
+2,"Henry ""Red"" Allen",Muggsy Spanier
+2,"Henry ""Red"" Allen",Kid Ory
+2,"Henry ""Red"" Allen",Bunk Johnson
+2,Tito Rodriguez,Rolando Laserie
+2,Tito Rodriguez,La Sonora Matancera
+2,Tito Rodriguez,Cheo Feliciano
+2,Luciana Souza,Stacey Kent
+2,Luciana Souza,Dianne Reeves
+2,Luciana Souza,Cécile McLorin Salvant
+2,Machito,Sabu
+2,Machito,Tito Puente
+2,Machito,Willie Bobo
+2,Howard McGhee,Hampton Hawes
+2,Howard McGhee,Roy Haynes
+2,Howard McGhee,Jackie McLean
+2,Coffee House Jazz Club,Outdoor Piano Party
+2,Coffee House Jazz Club,Coffee Shop Swingers
+2,Coffee House Jazz Club,Chill Out Dinner Jazz
+2,Dale Burbeck,Mitch Joy
+2,Dale Burbeck,John Devson
+2,Dale Burbeck,Marcus Daves
+2,Rob Burke,Julien Wilson
+2,Rob Burke,Jonathan Zwartz
+2,Rob Burke,Don Burrows
+2,Luigi Vitale,Il Mago del Gelato
+2,Luigi Vitale,Coca Puma
+2,Luigi Vitale,Delicatoni
+2,Beny Moré,Rubén González
+2,Beny Moré,La Sonora Matancera
+2,Beny Moré,Cachao
+2,Tubby Hayes,Tubby Hayes Quartet
+2,Tubby Hayes,The Jazz Couriers
+2,Tubby Hayes,Don Rendell
+2,Kendraka,Tarun Balani
+2,Kendraka,Tajdar Junaid
+2,Kendraka,Rajna Swaminathan
+2,King Curtis,Carla Thomas
+2,King Curtis,Rufus Thomas
+2,King Curtis,Wilson Pickett
+2,Joel Lyssarides,Eric Legnini Trio
+2,Joel Lyssarides,Oded Tzur
+2,Joel Lyssarides,Brian Blade & The Fellowship Band
+2,Lemongrass,Weathertunes
+2,Lemongrass,Jens Buchert
+2,Lemongrass,Five Seasons
+2,Urbie Green,Carl Fontana
+2,Urbie Green,John Allred And Wycliffe Gordon
+2,Urbie Green,Frank Rosolino
+2,Miriam Makeba,Brenda Fassie
+2,Miriam Makeba,Letta Mbulu
+2,Miriam Makeba,Ladysmith Black Mambazo
+2,Billy Eckstine,Nat King Cole
+2,Billy Eckstine,Vic Damone
+2,Billy Eckstine,Mel Tormé
+2,Limid,capuze
+2,Limid,schubidoobie
+2,Limid,freche gesellschaft
+2,Luca Flores,Danilo Rea
+2,Luca Flores,Quintorigo
+2,Luca Flores,Doctor 3
+2,Illinois Jacquet,Gene Ammons
+2,Illinois Jacquet,Ben Webster
+2,Illinois Jacquet,Coleman Hawkins
+2,Living Room,Chill Beats Music
+2,Living Room,Tullio
+2,Living Room,Schwarz & Funk
+2,Mundell Lowe,Dempsey Wright
+2,Mundell Lowe,The Bernie Nerow Trio
+2,Mundell Lowe,Joy Bryan
+2,Sarah Vaughan,Dinah Washington
+2,Sarah Vaughan,Ella Fitzgerald
+2,Sarah Vaughan,Carmen McRae
+2,Bola Sete,Vince Guaraldi & Bola Sete
+2,Bola Sete,Zimbo Trio
+2,Bola Sete,Baden Powell
+2,Mongo Santamaria,Ray Barretto
+2,Mongo Santamaria,Willie Bobo
+2,Mongo Santamaria,Eddie Palmieri
+2,Dale Burbeck,Mitch Joy
+2,Dale Burbeck,John Devson
+2,Dale Burbeck,Marcus Daves
+2,Thelonious Coltrane,Remulak
+2,Thelonious Coltrane,otesla
+2,Thelonious Coltrane,Donkeychote
+2,Konstantin Klashtorni,Kool&Klean
+2,Konstantin Klashtorni,Brian Simpson
+2,Konstantin Klashtorni,Jonathan Fritzén
+2,James Butler,Restaurant Lounge Background Music
+2,James Butler,Florito
+2,James Butler,Kai French
+2,Mal Waldron,Jackie McLean
+2,Mal Waldron,Andrew Hill
+2,Mal Waldron,Booker Ervin

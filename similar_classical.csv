@@ -1,201 +1,554 @@
-artista,similares
-['Wim Mertens'],"['Michael Nyman', 'Philip Glass', 'René Aubry', 'Roberto Cacciapaglia', 'Hauschka']"
-['Bohuslav Martinů'],"['Miloslav Kabeláč', 'Petr Eben', 'Alois Hába', 'Josef Suk', 'Jan Václav Antonín Stamic']"
-['Johann Sebastian Bach'],"['Ludwig van Beethoven', 'Wolfgang Amadeus Mozart', 'Georg Friedrich Händel', 'Franz Schubert', 'Johannes Brahms']"
-['Ludwig van Beethoven'],"['Wolfgang Amadeus Mozart', 'Johann Sebastian Bach', 'Johannes Brahms', 'Franz Schubert', 'Robert Schumann']"
-['Joseph Haydn'],[]
-['Christoph Willibald Gluck'],"['Gaetano Donizetti', 'Giuseppe Verdi', 'Vincenzo Bellini', 'Richard Strauss', 'Georg Friedrich Händel']"
-['Wolfgang Amadeus Mozart'],"['Ludwig van Beethoven', 'Johann Sebastian Bach', 'Franz Schubert', 'Franz Joseph Haydn', 'Georg Friedrich Händel']"
-['George Frideric Handel'],[]
-['Manuel de Falla'],"['Enrique Granados', 'Joaquín Rodrigo', 'Isaac Albéniz', 'Aaron Copland', 'Heitor Villa-Lobos']"
-['Julia Wolfe'],"['Michael Gordon', 'Missy Mazzoli', 'Judd Greenstein', 'Louis Andriessen', 'Evan Ziporyn']"
-['Nithyasree Mahadevan'],"['Sudha Ragunathan', 'Sanjay Subrahmanyan', 'Sowmya', 'Priya Sisters', 'Maharajapuram Santhanam']"
-['Richard Strauss'],"['Gustav Mahler', 'Johannes Brahms', 'Ludwig van Beethoven', 'Robert Schumann', 'Giuseppe Verdi']"
-['Fritz Kreisler'],"['Antonín Dvořák', 'Sir Edward Elgar', 'Niccolò Paganini', 'Gabriel Fauré', 'Wolfgang Amadeus Mozart']"
-['Tanburi Cemil Bey'],"['Mesut Cemil', 'Dede Efendi', 'Safiye Ayla', 'Murat Aydemir, Salih Bilgin', 'Ihsan Özgen']"
-['Dimanche FR'],"['RIAS Kammerchor Berlin', 'Lucas Macias Navarro', 'Emi Ferguson', 'Julian Pregardien', 'Orquesta Sinfónica de Navarra']"
-['Albert Roussel'],"['Florent Schmitt', 'Charles Koechlin', 'Arthur Honegger', 'Einar Englund', 'Darius Milhaud']"
-['Alban Berg'],"['Arnold Schönberg', 'Anton Webern', 'Luciano Berio', 'Charles Ives', 'Olivier Messiaen']"
-['Tushar Dutta'],"['Dwijen Mukherjee', 'Kaushiki Chakraborty', 'Birendra Krishna Bhadra', 'Ajoy Chakrabarty', 'Pandit Jasraj']"
-['Karol Szymanowski'],"['Witold Lutosławski', 'Mieczysław Karłowicz', 'Grażyna Bacewicz', 'Николай Карлович Метнер', 'Andrzej Panufnik']"
-['Charles Koechlin'],"['Germaine Tailleferre', 'Florent Schmitt', 'Reynaldo Hahn', 'Darius Milhaud', 'Gabriel Pierné']"
-['Murat Salim Tokac'],[]
-['Max Reger'],"['Николай Карлович Метнер', 'Giuseppe Martucci', 'Ferruccio Busoni', 'Louis Vierne', 'Charles-Marie Widor']"
-['Johannes Brahms'],"['Robert Schumann', 'Ludwig van Beethoven', 'Felix Mendelssohn', 'Jean Sibelius', 'Antonín Dvořák']"
-['Pietro Locatelli'],"['Francesco Onofrio Manfredini', 'Giovanni Battista Sammartini', 'Giuseppe Torelli', 'Francesco Geminiani', 'Jean-Marie Leclair']"
-['Richard Wagner'],"['Giuseppe Verdi', 'Richard Strauss', 'Ludwig van Beethoven', 'Gustav Mahler', 'Franz Schubert']"
-['Ole Bull'],"['Richard Addinsell', 'Charles Auguste de Beriot', 'Johan Svendsen', 'Johan Halvorsen', 'František Benda']"
-['Giuseppe Verdi'],"['Gaetano Donizetti', 'Giacomo Puccini', 'Vincenzo Bellini', 'Gioacchino Rossini', 'Georges Bizet']"
-['Stephen Dodgson'],"['Rebecca Clarke', 'John W. Duarte', 'Thomas Pitfield', 'Frank Bridge', 'Elizabeth Poston']"
-['Pablo Sorozábal'],"['Giambattista De Curtis', ""Vincenzo D'Annibale"", 'Salvatore Cardillo', 'Ernesto De Curtis', 'Vincenzo de Crescenzo']"
-['Henri Dutilleux'],"['Elliott Carter', 'Hans Werner Henze', 'Witold Lutosławski', 'Wolfgang Rihm', 'Per Nørgård']"
-['Claude Debussy'],"['Maurice Ravel', 'Franz Liszt', 'Robert Schumann', 'Frédéric Chopin', 'Sergei Rachmaninoff']"
-['Juan María Solare'],"['Juan Maria Solare', 'Oscar Pascasio', 'Manuel Zito', 'Igor Longhi', 'Reivaj Ebol']"
-['Francois Devienne'],"['Carl Reinecke', 'Franz Doppler', 'Ignaz Pleyel', 'Paul Taffanel', 'Philippe Gaubert']"
-['Gustav Mahler'],"['Richard Strauss', 'Anton Bruckner', 'Ludwig van Beethoven', 'Maurice Ravel', 'Dmitri Shostakovich']"
-['Simone Pedroni'],"['John Williams; Sara Andon, Cécilia Tsan, Simone Pedroni', 'Katharine Mehrling', 'Sébastien LLINARES', 'CHLOE CHUA', 'Sophie de Bardonnèche']"
-['Jean Françaix'],"['Henri Tomasi', 'André Jolivet', 'Jacques Ibert', 'Charles Koechlin', 'Darius Milhaud']"
-['Tom Johnson'],"['Dennis Johnson', 'Christian Wolff', 'Graham Fitkin', 'James Tenney', 'Michael Torke']"
-['Reinhold Glière'],"['Anatoly Lyadov', 'Philippe Gaubert', 'Anton Arensky', 'Sergei Lyapunov', 'Dmitry Kabalevsky']"
-['Evan Bogerd'],['Sietze de Vries']
-['Niels Rønsholdt'],"['Bent Sørensen', '佐藤聰明', 'Peter Garland', 'Per Nørgård', 'Pelle Gudmundsen-Holmgreen']"
-['Alice Ping Yee Ho'],"['anthony rozankovic', 'François Dompierre', 'Heinrich Hofmann', '歌曲演唱', 'GuZhen legend Musicians']"
-['Marcos Antonio Portugal'],"['José Maurício Nunes Garcia', 'José Joaquim Emérico Lôbo de Mesquita', 'Dom Pedro I', 'Manoel Dias de Oliveira', 'Francisco Mignone']"
-['Dietrich Buxtehude'],"['Marc-Antoine Charpentier', 'Francesco Geminiani', 'Heinrich Ignaz Franz von Biber', 'Alessandro Scarlatti', 'Pietro Antonio Locatelli']"
-['Koushik Bhattacharjee'],[]
-['Modest Mussorgsky'],[]
-['João Carlos Martins'],"['Marco Farolfi', 'Edward Wood, pianist', 'H-K Juhn', 'Ilse Graubina', 'Diana Boyle']"
-['Erik Satie'],"['Claude Debussy', 'Frédéric Chopin', 'Robert Schumann', 'Maurice Ravel', 'Franz Liszt']"
-['Dinos Constantinides'],"['Mieczysław Weinberg', 'Andrzej Panufnik', 'Nikos Skalkottas', 'Charles Koechlin', 'György Kurtág']"
-['Giovanni Paisiello'],"['Antonio Rosetti', 'Saverio Mercadante', 'Antonio Caldara', 'Giuseppe Giordani', 'Frederick The Great']"
-['Edvard Grieg'],"['Antonín Dvořák', 'Robert Schumann', 'Johannes Brahms', 'Jean Sibelius', 'Felix Mendelssohn']"
-['Benjamin Britten'],"['Ralph Vaughan Williams', 'William Walton', 'John Tavener', 'Leoš Janáček', 'Béla Bartók']"
-['Alfred Schnittke'],"['Olivier Messiaen', 'Arnold Schönberg', 'Dmitri Shostakovich', 'Morton Feldman', 'Alban Berg']"
-['André-Ernest-Modeste Grétry'],"['Michel Pignolet de Montéclair', 'Étienne Nicolas Méhul', 'Giacomo Meyerbeer', 'Thomas Augustine Arne', 'Antonio Salieri']"
-['Francois-Joseph Gossec'],"['Christian Cannabich', 'Paul Wranitzky', 'Leopold Hofmann', 'Luigi Cherubini', 'Joseph Martin Kraus']"
-['André Jolivet'],"['Jean Françaix', 'Henri Tomasi', 'Paul Taffanel', 'Jacques Ibert', 'Henri Dutilleux']"
-['Gerald Finzi'],"['Lawrence Ashmore', 'George Butterworth', 'Peter Warlock', 'John Ireland', 'Frank Bridge']"
-['Gideon Klein'],"['Viktor Ullmann', 'Hans Krasa', 'Pavel Haas', 'Erwin Schulhoff', 'Ernst von Dohnányi']"
-['Giovanni Pierluigi da Palestrina'],"['Thomas Tallis', 'William Byrd', 'Claudio Monteverdi', 'Gregorio Allegri', 'Benjamin Britten']"
-['Antón García Abril'],"['Gillian Whitehead', 'Du Yun', 'Franghiz Ali-Zadeh', 'Avner Dorman', 'Jeff Myers']"
-['Luis de Pablo'],"['Cristóbal Halffter', 'Roberto Gerhard', 'Bernd Alois Zimmermann', 'Dieter Schnebel', 'Bruno Maderna']"
-['Béla Bartók'],"['Dmitri Shostakovich', 'Igor Stravinsky', 'Olivier Messiaen', 'Richard Strauss', 'Maurice Ravel']"
-['Antonín Dvořák'],"['Johannes Brahms', 'Felix Mendelssohn', 'Ludwig van Beethoven', 'Edvard Grieg', 'Jean Sibelius']"
-['Dominick Argento'],"['Jonathan Dove', 'Ross Lee Finney', 'David Maslanka', 'Jennifer Higdon', 'Irving Fine']"
-['Jean-Philippe Rameau'],"['Jean-Baptiste Lully', 'Georg Friedrich Händel', 'Georg Philipp Telemann', 'Domenico Scarlatti', 'Guillaume de Machaut']"
-['Enrique Granados'],"['Isaac Albéniz', 'Manuel de Falla', 'Joaquín Rodrigo', 'Johannes Brahms', 'Felix Mendelssohn']"
-['Antonio Vivaldi'],"['Georg Friedrich Händel', 'Johann Sebastian Bach', 'Wolfgang Amadeus Mozart', 'Georg Philipp Telemann', 'Ludwig van Beethoven']"
-['Georg Philipp Telemann'],"['François Couperin', 'Georg Friedrich Händel', 'Antonio Vivaldi', 'Arcangelo Corelli', 'Carl Philipp Emanuel Bach']"
-['Gabriel Fauré'],"['Robert Schumann', 'Johannes Brahms', 'Franz Schubert', 'Felix Mendelssohn', 'Sergei Rachmaninoff']"
-['Istvan Szekely'],"['Jenö Jando', 'Evelyne Dubourg', 'Dénes Várjon', 'Budapest Philharmonic Orchestra', 'Hungarian State Orchestra']"
-['Bernat Vivancos'],"['Paul Mealor', 'Gabriel Jackson', 'Sven-David Sandström', 'Ēriks Ešenvalds', 'Nathan Jones']"
-['Sérgio de Vasconcellos Corrêa'],[]
-['Olena Yuriivna Shostko'],[]
-['Dmitri Shostakovich'],"['Sergei Prokofiev', 'Sergei Rachmaninoff', 'Johannes Brahms', 'Gustav Mahler', 'Maurice Ravel']"
-['Franz Liszt'],"['Robert Schumann', 'Frédéric Chopin', 'Sergei Rachmaninoff', 'Franz Schubert', 'Johannes Brahms']"
-['An-Lun Huang'],"['I. Yeorgakopoúlou', 'Georgios Gretsis', 'Antonios Sakelariou', 'Orquesta de Eduardo Arólas', 'Tchousi, Damalas & Co.']"
-['Herbert Howells'],"['Charles Villiers Stanford', 'Kenneth Leighton', 'Charles Wood', 'Samuel Sebastian Wesley', 'Edgar Leslie Bainton']"
-['Carlos Gardel'],"['Roberto Goyeneche', 'Julio Sosa', ""Juan D'Arienzo"", 'Osvaldo Pugliese', 'Astor Piazzolla']"
-['Johann Nepomuk Hummel'],"['Carl Stamitz', 'Michael Haydn', 'Antonio Salieri', 'Pietro Antonio Locatelli', 'Muzio Clementi']"
-['Radamés Gnattali'],"['César Guerra-Peixe', 'Ernesto Nazareth', 'Camargo Guarnieri', 'Paulo Bellinati', 'Raphael Rabello']"
-['Michael Gielen'],"['Giuseppe Sinopoli', 'Vienna Symphony Orchestra', 'Riccardo Chailly', 'Valery Gergiev', 'Osmo Vänskä']"
-['Johann Baptist Vanhal'],"['Franz Danzi', 'Josef Mysliveček', 'Oskar Merikanto', 'Antonio Rosetti', 'Carl Ditters von Dittersdorf']"
-['Ariel Ramírez'],"['Los Chalchaleros', 'Eduardo Falú', 'Los Fronterizos', 'Daniel Toro', 'Hernan Figueroa Reyes']"
-['Hector Berlioz'],"['Camille Saint-Saëns', 'Richard Strauss', 'Gustav Mahler', 'Felix Mendelssohn', 'Antonín Dvořák']"
-['Rahul Vellal'],"['SooryaGayathri', 'Uthara Unnikrishnan', 'Spoorthi Rao', 'T.Sivaprasad', 'M. S. Subbulakshmi']"
-['Matteo Carcassi'],"['Luigi Legnani', 'Johann Kaspar Mertz', 'Jose Luis Merlin', 'Maximo Diego Pujol', 'Miguel Llobet Solés']"
-['Roman Berger'],"['Krzysztof Knittel', 'Krzysztof Baculewski', 'Zbigniew Bargielski', 'Sebastian Peter', 'Pierre Jodlowski']"
-['Mario Castelnuovo-Tedesco'],"['Federico Moreno Torroba', 'Johann Kaspar Mertz', 'Alexandre Tansman', 'Manuel Ponce', 'Giulio Regondi']"
-['Jacqueline Fontyn'],"['Guillaume Lekeu', 'Philippe Boesmans', 'Benoît Mernier', 'Jacob de Haan', 'Missy Mazzoli']"
-['Jules Massenet'],"['Johannes Brahms', 'John Field', 'Gaetano Donizetti', 'Vincenzo Bellini', 'Pietro Mascagni']"
-['Ignaz Pleyel'],"['Joseph Joachim Raff', 'Joseph Leopold Eybler', 'Peter von Winter', 'Adalbert Gyrowetz', 'Michael Glinka']"
-['Franz Danzi'],"['Johann Baptist Vanhal', 'Josef Mysliveček', 'Victor Massé', 'Antonio Rosetti', 'Oskar Merikanto']"
-['Heitor Villa-Lobos'],"['Joaquín Rodrigo', 'Manuel de Falla', 'Maurice Ravel', 'Antonín Dvořák', 'Gustav Mahler']"
-['Carl Philipp Emanuel Bach'],"['János Sebestyén', 'Carl Maria von Weber', 'Luigi Boccherini', 'Felix Mendelssohn', 'Johannes Brahms']"
-['James Whitbourn'],"['Sjaella', 'Kim André Arnesen', 'Ēriks Ešenvalds', 'Victor Kalinnikov', 'Jonathan Dove']"
-['Charles-Marie Widor'],"['Louis Vierne', 'Léon Boëllmann', 'Eugène Gigout', 'Alexandre Guilmant', 'Louis James Alfred Lefébure-Wély']"
-['Carl Heinrich Graun'],"['Nicola Porpora', 'Leonardo Vinci', 'Johann Gottlieb Graun', 'Johann Adolf Hasse', 'Christoph Schaffrath']"
-['Ottorino Respighi'],"['Jean Sibelius', 'Bedřich Smetana', 'Felix Mendelssohn', 'Maurice Ravel', 'Carl Maria von Weber']"
-['Muzio Clementi'],"['Johann Nepomuk Hummel', 'Antonio Salieri', 'Pietro Antonio Locatelli', 'Carl Stamitz', 'Michael Haydn']"
-['Gioachino Rossini'],[]
-['Tomás Bretón'],"['Ruperto Chapí', 'Jesús De Monasterio', 'Joaquín Turina', 'Sara Montiel', 'Federico Moreno Torroba']"
-['Francesco Petrini'],"['Elias Parish Alvars', 'Anne Roos', 'Susan Scott', 'Sally Fletcher', 'François-Adrien Boieldieu']"
-['Antonio Soler'],"['Giovanni Antonio Pandolfi Mealli', 'Georg Matthias Monn', 'Georg Muffat', 'Jacques Duphly', 'Leopold Hofmann']"
-['Jean Sibelius'],"['Johannes Brahms', 'Robert Schumann', 'Felix Mendelssohn', 'Johann Pachelbel', 'Antonín Dvořák']"
-['Toru Takemitsu'],[]
-['Arcangelo Corelli'],"['Giuseppe Tartini', 'Tomaso Giovanni Albinoni', 'Georg Friedrich Händel', 'Georg Philipp Telemann', 'Carl Philipp Emanuel Bach']"
-['Bedřich Smetana'],"['Carl Maria von Weber', 'Antonín Dvořák', 'Robert Schumann', 'Felix Mendelssohn', 'Jean Sibelius']"
-['Viet Cuong'],"['David Maslanka', 'John Mackey', 'Vincent Persichetti', 'Michael Daugherty', 'David Biedenbender']"
-['Carsten Bo Eriksen'],"['Oliver Davis', 'Dervis Can Vural', 'SOFI PAEZ', 'Aleksander Debicz', 'Nicola Elias Rigato']"
-['Luigi Boccherini'],"['Carl Philipp Emanuel Bach', 'Max Bruch', 'Franz Joseph Haydn', 'Arcangelo Corelli', 'Georg Friedrich Händel']"
-['Felix Mendelssohn'],"['Robert Schumann', 'Johannes Brahms', 'Franz Schubert', 'Antonín Dvořák', 'Ludwig van Beethoven']"
-['Claudio Monteverdi'],"['Henry Purcell', 'Johann Sebastian Bach', 'Georg Friedrich Händel', 'Arcangelo Corelli', 'Richard Strauss']"
-['Francisco Tárrega'],"['Andrés Segovia', 'Joaquín Rodrigo', 'Isaac Albéniz', 'Enrique Granados', 'Manuel de Falla']"
-['Bundu Khan'],"['Umrao Bundu Khan', 'Kamal Sabri', 'Ustad Sabri Khan', 'Ram Narayan', 'Asad Ali Khan']"
-['Antonio Lauro'],"['Jose Luis Merlin', 'Maximo Diego Pujol', 'Johann Kaspar Mertz', 'Jorge Morel', 'Napoléon Coste']"
-['Arthur Moreira Lima'],"['Ernesto Nazareth', 'Altamiro Carrilho', 'Luperce Miranda', 'Abel Ferreira', 'Raphael Rabello']"
-['Fernando Sor'],"['Mauro Giuliani', 'Napoléon Coste', 'Federico Moreno Torroba', 'Miguel Llobet', 'Antonio Lauro']"
-['Alicia de Larrocha'],"['Alfred Brendel', 'Duo Gazzana', 'Владимир Ашкенази', 'Эмиль Гилельс', 'Михаил Плетнёв']"
-['Barkat Ali Khan'],"['Begum Akhtar', 'Bade Ghulam Ali Khan', 'Amir Khan', 'Kesarbai Kerkar', 'Bismillah Khan']"
-['Vincent Persichetti'],"['Percy Grainger', 'John Mackey', 'David Maslanka', 'Donald Grantham', 'Ron Nelson']"
-['Allan Pettersson'],"['Karl Amadeus Hartmann', 'Николай Яковлевич Мясковский', 'Vagn Holmboe', 'Kalevi Aho', 'Per Nørgård']"
-['Severin van Dijk'],"['Peter Burger', 'Arjan Huizer', 'Christelijk Koor Jigdaljahu', 'Frank Kaman', 'Yta van der Zwaag']"
-['Matthew Welch'],"['Eric Qin', 'Ulrich Krieger', 'Mark Applebaum', 'Eyvind Kang', 'Sylvie Courvoisier']"
-['Nils Henrik Asheim'],"['BIT20 Ensemble', 'Stavanger Symphony Orchestra', 'Trond-Viggo Torgersen', 'Cecilie Ore', 'Norwegian Chamber Orchestra']"
-['Kenneth Fuchs'],"['Paul Creston', 'Joel Love', 'Jacques Ibert', 'David Maslanka', 'Darius Milhaud']"
-['Henryk Górecki'],"['Arvo Pärt', 'Alfred Schnittke', 'John Tavener', 'Benjamin Britten', 'Krzysztof Penderecki']"
-['György Kurtág'],"['Kaija Saariaho', 'Luigi Nono', 'Helmut Lachenmann', 'Elliott Carter', 'Sofia Gubaidulina']"
-['Ian Venables'],"['Gerald Finzi', 'John Ireland', 'Herbert Howells', 'Ivor Gurney', 'George Butterworth']"
-['Hisako Hiseki'],"['Chopin, Frédéric [Composer]', 'Richard Goode', 'Roland Pontinen', 'Anna Malikova', 'Muzio Clementi']"
-['Richard Barrett'],"['James Dillon', 'Chaya Czernowin', 'Brian Ferneyhough', 'Gillian Whitehead', 'Chris Dench']"
-['Alessandro Scarlatti'],"['Marc-Antoine Charpentier', 'Heinrich Ignaz Franz von Biber', 'Giuseppe Torelli', 'Francesco Geminiani', 'Dietrich Buxtehude']"
-['Jaromír Weinberger'],"['Werner Egk', 'Karl Goldmark', 'Franz von Suppé', 'Julius Fučík', 'Ferde Grofé']"
-['Franz Schmidt'],"['Hans Rott', 'Albert Lortzing', 'Alexander von Zemlinsky', 'Franz Schreker', 'Arnold Bax']"
-['Virgil Thomson'],"['Roger Sessions', 'William Schuman', 'David Diamond', 'Walter Piston', 'Roy Harris']"
-['Geoffrey Poole'],"['Michael Finnissy', 'Mark-Anthony Turnage', 'David Maslanka', 'Richard Rodney Bennett', 'Harrison Birtwistle']"
-['Fridthjov Anderssen'],"['Ole Paus', 'Bukkene Bruse', 'Stine Kleivane Reitan', 'Edvin Østergaard', 'Trygve Brøske']"
-['Michael Finnissy'],"['Rebecca Saunders', 'Brian Ferneyhough', 'Jonathan Harvey', 'Beat Furrer', 'James Dillon']"
-['Andreas Jakob Romberg'],"['Franz Anton Hoffmeister', 'Friedrich Ernst Fesca', 'Ferdinand Ries', 'Friedrich Witt', 'Johann Ernst Hartmann']"
-['Paul Hindemith'],"['Sergei Prokofiev', 'Ralph Vaughan Williams', 'Igor Stravinsky', 'Béla Bartók', 'Benjamin Britten']"
-['Danny Clay'],"['Holy Hydrogen', 'Argentus', 'One Second Old', 'Subatomic Dreams', 'Lanfranco Spadaro']"
-['Christopher Cerrone'],"['Ted Hearne', 'Timo Andres', 'Andy Akiho', 'Andrew Norman', 'Robert Honstein']"
-['Sebastian Morawietz'],"['luke gajdus', 'Melaine Dalibert', 'Klangriket', 'Noemi Bolojan', 'Gianluca Piacenza']"
-['Ruperto Chapí'],"['Tomás Bretón', 'Jacinto Guerrero', 'Pablo Sorozábal', 'Amadeo Vives', 'Jose Serrano']"
-['Carson Cooman'],"['橋本國彦', 'Gloria Coates', '矢代秋雄', 'Virgil Thomson', 'Samuel Adler']"
-['David Matthews'],"['Jiro Inagaki and His Soul Media', 'Deodato', 'Roy Ayers', 'Cortex', '鈴木 弘']"
-['Exam Study Music Company'],[]
-['Marin Marais'],"['François Couperin', 'Jean-Baptiste Lully', 'Jean-Philippe Rameau', 'Georg Friedrich Händel', 'Georg Philipp Telemann']"
-['Camille Saint-Saëns'],"['Johannes Brahms', 'Pyotr Ilyich Tchaikovsky', 'Felix Mendelssohn', 'Franz Liszt', 'Antonín Dvořák']"
-['Franz Schubert'],"['Robert Schumann', 'Ludwig van Beethoven', 'Johannes Brahms', 'Wolfgang Amadeus Mozart', 'Felix Mendelssohn']"
-['Luigi Dallapiccola'],"['Stefan Wolpe', 'Jonathan Harvey', 'Charles Wuorinen', 'Gloria Coates', 'George Benjamin']"
-['Giovanni Battista Pergolesi'],"['Georg Friedrich Händel', 'Arcangelo Corelli', 'Henry Purcell', 'Georg Philipp Telemann', 'Jean-Baptiste Lully']"
-['Marian Sawa'],"['Feliks Nowowiejski', 'Jean Langlais', 'Jehan Alain', 'Damian Stachowicz', 'Karol Szymanowski']"
-['Dmitry Kabalevsky'],"['Reinhold Glière', 'Николай Карлович Метнер', 'Anton Arensky', 'Vasily Kalinnikov', 'Sergei Lyapunov']"
-['Friedrich Kuhlau'],"['Friedrich Burgmüller', 'William Sterndale Bennett', 'Lars Magnus Béen', 'Johann Peter Emilius Hartmann', 'Muzio Clementi']"
-['Georges Bizet'],"['Léo Delibes', 'Giuseppe Verdi', 'Gioacchino Rossini', 'Giacomo Puccini', 'Johann Strauss II']"
-['Brenton Broadstock'],"['Matthew Hindson', 'Maria Grenfell', 'Stuart Greenbaum', 'Graeme Koehne', 'Ross Edwards']"
-['Mieczysław Weinberg'],"['Grażyna Bacewicz', 'Witold Lutosławski', 'Karl Amadeus Hartmann', 'Andrzej Panufnik', 'Karol Szymanowski']"
-['Garreth Broke'],"['Jordane Tumarinson', 'A. Blomqvist', 'Jim Perkins', 'Josh Kramer', 'Wilson Trouvé']"
-['Selim Palmgren'],"['Leevi Madetoja', 'Toivo Kuula', 'Heino Kaski', 'Harri Wessman', 'Erkki Melartin']"
-['Tomás Marco'],"['Jesús Rueda', 'Peter Sculthorpe', 'José M. Sánchez-Verdú', 'Cristóbal Halffter', 'Dobrinka Tabakova']"
-['Mily Balakirev'],"['Цезарь Антонович Кюи', 'Sergei Lyapunov', 'Frank Bridge', 'Anatoly Lyadov', 'Николай Карлович Метнер']"
-['Daan Janssens'],[]
-['Mikhail Glinka'],[]
-['Ann Millikan'],[]
-['Lennox Berkeley'],"['Alan Rawsthorne', 'Kenneth Leighton', 'Edmund Rubbra', 'Einar Englund', 'Granville Bantock']"
-['York Bowen'],"['Rebecca Clarke', 'Lennox Berkeley', 'Alan Rawsthorne', 'Frank Bridge', 'Edmund Rubbra']"
-['Franco Margola'],"['Mario Castelnuovo-Tedesco', 'Giulio Regondi', 'Ferruccio Busoni', 'Niccolò Castiglioni', 'Gian Francesco Malipiero']"
-['Michael Nyman'],"['Wim Mertens', 'Philip Glass', 'Balanescu Quartet', 'Yann Tiersen', 'Abel Korzeniowski']"
-['Luigi Cherubini'],"['Francois-Joseph Gossec', 'Johann Nepomuk Hummel', 'Michael Haydn', 'Paul Wranitzky', 'Antonio Salieri']"
-['Edward Elgar'],[]
-['Francisco Mignone'],"['Victor Massé', 'Oskar Merikanto', 'Josef Mysliveček', 'Camargo Guarnieri', 'Franz Danzi']"
-['Scott Joplin'],"['Jelly Roll Morton', 'James P. Johnson', 'George Gershwin', 'Joshua Rifkin', 'Art Tatum']"
-['Frank Martin'],"['Einar Englund', 'Arthur Honegger', 'Hans Werner Henze', 'Kalevi Aho', 'Vagn Holmboe']"
-['Anton Bruckner'],"['Gustav Mahler', 'Johannes Brahms', 'Richard Strauss', 'Franz Joseph Haydn', 'Ludwig van Beethoven']"
-['Guy Bovet'],"['Marcel Dupré', 'Louis Vierne', 'Sigfrid Karg-Elert', 'Vincent Boucher', 'Samuel Sebastian Wesley']"
-['Duke Ellington'],"['Duke Ellington & His Orchestra', 'Count Basie', 'Earl Hines', 'Louis Armstrong', 'Charles Mingus']"
-['Alan Weiss'],"['Gerrit Zitterbat', 'Stanley Hoogland', 'Wolfgang Manz', 'Ingryd Thorson, Julian Thurber', 'Bernard Lemmens']"
-['Alcatrazz'],"['Yngwie Malmsteen', 'Michael Schenker Group', 'Dokken', 'Loudness', ""Yngwie J. Malmsteen's Rising Force""]"
-['Carl Friedrich Abel'],"['Matthew Locke', 'Monsieur de Sainte-Colombe', 'Christopher Simpson', 'Jean-Marie Leclair', 'Giovanni Felice Sances']"
-['T. Brinda'],"['Semmangudi Srinivasa Iyer', 'M. S. Gopalakrishnan', 'Hyderabad Brothers', 'Sanjay Subrahmanyan', 'M. Balamuralikrishna']"
-['Hubert Parry'],"['Charles Villiers Stanford', 'Herbert Howells', 'Thomas Augustine Arne', 'Charles Wood', 'Samuel Sebastian Wesley']"
-['Vicente Martín Y Soler'],"['Manuel Penella', 'anónimo', 'Manuel Blasco de Nebra', 'Antoine Dauvergne', 'José de Nebra']"
-['Vissarion Shebalin'],"['Николай Яковлевич Мясковский', 'Sergei Taneyev', 'Vladimir Rebikov', 'Arthur Lourié', 'Valery Kikta']"
-['Bekah Simms'],"['Hans Abrahamsen', 'Kaija Saariaho', 'György Kurtág', 'Rebecca Clarke', 'John Luther Adams']"
-['Michael Oesterle'],"['Lucas Ruis Ribayaz', 'Santiago de Murcia', 'Gaspar Sanz', 'Constantinople', 'Giovanni Girolamo Kapsberger']"
-['Carl Nielsen'],"['Bohuslav Martinů', 'Darius Milhaud', 'Franz Berwald', 'Arnold Bax', 'Witold Lutosławski']"
-['Classical Music Orchestra!'],"['Classical Music for Relaxation / Chopin After Work', 'Classical Music for Relaxation', '[unknown]', 'Canon in D Variations', 'Rick Clark']"
-['Erich Wolfgang Korngold'],"['Victor Young', 'Laurence Rosenthal', 'Édouard Lalo', 'Jerry Fielding', 'Jerome Moross']"
-['Miriam Hyde'],"['Ronald Pearl', 'Cécile Chaminade', 'Roy Agnew', 'Ernst von Dohnányi', 'Florence Beatrice Price']"
-['John Corigliano'],"['Ned Rorem', 'Richard Charlton', 'Erich Wolfgang Korngold', 'Giya Kancheli', 'Hans Abrahamsen']"
-['Berglind María Tómasdóttir'],"['John McCowen', 'Bára Gísladóttir', 'The Hamrahlíð Choir', 'Nyokabi Kariuki', ""Meara O'Reilly""]"
-['Daniel Ligorio'],"['Frank van de Laar', 'Douglas Riva', 'Ingolf Wunder', 'Bart Van Oort', 'Balázs Szokolay']"
-['Kurt Atterberg'],"['Lars-Erik Larsson', 'Ernest John Moeran', 'Einar Englund', 'Wilhelm Stenhammar', 'Hugo Alfvén']"
-['Karl-Erik Welin'],"['Sven-David Sandström', 'Antoinette Vischer', 'Sven-Erik Bäck', 'Knut Nystedt', 'Frank Martin']"
-['Dionisio Aguado'],"['Ferdinando Carulli', 'Agustin Barrios Mangore', 'Jakub Kosciuszko', 'Perfecto De Castro', 'McDonald-Bianculli Flute & Guitar Duo']"
-['Max Bruch'],"['Luigi Boccherini', 'Felix Mendelssohn', 'Antonín Dvořák', 'Sir Edward Elgar', 'Ludwig van Beethoven']"
-['Alfred Cortot'],"['Shura Cherkassky', 'Artur Schnabel', 'Edwin Fischer', 'Vladimir Sofronitsky', 'Wilhelm Backhaus']"
-['Astor Piazzolla'],"['Roberto Goyeneche', 'Carlos Gardel', 'Osvaldo Pugliese', 'Julio Sosa', ""Juan D'Arienzo""]"
-['Lori Laitman'],"['Short Productions', 'Peter Dart', 'Rex Nabours III', 'Revan777', 'Short Eagle']"
-['Michael Torke'],"['Aaron Jay Kernis', 'Graham Fitkin', 'Douwe Eisenga', 'Stefano Scodanibbio', 'Jennifer Higdon']"
-['Michael Haydn'],"['Carl Stamitz', 'Pietro Antonio Locatelli', 'Johann Nepomuk Hummel', 'Johann Friedrich Fasch', 'Francesco Geminiani']"
+id_genero,artista,similar
+1,Bohuslav Martinů,Miloslav Kabeláč
+1,Bohuslav Martinů,Petr Eben
+1,Bohuslav Martinů,Alois Hába
+1,Johann Sebastian Bach,Ludwig van Beethoven
+1,Johann Sebastian Bach,Wolfgang Amadeus Mozart
+1,Johann Sebastian Bach,Georg Friedrich Händel
+1,Ludwig van Beethoven,Wolfgang Amadeus Mozart
+1,Ludwig van Beethoven,Johann Sebastian Bach
+1,Ludwig van Beethoven,Johannes Brahms
+1,Christoph Willibald Gluck,Gaetano Donizetti
+1,Christoph Willibald Gluck,Giuseppe Verdi
+1,Christoph Willibald Gluck,Vincenzo Bellini
+1,Wolfgang Amadeus Mozart,Ludwig van Beethoven
+1,Wolfgang Amadeus Mozart,Johann Sebastian Bach
+1,Wolfgang Amadeus Mozart,Franz Schubert
+1,Manuel de Falla,Enrique Granados
+1,Manuel de Falla,Joaquín Rodrigo
+1,Manuel de Falla,Isaac Albéniz
+1,Julia Wolfe,Michael Gordon
+1,Julia Wolfe,Missy Mazzoli
+1,Julia Wolfe,Judd Greenstein
+1,Nithyasree Mahadevan,Sudha Ragunathan
+1,Nithyasree Mahadevan,Sanjay Subrahmanyan
+1,Nithyasree Mahadevan,Sowmya
+1,Richard Strauss,Gustav Mahler
+1,Richard Strauss,Johannes Brahms
+1,Richard Strauss,Ludwig van Beethoven
+1,Fritz Kreisler,Antonín Dvořák
+1,Fritz Kreisler,Sir Edward Elgar
+1,Fritz Kreisler,Niccolò Paganini
+1,Tanburi Cemil Bey,Mesut Cemil
+1,Tanburi Cemil Bey,Dede Efendi
+1,Tanburi Cemil Bey,Safiye Ayla
+1,Dimanche FR,RIAS Kammerchor Berlin
+1,Dimanche FR,Lucas Macias Navarro
+1,Dimanche FR,Emi Ferguson
+1,Albert Roussel,Florent Schmitt
+1,Albert Roussel,Charles Koechlin
+1,Albert Roussel,Arthur Honegger
+1,Alban Berg,Arnold Schönberg
+1,Alban Berg,Anton Webern
+1,Alban Berg,Luciano Berio
+1,Tushar Dutta,Dwijen Mukherjee
+1,Tushar Dutta,Kaushiki Chakraborty
+1,Tushar Dutta,Birendra Krishna Bhadra
+1,Karol Szymanowski,Witold Lutosławski
+1,Karol Szymanowski,Mieczysław Karłowicz
+1,Karol Szymanowski,Grażyna Bacewicz
+1,Charles Koechlin,Germaine Tailleferre
+1,Charles Koechlin,Florent Schmitt
+1,Charles Koechlin,Reynaldo Hahn
+1,Max Reger,Николай Карлович Метнер
+1,Max Reger,Giuseppe Martucci
+1,Max Reger,Ferruccio Busoni
+1,Johannes Brahms,Robert Schumann
+1,Johannes Brahms,Ludwig van Beethoven
+1,Johannes Brahms,Felix Mendelssohn
+1,Pietro Locatelli,Francesco Onofrio Manfredini
+1,Pietro Locatelli,Giovanni Battista Sammartini
+1,Pietro Locatelli,Giuseppe Torelli
+1,Richard Wagner,Giuseppe Verdi
+1,Richard Wagner,Richard Strauss
+1,Richard Wagner,Ludwig van Beethoven
+1,Ole Bull,Richard Addinsell
+1,Ole Bull,Charles Auguste de Beriot
+1,Ole Bull,Johan Svendsen
+1,Giuseppe Verdi,Gaetano Donizetti
+1,Giuseppe Verdi,Giacomo Puccini
+1,Giuseppe Verdi,Vincenzo Bellini
+1,Stephen Dodgson,Rebecca Clarke
+1,Stephen Dodgson,John W. Duarte
+1,Stephen Dodgson,Thomas Pitfield
+1,Pablo Sorozábal,Giambattista De Curtis
+1,Pablo Sorozábal,Vincenzo D'Annibale
+1,Pablo Sorozábal,Salvatore Cardillo
+1,Henri Dutilleux,Elliott Carter
+1,Henri Dutilleux,Hans Werner Henze
+1,Henri Dutilleux,Witold Lutosławski
+1,Claude Debussy,Maurice Ravel
+1,Claude Debussy,Franz Liszt
+1,Claude Debussy,Robert Schumann
+1,Juan María Solare,Juan Maria Solare
+1,Juan María Solare,Oscar Pascasio
+1,Juan María Solare,Manuel Zito
+1,Francois Devienne,Carl Reinecke
+1,Francois Devienne,Franz Doppler
+1,Francois Devienne,Ignaz Pleyel
+1,Gustav Mahler,Richard Strauss
+1,Gustav Mahler,Anton Bruckner
+1,Gustav Mahler,Ludwig van Beethoven
+1,Simone Pedroni,"John Williams; Sara Andon, Cécilia Tsan, Simone Pedroni"
+1,Simone Pedroni,Katharine Mehrling
+1,Simone Pedroni,Sébastien LLINARES
+1,Jean Françaix,Henri Tomasi
+1,Jean Françaix,André Jolivet
+1,Jean Françaix,Jacques Ibert
+1,Tom Johnson,Dennis Johnson
+1,Tom Johnson,Christian Wolff
+1,Tom Johnson,Graham Fitkin
+1,Reinhold Glière,Anatoly Lyadov
+1,Reinhold Glière,Philippe Gaubert
+1,Reinhold Glière,Anton Arensky
+1,Evan Bogerd,Sietze de Vries
+1,Niels Rønsholdt,Bent Sørensen
+1,Niels Rønsholdt,佐藤聰明
+1,Niels Rønsholdt,Peter Garland
+1,Alice Ping Yee Ho,anthony rozankovic
+1,Alice Ping Yee Ho,François Dompierre
+1,Alice Ping Yee Ho,Heinrich Hofmann
+1,Marcos Antonio Portugal,José Maurício Nunes Garcia
+1,Marcos Antonio Portugal,José Joaquim Emérico Lôbo de Mesquita
+1,Marcos Antonio Portugal,Dom Pedro I
+1,Dietrich Buxtehude,Marc-Antoine Charpentier
+1,Dietrich Buxtehude,Francesco Geminiani
+1,Dietrich Buxtehude,Heinrich Ignaz Franz von Biber
+1,João Carlos Martins,Marco Farolfi
+1,João Carlos Martins,"Edward Wood, pianist"
+1,João Carlos Martins,H-K Juhn
+1,Erik Satie,Claude Debussy
+1,Erik Satie,Frédéric Chopin
+1,Erik Satie,Robert Schumann
+1,Dinos Constantinides,Mieczysław Weinberg
+1,Dinos Constantinides,Andrzej Panufnik
+1,Dinos Constantinides,Nikos Skalkottas
+1,Giovanni Paisiello,Antonio Rosetti
+1,Giovanni Paisiello,Saverio Mercadante
+1,Giovanni Paisiello,Antonio Caldara
+1,Edvard Grieg,Antonín Dvořák
+1,Edvard Grieg,Robert Schumann
+1,Edvard Grieg,Johannes Brahms
+1,Benjamin Britten,Ralph Vaughan Williams
+1,Benjamin Britten,William Walton
+1,Benjamin Britten,John Tavener
+1,Alfred Schnittke,Olivier Messiaen
+1,Alfred Schnittke,Arnold Schönberg
+1,Alfred Schnittke,Dmitri Shostakovich
+1,André-Ernest-Modeste Grétry,Michel Pignolet de Montéclair
+1,André-Ernest-Modeste Grétry,Étienne Nicolas Méhul
+1,André-Ernest-Modeste Grétry,Giacomo Meyerbeer
+1,Francois-Joseph Gossec,Christian Cannabich
+1,Francois-Joseph Gossec,Paul Wranitzky
+1,Francois-Joseph Gossec,Leopold Hofmann
+1,André Jolivet,Jean Françaix
+1,André Jolivet,Henri Tomasi
+1,André Jolivet,Paul Taffanel
+1,Gerald Finzi,Lawrence Ashmore
+1,Gerald Finzi,George Butterworth
+1,Gerald Finzi,Peter Warlock
+1,Gideon Klein,Viktor Ullmann
+1,Gideon Klein,Hans Krasa
+1,Gideon Klein,Pavel Haas
+1,Giovanni Pierluigi da Palestrina,Thomas Tallis
+1,Giovanni Pierluigi da Palestrina,William Byrd
+1,Giovanni Pierluigi da Palestrina,Claudio Monteverdi
+1,Antón García Abril,Gillian Whitehead
+1,Antón García Abril,Du Yun
+1,Antón García Abril,Franghiz Ali-Zadeh
+1,Luis de Pablo,Cristóbal Halffter
+1,Luis de Pablo,Roberto Gerhard
+1,Luis de Pablo,Bernd Alois Zimmermann
+1,Béla Bartók,Dmitri Shostakovich
+1,Béla Bartók,Igor Stravinsky
+1,Béla Bartók,Olivier Messiaen
+1,Antonín Dvořák,Johannes Brahms
+1,Antonín Dvořák,Felix Mendelssohn
+1,Antonín Dvořák,Ludwig van Beethoven
+1,Dominick Argento,Jonathan Dove
+1,Dominick Argento,Ross Lee Finney
+1,Dominick Argento,David Maslanka
+1,Jean-Philippe Rameau,Jean-Baptiste Lully
+1,Jean-Philippe Rameau,Georg Friedrich Händel
+1,Jean-Philippe Rameau,Georg Philipp Telemann
+1,Enrique Granados,Isaac Albéniz
+1,Enrique Granados,Manuel de Falla
+1,Enrique Granados,Joaquín Rodrigo
+1,Antonio Vivaldi,Georg Friedrich Händel
+1,Antonio Vivaldi,Johann Sebastian Bach
+1,Antonio Vivaldi,Wolfgang Amadeus Mozart
+1,Georg Philipp Telemann,François Couperin
+1,Georg Philipp Telemann,Georg Friedrich Händel
+1,Georg Philipp Telemann,Antonio Vivaldi
+1,Gabriel Fauré,Robert Schumann
+1,Gabriel Fauré,Johannes Brahms
+1,Gabriel Fauré,Franz Schubert
+1,Istvan Szekely,Jenö Jando
+1,Istvan Szekely,Evelyne Dubourg
+1,Istvan Szekely,Dénes Várjon
+1,Bernat Vivancos,Paul Mealor
+1,Bernat Vivancos,Gabriel Jackson
+1,Bernat Vivancos,Sven-David Sandström
+1,Dmitri Shostakovich,Sergei Prokofiev
+1,Dmitri Shostakovich,Sergei Rachmaninoff
+1,Dmitri Shostakovich,Johannes Brahms
+1,Franz Liszt,Robert Schumann
+1,Franz Liszt,Frédéric Chopin
+1,Franz Liszt,Sergei Rachmaninoff
+1,An-Lun Huang,I. Yeorgakopoúlou
+1,An-Lun Huang,Georgios Gretsis
+1,An-Lun Huang,Antonios Sakelariou
+1,Herbert Howells,Charles Villiers Stanford
+1,Herbert Howells,Kenneth Leighton
+1,Herbert Howells,Charles Wood
+1,Carlos Gardel,Roberto Goyeneche
+1,Carlos Gardel,Julio Sosa
+1,Carlos Gardel,Juan D'Arienzo
+1,Johann Nepomuk Hummel,Carl Stamitz
+1,Johann Nepomuk Hummel,Michael Haydn
+1,Johann Nepomuk Hummel,Antonio Salieri
+1,Radamés Gnattali,César Guerra-Peixe
+1,Radamés Gnattali,Ernesto Nazareth
+1,Radamés Gnattali,Camargo Guarnieri
+1,Michael Gielen,Giuseppe Sinopoli
+1,Michael Gielen,Vienna Symphony Orchestra
+1,Michael Gielen,Riccardo Chailly
+1,Johann Baptist Vanhal,Franz Danzi
+1,Johann Baptist Vanhal,Josef Mysliveček
+1,Johann Baptist Vanhal,Oskar Merikanto
+1,Ariel Ramírez,Los Chalchaleros
+1,Ariel Ramírez,Eduardo Falú
+1,Ariel Ramírez,Los Fronterizos
+1,Hector Berlioz,Camille Saint-Saëns
+1,Hector Berlioz,Richard Strauss
+1,Hector Berlioz,Gustav Mahler
+1,Rahul Vellal,SooryaGayathri
+1,Rahul Vellal,Uthara Unnikrishnan
+1,Rahul Vellal,Spoorthi Rao
+1,Matteo Carcassi,Luigi Legnani
+1,Matteo Carcassi,Johann Kaspar Mertz
+1,Matteo Carcassi,Jose Luis Merlin
+1,Roman Berger,Krzysztof Knittel
+1,Roman Berger,Krzysztof Baculewski
+1,Roman Berger,Zbigniew Bargielski
+1,Mario Castelnuovo-Tedesco,Federico Moreno Torroba
+1,Mario Castelnuovo-Tedesco,Johann Kaspar Mertz
+1,Mario Castelnuovo-Tedesco,Alexandre Tansman
+1,Jacqueline Fontyn,Guillaume Lekeu
+1,Jacqueline Fontyn,Philippe Boesmans
+1,Jacqueline Fontyn,Benoît Mernier
+1,Jules Massenet,Johannes Brahms
+1,Jules Massenet,John Field
+1,Jules Massenet,Gaetano Donizetti
+1,Ignaz Pleyel,Joseph Joachim Raff
+1,Ignaz Pleyel,Joseph Leopold Eybler
+1,Ignaz Pleyel,Peter von Winter
+1,Franz Danzi,Johann Baptist Vanhal
+1,Franz Danzi,Josef Mysliveček
+1,Franz Danzi,Victor Massé
+1,Heitor Villa-Lobos,Joaquín Rodrigo
+1,Heitor Villa-Lobos,Manuel de Falla
+1,Heitor Villa-Lobos,Maurice Ravel
+1,Carl Philipp Emanuel Bach,János Sebestyén
+1,Carl Philipp Emanuel Bach,Carl Maria von Weber
+1,Carl Philipp Emanuel Bach,Luigi Boccherini
+1,James Whitbourn,Sjaella
+1,James Whitbourn,Kim André Arnesen
+1,James Whitbourn,Ēriks Ešenvalds
+1,Charles-Marie Widor,Louis Vierne
+1,Charles-Marie Widor,Léon Boëllmann
+1,Charles-Marie Widor,Eugène Gigout
+1,Carl Heinrich Graun,Nicola Porpora
+1,Carl Heinrich Graun,Leonardo Vinci
+1,Carl Heinrich Graun,Johann Gottlieb Graun
+1,Ottorino Respighi,Jean Sibelius
+1,Ottorino Respighi,Bedřich Smetana
+1,Ottorino Respighi,Felix Mendelssohn
+1,Muzio Clementi,Johann Nepomuk Hummel
+1,Muzio Clementi,Antonio Salieri
+1,Muzio Clementi,Pietro Antonio Locatelli
+1,Tomás Bretón,Ruperto Chapí
+1,Tomás Bretón,Jesús De Monasterio
+1,Tomás Bretón,Joaquín Turina
+1,Francesco Petrini,Elias Parish Alvars
+1,Francesco Petrini,Anne Roos
+1,Francesco Petrini,Susan Scott
+1,Antonio Soler,Giovanni Antonio Pandolfi Mealli
+1,Antonio Soler,Georg Matthias Monn
+1,Antonio Soler,Georg Muffat
+1,Jean Sibelius,Johannes Brahms
+1,Jean Sibelius,Robert Schumann
+1,Jean Sibelius,Felix Mendelssohn
+1,Arcangelo Corelli,Giuseppe Tartini
+1,Arcangelo Corelli,Tomaso Giovanni Albinoni
+1,Arcangelo Corelli,Georg Friedrich Händel
+1,Bedřich Smetana,Carl Maria von Weber
+1,Bedřich Smetana,Antonín Dvořák
+1,Bedřich Smetana,Robert Schumann
+1,Viet Cuong,David Maslanka
+1,Viet Cuong,John Mackey
+1,Viet Cuong,Vincent Persichetti
+1,Carsten Bo Eriksen,Oliver Davis
+1,Carsten Bo Eriksen,Dervis Can Vural
+1,Carsten Bo Eriksen,SOFI PAEZ
+1,Luigi Boccherini,Carl Philipp Emanuel Bach
+1,Luigi Boccherini,Max Bruch
+1,Luigi Boccherini,Franz Joseph Haydn
+1,Felix Mendelssohn,Robert Schumann
+1,Felix Mendelssohn,Johannes Brahms
+1,Felix Mendelssohn,Franz Schubert
+1,Claudio Monteverdi,Henry Purcell
+1,Claudio Monteverdi,Johann Sebastian Bach
+1,Claudio Monteverdi,Georg Friedrich Händel
+1,Francisco Tárrega,Andrés Segovia
+1,Francisco Tárrega,Joaquín Rodrigo
+1,Francisco Tárrega,Isaac Albéniz
+1,Bundu Khan,Umrao Bundu Khan
+1,Bundu Khan,Kamal Sabri
+1,Bundu Khan,Ustad Sabri Khan
+1,Antonio Lauro,Jose Luis Merlin
+1,Antonio Lauro,Maximo Diego Pujol
+1,Antonio Lauro,Johann Kaspar Mertz
+1,Arthur Moreira Lima,Ernesto Nazareth
+1,Arthur Moreira Lima,Altamiro Carrilho
+1,Arthur Moreira Lima,Luperce Miranda
+1,Fernando Sor,Mauro Giuliani
+1,Fernando Sor,Napoléon Coste
+1,Fernando Sor,Federico Moreno Torroba
+1,Alicia de Larrocha,Alfred Brendel
+1,Alicia de Larrocha,Duo Gazzana
+1,Alicia de Larrocha,Владимир Ашкенази
+1,Barkat Ali Khan,Begum Akhtar
+1,Barkat Ali Khan,Bade Ghulam Ali Khan
+1,Barkat Ali Khan,Amir Khan
+1,Vincent Persichetti,Percy Grainger
+1,Vincent Persichetti,John Mackey
+1,Vincent Persichetti,David Maslanka
+1,Allan Pettersson,Karl Amadeus Hartmann
+1,Allan Pettersson,Николай Яковлевич Мясковский
+1,Allan Pettersson,Vagn Holmboe
+1,Severin van Dijk,Peter Burger
+1,Severin van Dijk,Arjan Huizer
+1,Severin van Dijk,Christelijk Koor Jigdaljahu
+1,Matthew Welch,Eric Qin
+1,Matthew Welch,Ulrich Krieger
+1,Matthew Welch,Mark Applebaum
+1,Nils Henrik Asheim,BIT20 Ensemble
+1,Nils Henrik Asheim,Stavanger Symphony Orchestra
+1,Nils Henrik Asheim,Trond-Viggo Torgersen
+1,Kenneth Fuchs,Paul Creston
+1,Kenneth Fuchs,Joel Love
+1,Kenneth Fuchs,Jacques Ibert
+1,Henryk Górecki,Arvo Pärt
+1,Henryk Górecki,Alfred Schnittke
+1,Henryk Górecki,John Tavener
+1,György Kurtág,Kaija Saariaho
+1,György Kurtág,Luigi Nono
+1,György Kurtág,Helmut Lachenmann
+1,Ian Venables,Gerald Finzi
+1,Ian Venables,John Ireland
+1,Ian Venables,Herbert Howells
+1,Hisako Hiseki,"Chopin, Frédéric [Composer]"
+1,Hisako Hiseki,Richard Goode
+1,Hisako Hiseki,Roland Pontinen
+1,Richard Barrett,James Dillon
+1,Richard Barrett,Chaya Czernowin
+1,Richard Barrett,Brian Ferneyhough
+1,Alessandro Scarlatti,Marc-Antoine Charpentier
+1,Alessandro Scarlatti,Heinrich Ignaz Franz von Biber
+1,Alessandro Scarlatti,Giuseppe Torelli
+1,Jaromír Weinberger,Werner Egk
+1,Jaromír Weinberger,Karl Goldmark
+1,Jaromír Weinberger,Franz von Suppé
+1,Franz Schmidt,Hans Rott
+1,Franz Schmidt,Albert Lortzing
+1,Franz Schmidt,Alexander von Zemlinsky
+1,Virgil Thomson,Roger Sessions
+1,Virgil Thomson,William Schuman
+1,Virgil Thomson,David Diamond
+1,Geoffrey Poole,Michael Finnissy
+1,Geoffrey Poole,Mark-Anthony Turnage
+1,Geoffrey Poole,David Maslanka
+1,Fridthjov Anderssen,Ole Paus
+1,Fridthjov Anderssen,Bukkene Bruse
+1,Fridthjov Anderssen,Stine Kleivane Reitan
+1,Michael Finnissy,Rebecca Saunders
+1,Michael Finnissy,Brian Ferneyhough
+1,Michael Finnissy,Jonathan Harvey
+1,Andreas Jakob Romberg,Franz Anton Hoffmeister
+1,Andreas Jakob Romberg,Friedrich Ernst Fesca
+1,Andreas Jakob Romberg,Ferdinand Ries
+1,Paul Hindemith,Sergei Prokofiev
+1,Paul Hindemith,Ralph Vaughan Williams
+1,Paul Hindemith,Igor Stravinsky
+1,Danny Clay,Holy Hydrogen
+1,Danny Clay,Argentus
+1,Danny Clay,One Second Old
+1,Christopher Cerrone,Ted Hearne
+1,Christopher Cerrone,Timo Andres
+1,Christopher Cerrone,Andy Akiho
+1,Sebastian Morawietz,luke gajdus
+1,Sebastian Morawietz,Melaine Dalibert
+1,Sebastian Morawietz,Klangriket
+1,Ruperto Chapí,Tomás Bretón
+1,Ruperto Chapí,Jacinto Guerrero
+1,Ruperto Chapí,Pablo Sorozábal
+1,Carson Cooman,橋本國彦
+1,Carson Cooman,Gloria Coates
+1,Carson Cooman,矢代秋雄
+1,David Matthews,Jiro Inagaki and His Soul Media
+1,David Matthews,Deodato
+1,David Matthews,Roy Ayers
+1,Marin Marais,François Couperin
+1,Marin Marais,Jean-Baptiste Lully
+1,Marin Marais,Jean-Philippe Rameau
+1,Camille Saint-Saëns,Johannes Brahms
+1,Camille Saint-Saëns,Pyotr Ilyich Tchaikovsky
+1,Camille Saint-Saëns,Felix Mendelssohn
+1,Luigi Dallapiccola,Stefan Wolpe
+1,Luigi Dallapiccola,Jonathan Harvey
+1,Luigi Dallapiccola,Charles Wuorinen
+1,Giovanni Battista Pergolesi,Georg Friedrich Händel
+1,Giovanni Battista Pergolesi,Arcangelo Corelli
+1,Giovanni Battista Pergolesi,Henry Purcell
+1,Marian Sawa,Feliks Nowowiejski
+1,Marian Sawa,Jean Langlais
+1,Marian Sawa,Jehan Alain
+1,Dmitry Kabalevsky,Reinhold Glière
+1,Dmitry Kabalevsky,Николай Карлович Метнер
+1,Dmitry Kabalevsky,Anton Arensky
+1,Friedrich Kuhlau,Friedrich Burgmüller
+1,Friedrich Kuhlau,William Sterndale Bennett
+1,Friedrich Kuhlau,Lars Magnus Béen
+1,Georges Bizet,Léo Delibes
+1,Georges Bizet,Giuseppe Verdi
+1,Georges Bizet,Gioacchino Rossini
+1,Brenton Broadstock,Matthew Hindson
+1,Brenton Broadstock,Maria Grenfell
+1,Brenton Broadstock,Stuart Greenbaum
+1,Mieczysław Weinberg,Grażyna Bacewicz
+1,Mieczysław Weinberg,Witold Lutosławski
+1,Mieczysław Weinberg,Karl Amadeus Hartmann
+1,Garreth Broke,Jordane Tumarinson
+1,Garreth Broke,A. Blomqvist
+1,Garreth Broke,Jim Perkins
+1,Selim Palmgren,Leevi Madetoja
+1,Selim Palmgren,Toivo Kuula
+1,Selim Palmgren,Heino Kaski
+1,Tomás Marco,Jesús Rueda
+1,Tomás Marco,Peter Sculthorpe
+1,Tomás Marco,José M. Sánchez-Verdú
+1,Mily Balakirev,Цезарь Антонович Кюи
+1,Mily Balakirev,Sergei Lyapunov
+1,Mily Balakirev,Frank Bridge
+1,Lennox Berkeley,Alan Rawsthorne
+1,Lennox Berkeley,Kenneth Leighton
+1,Lennox Berkeley,Edmund Rubbra
+1,York Bowen,Rebecca Clarke
+1,York Bowen,Lennox Berkeley
+1,York Bowen,Alan Rawsthorne
+1,Franco Margola,Mario Castelnuovo-Tedesco
+1,Franco Margola,Giulio Regondi
+1,Franco Margola,Ferruccio Busoni
+1,Michael Nyman,Wim Mertens
+1,Michael Nyman,Philip Glass
+1,Michael Nyman,Balanescu Quartet
+1,Luigi Cherubini,Francois-Joseph Gossec
+1,Luigi Cherubini,Johann Nepomuk Hummel
+1,Luigi Cherubini,Michael Haydn
+1,Francisco Mignone,Victor Massé
+1,Francisco Mignone,Oskar Merikanto
+1,Francisco Mignone,Josef Mysliveček
+1,Scott Joplin,Jelly Roll Morton
+1,Scott Joplin,James P. Johnson
+1,Scott Joplin,George Gershwin
+1,Frank Martin,Einar Englund
+1,Frank Martin,Arthur Honegger
+1,Frank Martin,Hans Werner Henze
+1,Anton Bruckner,Gustav Mahler
+1,Anton Bruckner,Johannes Brahms
+1,Anton Bruckner,Richard Strauss
+1,Guy Bovet,Marcel Dupré
+1,Guy Bovet,Louis Vierne
+1,Guy Bovet,Sigfrid Karg-Elert
+1,Duke Ellington,Duke Ellington & His Orchestra
+1,Duke Ellington,Count Basie
+1,Duke Ellington,Earl Hines
+1,Alan Weiss,Gerrit Zitterbat
+1,Alan Weiss,Stanley Hoogland
+1,Alan Weiss,Wolfgang Manz
+1,Alcatrazz,Yngwie Malmsteen
+1,Alcatrazz,Michael Schenker Group
+1,Alcatrazz,Dokken
+1,Carl Friedrich Abel,Matthew Locke
+1,Carl Friedrich Abel,Monsieur de Sainte-Colombe
+1,Carl Friedrich Abel,Christopher Simpson
+1,T. Brinda,Semmangudi Srinivasa Iyer
+1,T. Brinda,M. S. Gopalakrishnan
+1,T. Brinda,Hyderabad Brothers
+1,Hubert Parry,Charles Villiers Stanford
+1,Hubert Parry,Herbert Howells
+1,Hubert Parry,Thomas Augustine Arne
+1,Vicente Martín Y Soler,Manuel Penella
+1,Vicente Martín Y Soler,anónimo
+1,Vicente Martín Y Soler,Manuel Blasco de Nebra
+1,Vissarion Shebalin,Николай Яковлевич Мясковский
+1,Vissarion Shebalin,Sergei Taneyev
+1,Vissarion Shebalin,Vladimir Rebikov
+1,Bekah Simms,Hans Abrahamsen
+1,Bekah Simms,Kaija Saariaho
+1,Bekah Simms,György Kurtág
+1,Michael Oesterle,Lucas Ruis Ribayaz
+1,Michael Oesterle,Santiago de Murcia
+1,Michael Oesterle,Gaspar Sanz
+1,Carl Nielsen,Bohuslav Martinů
+1,Carl Nielsen,Darius Milhaud
+1,Carl Nielsen,Franz Berwald
+1,Classical Music Orchestra!,Classical Music for Relaxation / Chopin After Work
+1,Classical Music Orchestra!,Classical Music for Relaxation
+1,Classical Music Orchestra!,[unknown]
+1,Erich Wolfgang Korngold,Victor Young
+1,Erich Wolfgang Korngold,Laurence Rosenthal
+1,Erich Wolfgang Korngold,Édouard Lalo
+1,Miriam Hyde,Ronald Pearl
+1,Miriam Hyde,Cécile Chaminade
+1,Miriam Hyde,Roy Agnew
+1,John Corigliano,Ned Rorem
+1,John Corigliano,Richard Charlton
+1,John Corigliano,Erich Wolfgang Korngold
+1,Berglind María Tómasdóttir,John McCowen
+1,Berglind María Tómasdóttir,Bára Gísladóttir
+1,Berglind María Tómasdóttir,The Hamrahlíð Choir
+1,Daniel Ligorio,Frank van de Laar
+1,Daniel Ligorio,Douglas Riva
+1,Daniel Ligorio,Ingolf Wunder
+1,Kurt Atterberg,Lars-Erik Larsson
+1,Kurt Atterberg,Ernest John Moeran
+1,Kurt Atterberg,Einar Englund
+1,Karl-Erik Welin,Sven-David Sandström
+1,Karl-Erik Welin,Antoinette Vischer
+1,Karl-Erik Welin,Sven-Erik Bäck
+1,Dionisio Aguado,Ferdinando Carulli
+1,Dionisio Aguado,Agustin Barrios Mangore
+1,Dionisio Aguado,Jakub Kosciuszko
+1,Max Bruch,Luigi Boccherini
+1,Max Bruch,Felix Mendelssohn
+1,Max Bruch,Antonín Dvořák
+1,Alfred Cortot,Shura Cherkassky
+1,Alfred Cortot,Artur Schnabel
+1,Alfred Cortot,Edwin Fischer
+1,Astor Piazzolla,Roberto Goyeneche
+1,Astor Piazzolla,Carlos Gardel
+1,Astor Piazzolla,Osvaldo Pugliese
+1,Lori Laitman,Short Productions
+1,Lori Laitman,Peter Dart
+1,Lori Laitman,Rex Nabours III
+1,Michael Torke,Aaron Jay Kernis
+1,Michael Torke,Graham Fitkin
+1,Michael Torke,Douwe Eisenga
+1,Michael Haydn,Carl Stamitz
+1,Michael Haydn,Pietro Antonio Locatelli
+1,Michael Haydn,Johann Nepomuk Hummel
+1,David Maslanka,John Mackey
+1,David Maslanka,Julie Giroux
+1,David Maslanka,Viet Cuong

@@ -1,201 +1,568 @@
-artista,similares
-['Rocío Dúrcal'],"['Ana Gabriel', 'Marisela', 'Marco Antonio Solís', 'Emmanuel', 'Isabel Pantoja']"
-['Sombra y Luz'],"['Los Moles', 'Saray Vargas & Tijeritas', 'Tijeritas', 'Los Calis', 'Jeros']"
-['Fleur East'],"['Alexandra Burke', 'Louisa Johnson', 'Alesha Dixon', 'The Saturdays', 'Little Mix']"
-['Tino Casal'],"['Alaska y Dinarama', 'Olé Olé', 'La Guardia', 'Mecano', 'Radio Futura']"
-['JENCARLOS'],"['Jencarlos Canela', 'Chyno Miranda', 'Felipe Santos', 'Domino Saints', 'The Rudeboyz']"
-['DJ Antoine'],"['R.I.O.', 'Edward Maya', 'Global Deejays', 'Remady', 'Akcent']"
-['Sergio Dalma'],"['Café Quijano', 'José Luis Perales', 'Melendi', 'Seguridad Social', 'David Bisbal']"
-['Loquillo'],"['Loquillo Y Los Trogloditas', 'Seguridad Social', 'La Guardia', 'Los Ronaldos', 'Antonio Flores']"
-['El Palacio de Linares'],"['Hazte Lapón', 'Kokoshca', 'Rusos Blancos', 'Betacam', 'Los lagos de Hinault']"
-['Marco Mengoni'],"['Ermal Meta', 'Mahmood', 'Annalisa', 'Francesca Michielin', 'Elodie']"
-['Bomba Estéreo'],"['Systema Solar', 'ChocQuibTown', 'Mitú', 'Aterciopelados', 'Monsieur Periné']"
-['Rosana'],"['Deborah Blando', 'Ella Baila Sola', 'Rosario', 'Diego Torres', 'Alejandro Sanz']"
-['Los Rebeldes'],"['Gatos Locos', 'Loquillo y Trogloditas', 'Loquillo Y Los Intocables', 'Los Coyotes', 'Rey Lui']"
-['Felix Jaehn'],"['Robin Schulz', 'Topic', 'Sam Feldt', 'twocolors', 'Jax Jones']"
-['Pablo Alborán'],"['David Bisbal', 'Jesse & Joy', 'Manuel Carrasco', 'Carlos Rivera', 'Antonio José']"
-['Juventud Juché'],"['cuello', 'Antiguo Régimen', 'Disco las palmeras!', 'Cuchillo de Fuego', 'Fiera']"
-['Kañasur'],"['Cherezade', 'El Suso', 'El biri', 'María Artés Lamorena', 'Fran Ocaña']"
-['Sigala'],"['Joel Corry', 'Jonas Blue', 'Jax Jones', 'Sam Feldt', 'Nathan Dawe']"
-['KSHMR'],[]
-['Nada Surf'],"['Rogue Wave', 'The Lemonheads', 'Superdrag', 'Buffalo Tom', 'The Long Winters']"
-['Sweet California'],"['Auryn', 'Lucy Paradise', 'Calum', 'Mario Jefferson', 'Carlos Marco']"
-['Varry Brava'],"['Viva Suecia', 'Miss Caffeina', 'Lori Meyers', 'La La Love You', 'Sidonie']"
-['John Newman'],"['Zak Abel', 'Kwabs', 'Olly Murs', 'Alvaro Soler', 'Lukas Graham']"
-['Extraperlo'],"['Cuchillo', 'Klaus & Kinski', 'Doble Pletina', 'Linda Mirada', 'Lidia Damunt']"
-['Baby K'],"['Takagi & Ketra', 'Fred De Palma', 'Elettra Lamborghini', 'Annalisa', 'J-AX']"
-['Bastille'],"['To Kill a King', 'Imagine Dragons', 'X Ambassadors', 'BANNERS', 'American Authors']"
-['Maki'],"['NIO', 'Cup of Joe', 'Rob Deniel', 'Bini', 'Adie']"
-['Nyno Vargas'],"['Nikone', 'Raoul Vázquez', 'Merche', 'La Fúmiga', 'David DeMaría']"
-['Cristian Guerrero'],"['Ginera Ortega', 'Israel Paz', 'Enrique Morente con La Barberia del Sur', 'Potito con Estrella Morente', 'Rafa Serna con Sandra Carrasco']"
-['Paty Cantú'],"['María José', 'Belinda', 'Jesse & Joy', 'HA-ASH', 'Belanova']"
-['David Barrull'],"['Nolasco', 'Sarayma', 'Canelita', 'Parrita', 'Rasel']"
-['Soraya'],"['Chenoa', 'Mónica Naranjo', 'Thalía', 'Gloria Estefan', 'Alex Ubago']"
-['Neleonard'],"['Sagrado Corazón de Jesús', 'Hazte Lapón', 'Rusos Blancos', 'Doble Pletina', 'El Palacio De Linares']"
-['Fernando Castro'],"['El maki', 'Antonio Romero', 'Radio Macandé', 'Joan Tena', 'Yolanda Ramos']"
-['DMEI'],"['Eva Ruiz', 'Salvador Beltran', 'Neus Ferri', 'Funambulista', 'Tatishé']"
-['Duo Dinamico'],[]
-['Rulo y la contrabanda'],"['Albertucho', 'Forraje', 'EXCESO', 'Barricada Y Rosendo', 'Inconscientes']"
-['Scotty'],"['Fidel Wicked', 'Marc Korn', 'Chris Parker', 'DJ Polkovnik', 'FLGTT']"
-['Monoir'],[]
-['Texxcoco'],"['Perro', 'Medalla', 'Monteperdido', 'Kings Of The Beach', 'Pinpilinpussies']"
-['Pablo Und Destruktion'],"['Fee Reega', 'Lorena Álvarez', 'Antiguo Régimen', 'La estrella de David', 'Elle Belga']"
-['Fernando Caro'],"['Sergio Contreras', 'El Tren De Los Sueños', 'fernando castro', 'SinLache', 'Decai']"
-['Pablo López'],"['Antonio José', 'Malú', 'Miriam Rodríguez', 'Rozalén', 'Leiva']"
-['Dimitri Vegas & Like Mike'],"['Hardwell', 'Timmy Trumpet', 'R3hab', 'Dimitri Vegas', 'Martin Garrix']"
-['Tasmin Archer'],"['Sophie B. Hawkins', 'M People', 'Texas', 'Belinda Carlisle', ""Des'ree""]"
-['Murciano Total'],"['Hazte Lapón', 'Cosmen Adelaida', 'Doble Pletina', 'Perro', 'Trepàt']"
-['Luis Fonsi'],"['David Bisbal', 'Reik', 'Alex Ubago', 'Sin Bandera', 'Chayanne']"
-['Manuel Medrano'],"['Andrés Cepeda', 'Bacilos', 'Sin Bandera', 'Fonseca', 'Cabas']"
-['La Unión'],"['Duncan Dhu', 'Hombres G', 'Mikel Erentxun', 'Enanitos Verdes', 'Radio Futura']"
-['DNCE'],"['Jonas Brothers', 'Nick Jonas', 'Joe Jonas', 'Nick Jonas & the Administration', 'Maroon 5']"
-['Joe Crepúsculo'],"['Los Punsetes', 'Nacho Vegas', 'Hidrogenesse', 'Sidonie', 'Los Planetas']"
-['Juan Magán'],"['Omar Montes', 'Ana Mena', 'David Bisbal', 'Wisin', 'Don Omar']"
-['Rasel'],"['Sergio Contreras', 'Demarco Flamenco', 'Luis Cortés', 'Belén Moreno', 'Los Rebujitos']"
-['Kiko y Shara'],[]
-['Lucas Masciano'],"['Jaula de Grillos', 'Iguana Tango', 'Melocos', 'Calle París', 'Indras']"
-['The New Raemon'],"['McEnroe', 'The New Raemon, Francisco Nixon & Ricardo Vicente', 'Francisco Nixon', 'Egon Soda', 'Manos De Topo']"
-['Sidecars'],"['Leiva', 'Shinova', 'Despistaos', 'Pereza', 'Dani Martín']"
-['3LAU'],"['Seven Lions', 'Gryffin', 'Vicetone', 'Alesso', 'Kream']"
-['Juanes'],"['Bacilos', 'Carlos Vives', 'Fonseca', 'Maná', 'Andrés Cepeda']"
-['Alex Ubago'],"['Sin Bandera', 'Cristian Castro', 'David Bisbal', 'Reik', 'Chayanne']"
-['Mikel Erentxun'],"['Duncan Dhu', 'La Unión', 'Enrique Bunbury', 'La Ley', 'Hombres G']"
-['Marta Quintero'],"['El Tren De Los Sueños', 'Joana Jiménez', 'Juan Pena', 'Belén Moreno', 'Nolasco']"
-['Bordon-4'],"['Los Calis (F)', 'Junco', 'Bordon 4', 'Los Moles', 'Jeros']"
-['Celia Gamez'],[]
-['Paulina Rubio'],"['Fey', 'Thalía', 'Belinda', 'Gloria Trevi', 'Alejandra Guzmán']"
-['Marta Soto'],"['Sofia Ellar', 'Gonzalo Hermida', 'Famous Oberogo', 'Sinsinati', 'Marilia Monzón']"
-['Capitán Sunrise'],"['Band À Part', 'Doble Pletina', 'Lois Casino', 'Rusos Blancos', 'Neleonard']"
-['Kylie Minogue'],"['Dannii Minogue', 'Sophie Ellis-Bextor', 'Madonna', 'Girls Aloud', 'Cher']"
-['Armin van Buuren'],"['Andrew Rayel', 'Ferry Corsten', 'Ben Gold', 'Giuseppe Ottaviani', 'Cosmic Gate']"
-['Tony Ronald'],"['Bruno Lomas', 'Santabarbara', 'Dúo Dinámico', 'Los Náufragos', 'José Alfredo Fuentes']"
-['Depressing Claim'],"['Los Reactivos', 'No Picky', 'Fast Food', 'Sugus', 'F.A.N.T.A.']"
-['Jarabe De Palo'],"['Fito Y Fitipaldis', 'El Canto del Loco', 'Enanitos Verdes', 'Café Quijano', 'Duncan Dhu']"
-['Vainica Doble'],"['Carlos Berlanga', 'Single', 'Aventuras De Kirlian', 'Mano De Santo', 'Nosoträsh']"
-['Elena'],[]
-['Nuevos Hobbies'],"['El Palacio De Linares', 'Hazte Lapón', 'Río Arga', 'Betacam', 'Kokoshca']"
-['Umberto Tozzi'],"['Ricchi e poveri', 'Toto Cutugno', 'Al Bano & Romina Power', 'Pupo', 'Riccardo Fogli']"
-['Camela'],"['El Arrebato', 'Estopa', 'El Canto del Loco', 'Andy & Lucas', 'Melendi']"
-['Ivan Ferreiro'],[]
-['Grises'],"['Jero Romero', 'Neuman', 'Buffetlibre', 'We Are Standard', 'Hola a todo el mundo']"
-['Corizonas'],"['Arizona Baby', 'The Right Ons', 'El Meister', 'Idealipsticks', 'The Bright']"
-['Poupie'],"['Aloïse Sauvage', 'kalika', 'The Pirouettes', 'Johnny Jane', 'Laurie Darmon']"
-['Makarines'],"['Diego Magallanes', 'Ginera Ortega', 'Alicia Gil', 'Miguel Poveda con Diego Carrasco', 'Potito con Estrella Morente']"
-['Justin Timberlake'],"['*NSYNC', 'Usher', 'Timbaland', 'Robin Thicke', 'Jennifer Lopez']"
-['Aitana'],"['Ana Mena', 'Belén Aguilera', 'Lola Indigo', 'Vicco', 'Miriam Rodríguez']"
-['Efecto Pasillo'],"['Leiva', 'Melendi', 'Maldita Nerea', 'Måneskin', 'El Canto del Loco']"
-['Miguel Bosé'],"['Alejandro Sanz', 'Emmanuel', 'Aleks Syntek', 'Ana Torroja', 'Mecano']"
-['Radio Futura'],"['Burning', 'Gabinete Caligari', 'Nacha Pop', 'Loquillo Y Los Trogloditas', 'Los Ronaldos']"
-['Alesso'],"['Martin Garrix', 'Hardwell', 'Afrojack', 'Axwell /\\ Ingrosso', 'Nicky Romero']"
-['Betacam'],"['Kokoshca', 'Los lagos de Hinault', 'La estrella de David', 'Hazte Lapón', 'Doble Pletina']"
-['MARLENA'],"['K!ngdom', 'st. Pedro', 'Mel Ömana', 'Noan', 'Megara']"
-['George Ezra'],"['Vance Joy', 'James Bay', 'Tom Grennan', 'Olly Murs', 'Mumford & Sons']"
-['Liam Payne'],"['Zayn', 'One Direction', 'Niall Horan', 'Louis Tomlinson', 'Harry Styles']"
-['Kokoshca'],"['Betacam', 'Rusos Blancos', 'La estrella de David', 'Los lagos de Hinault', 'Hazte Lapón']"
-['Sia'],"['Bebe Rexha', 'Adele', 'Birdy', 'P!nk', 'Tones and I']"
-['The Civil Wars'],"['Damien Rice', 'Ray LaMontagne', 'Mumford & Sons', 'Amos Lee', 'Joshua Radin']"
-['Sebastian Yatra'],"['Piso 21', 'Cali & El Dandee', 'Manuel Turizo', 'Fonseca', 'Carlos Vives']"
-['Sexy Sadie'],"['Australian Blonde', 'Tachenko', 'La Costa Brava', 'El Hombre Burbuja', 'The Unfinished Sympathy']"
-['Paco Candela'],"['Lubricán', 'Ecos del Rocío', 'María de la Colina', 'Manuel Orta', 'manguara']"
-['Antonio José'],"['Pablo López', 'Manuel Carrasco', 'Antonio Orozco', 'Pablo Alborán', 'David Bisbal']"
-['Duran Duran'],"['Arcadia', 'Kajagoogoo', 'The Power Station', 'Japan', 'Spandau Ballet']"
-['Marisol'],"['Los Secretos', 'Massiel', 'Los Bravos', 'Mocedades', 'Nino Bravo']"
-['Kungs'],"['Ofenbach', 'Martin Solveig', 'Feder', 'The Avener', 'Bakermat']"
-['Tequila'],"['Leño', 'Los Ronaldos', 'Burning', 'Loquillo', 'Seguridad Social']"
-['Tachenko'],"['La Costa Brava', 'Francisco Nixon', 'Travolta', 'Tarik y la Fábrica de Colores', 'Clovis']"
-['Lola Indigo'],"['Ana Mena', 'Aitana', 'Belén Aguilera', 'Omar Montes', 'Vicco']"
-['Sylvia Pantoja'],"['Tatiana Delalvz', 'La Húngara', 'Rosa López', 'Nuria Fergó', 'Shakira Martínez']"
-['Ana Guerra'],"['Miriam Rodríguez', 'Vicco', 'Aitana', 'Belén Aguilera', 'Ana Mena']"
-['Leiva'],"['Pereza', 'Vetusta Morla', 'Sidecars', 'Dani Martín', 'Fito Y Fitipaldis']"
-['Veintiuno'],[]
-['Hans Laguna'],"['Cosmen Adelaida', 'Les Sueques', 'Las Ruinas', 'Modelo de respuesta polar', 'Tórtel']"
-['a-ha'],"['Morten Harket', 'Alphaville', 'Duran Duran', 'Tears for Fears', 'Pet Shop Boys']"
-['Loquillo Y Los Trogloditas'],"['Loquillo', 'Los Ronaldos', 'Radio Futura', 'Siniestro Total', 'Fito Y Fitipaldis']"
-['Cuello'],"['La URSS', ""L'Hereu Escampa"", 'Kokoshca', 'Camellos', 'Sandré']"
-['Meghan Trainor'],"['Ava Max', 'Bebe Rexha', 'Rita Ora', 'Tori Kelly', 'Anne-Marie']"
-['Oblique'],"['Katsen', 'The Ultrasonics', 'Electrobelle', 'Northern Kind', 'Cosaquitos En Globo']"
-['Karina'],"['Cazzu', 'NINGNING', 'aespa', 'Ha*Ash', 'Nicki Nicole']"
-['Los Chanela'],[]
-['Cosmo K'],"['Lidia Damunt', 'Maria Rodés Y La Estrella de David', 'Maria Rodés', 'Ruiseñora', 'Maren']"
-['Mujeres'],"['Triángulo de Amor Bizarro', 'La Paloma', 'Cala Vento', 'Karavana', 'Carolina Durante']"
-['Fangoria'],"['Alaska y Dinarama', 'La Prohibida', 'Mónica Naranjo', 'La Casa Azul', 'Amaral']"
-['Da Igual'],"['nada que decir', 'Doctor Pitangú', 'Barrio Sur', 'EXCESO', 'Lagarto Amarillo']"
-['P!nk'],"['Kelly Clarkson', 'Jessie J', 'Avril Lavigne', 'Cher', 'Christina Aguilera']"
-['Carlos Baute'],"['David Bisbal', 'Chayanne', 'Luis Fonsi', 'Fonseca', 'Reik']"
-['Post Malone'],"['Tyla Yaweh', 'The Kid LAROI', '24kGoldn', 'Jelly Roll', 'Jack Harlow']"
-['Noelia'],"['Chayanne', 'Cristian Castro', 'Franco De Vita', 'La Quinta Estación', 'Paulina Rubio']"
-['VINAI'],"['Klaas', 'lunax', 'Tungevaag', 'R3hab', 'Vize']"
-['Manuel Carrasco'],"['Antonio Orozco', 'India Martinez', 'Antonio José', 'Vanesa Martín', 'David Bisbal']"
-['Chaqueta de Chándal'],"['Camellos', 'Pantocrator', 'Parquesvr', 'Los Estanques', 'Alavedra']"
-['Leif Garrett'],"['Racey', 'Bay City Rollers', 'The Rubettes', 'Little River Band', 'Amii Stewart']"
-['Dani Fernández'],"['Antonio José', 'Mayo', 'Depol', 'Álvaro De Luna', 'La La Love You']"
-['Miley Cyrus'],"['Hannah Montana', 'Lady Gaga', 'Selena Gomez', 'Demi Lovato', 'Ke$ha']"
-['No Me Pises Que Llevo Chanclas'],"['Los Inhumanos', 'Los Sencillos', 'Manolo Tena', 'Un Pingüino En Mi Ascensor', 'Tam Tam Go!']"
-['Los Yakis'],"['Angeliyo El Blanco', 'Los Rockin Devils', 'Los Locos Del Ritmo', 'Fran y Nico', 'Big Lois']"
-['Blas Cantó'],"['Emma Muscat', 'James Newman', 'Benny Cristo', 'Natalia Gordienko', 'Miki Núñez']"
-['Carlos Berlanga'],"['Algora', 'Mano De Santo', 'Single', 'Ellos', 'La Monja Enana']"
-['Diego Martín'],"['David DeMaría', 'Efecto Mariposa', 'La Caja De Pandora', 'Belén Arjona', 'Melocos']"
-['The Cardigans'],"['A Camp', 'Sixpence None the Richer', 'Garbage', 'No Doubt', 'Alanis Morissette']"
-['El Arrebato'],"['El Barrio', 'Andy & Lucas', 'Estopa', 'Melendi', 'Manzanita']"
-['MEDUZA'],"['Alok', 'Joel Corry', 'Jax Jones', 'twocolors', 'Lost Frequencies']"
-['Swing Out Sister'],"['Basia', 'Matt Bianco', 'Lisa Stansfield', 'Incognito', 'The Style Council']"
-['Vanesa Martín'],"['Manuel Carrasco', 'Pastora Soler', 'Rozalén', 'Antonio Orozco', 'Malú']"
-['Pyllo Cortes'],"['M Caló', 'Pedro El Flamenkito', 'Luis Cortés', 'Big Lois', 'Galvan Real']"
-['Kenny Man'],"['Dimelo Flow', 'Lil Silvio & El Vega', 'Chris Jeday', 'Leka el Poeta', 'Comando Tiburon']"
-"['Emilia, Pardo y Bazán']","['Alejandro Rosa', 'canciller', 'Dj Moderno', 'Señor Torrance', 'Sweet Q']"
-['Potito'],"['Montse Cortés', 'El Potito', 'Diego Carrasco', 'Remedios Amaya', 'Duquende']"
-['Greeicy'],"['Mike Bahía', 'Camilo', 'Piso 21', 'Sofía Reyes', 'Natti Natasha']"
-['MARÍA TOLEDO'],"['Kiki Morente', 'Parrita', 'Israel Fernández', 'El Pele', 'Sarayma']"
-['Rayo'],"['Lasitud', 'Vaya Futuro', 'Cora Yako', 'coloreSantos', 'Los Mundos']"
-['Álvaro De Luna'],"['Vicco', 'Ana Mena', 'Dvicio', 'Lola Indigo', 'Miki Núñez']"
-['Avicii'],"['Kygo', 'Tim Berg', 'Martin Garrix', 'Axwell /\\ Ingrosso', 'Alesso']"
-['Los Piratas'],"['Iván Ferreiro', 'Los Planetas', 'Lori Meyers', 'Love of Lesbian', 'Sidonie']"
-['Airbag'],"['Bjørn Riis', 'RPWL', 'The Pineapple Thief', 'Gazpacho', 'Nosound']"
-['Nueva Vulcano'],"['Madee', 'Half Foot Outside', 'The Unfinished Sympathy', 'Betunizer', 'Nisei']"
-['Diamante Negro'],"['La trinidad', 'Camellos', 'Mediapunta', 'La Culpa', 'Toldos Verdes']"
-['Shinova'],"['Supersubmarina', 'Vetusta Morla', 'Second', 'Sexy Zebras', 'Sidecars']"
-['Fito y Fitipaldis'],"['El Canto del Loco', 'Platero y tú', 'Extremoduro', 'M-Clan', 'Pereza']"
-['Pablo Prisma y las Pirámides'],[]
-['Melenas'],"['Mujeres', 'Triángulo de Amor Bizarro', 'Chastity Belt', 'Nation of Language', 'RVG']"
-['Massiel'],"['Mari Trini', 'Rocío Jurado', 'Marisol', 'Paloma San Basilio', 'Mocedades']"
-['Miss Caffeina'],"['Sidonie', 'Lori Meyers', 'Supersubmarina', 'Varry Brava', 'Veintiuno']"
-['David DeMaría'],"['Diego Martín', 'Merche', 'David Bustamante', 'David Civera', 'Kiko & Shara']"
-['Nolasco'],"['Los Rebujitos', 'Siempre Asi', 'juanlu montoya', 'Demarco Flamenco', 'Sarayma']"
-['Elbicho'],"['Mártires Del Compás', 'Canteca De Macao', 'Miguel Campello', ""D'Callaos"", 'Muchachito Bombo Infierno']"
-['Marlon'],"['Fran Perea', 'Flynn Bridgewater', 'Mellow Strings', 'DCS', 'Harmonic Fusion']"
-['from'],"['Marcelo Criminal', 'Diamante Negro', 'el buen hijo', 'Marcos y Molduras', 'Mediapunta']"
-['Antonio Orozco'],"['Manuel Carrasco', 'Conchita', 'Melendi', 'Antonio José', 'India Martinez']"
-['Pitingo'],"['Antonio Carmona', 'José Mercé', 'Falete', 'Miguel Poveda', 'Las Niñas']"
-['Pitovnis'],"['Ragdog', 'Indras', 'MISTER COMETA', 'Jaula de Grillos', 'Melocos']"
-['Alexie Divello'],"['Allertz', 'Electrick Village', 'Sebastian Sollerman', 'Made In June', 'John Alexander']"
-['Sinay'],"['Parrita', 'LOS BANIS', 'Nouna', 'Sonsonete', 'Banis']"
-['Barroso'],"['León Bravo', 'Keen Levy', 'Dani MDR', 'Galvan Real', 'Sami Duque']"
-['El Sueño de Morfeo'],"['Amaral', 'El Canto del Loco', 'Nena Daconte', 'La Oreja de Van Gogh', 'Pereza']"
-['Detergente Líquido'],"['Hazte Lapón', 'Alexanderplatz', 'Betacam', 'Kokoshca', 'Rusos Blancos']"
-['El Grajo'],[]
-['Feedbacks'],"['Bryan Estepa', 'Bronco Bullfrog', 'Kurt Baker', ""Paul Collins' Beat"", 'Los Hermanos Dalton']"
-['The Reflectors'],"['The Speedways', 'The Whiffs', 'Brad Marino', 'Uni Boys', 'The Boys With The Perpetual Nervousness']"
-['Bravo Fisher!'],"['Rusos Blancos', 'Ellos', 'Klaus & Kinski', 'Jero Romero', 'Algora']"
-['Ghost Town'],"['Get Scared', ""Snow White's Poison Bite"", 'Famous Last Words', 'Pierce the Veil', 'Breathe Carolina']"
-['Merche'],"['La Caja De Pandora', 'Efecto Mariposa', 'David Bustamante', 'David Civera', 'Melocos']"
-['Belako'],"['Alcalá Norte', 'Melenas', 'Nudozurdo', 'El Columpio Asesino', 'La Plata']"
-['Pastora Soler'],"['Vanesa Martín', 'Malú', 'Edurne', 'Ruth Lorenzo', 'Mónica Naranjo']"
-['Parade'],"[""Girls Can't Catch"", 'SoundGirl', 'Wonderland', 'Belle Amie', 'Misha B']"
-['Huecco'],"['Alvaro Soler', 'Los Aslándticos', 'Sofia Reyes', 'Pereza', 'La Fuga']"
-['Depedro'],"['Izal', 'Sidonie', 'Supersubmarina', 'Vetusta Morla', 'Second']"
-['José El Francés'],"['Queco', 'Navajita Plateá', 'Tijeritas', 'Nolasco', 'Maita Vende Ca']"
-['La Barbería Del Sur'],"['Navajita Plateá', 'Ray Heredia', 'Raimundo Amador', 'Paco Ortega', 'Tomasito']"
-['Nicky Romero'],"['Hardwell', 'DubVision', 'Martin Garrix', 'Don Diablo', 'Alesso']"
-['Vinicio Capossela'],"['Francesco De Gregori', 'Fabrizio De André', 'Mannarino', 'Ivano Fossati', 'Daniele Silvestri']"
-['Atencion Tsunami'],"['Incendios', 'Autumn Comets', 'Modelo de respuesta polar', 'Perro', 'Rusos Blancos']"
-['Manta Ray'],"[""Surfin' Bichos"", 'Mercromina', 'Corcobado y Manta Ray', '12Twelve', 'Australian Blonde']"
-['Pastor Lopez Y Su Combo'],"['Nelson Henriquez', 'Armando Hernandez', 'Los Hispanos', 'Los Graduados', 'Los Warahuaco']"
-['José Parra'],"['Pansequito', 'Vicente Soto Sordera', 'Sonia Miranda', 'Luis De Córdoba', 'El Pele']"
-['Los Flechazos'],"['Cooper', 'Brighton 64', 'la granja', 'La Costa Brava', ""Surfin' Bichos""]"
-['Cristóbal Jiménez'],"['Francisco Montoya', 'Freddy Salcedo', 'Reynaldo Armas', 'Reyna Lucero', 'Armando Martínez']"
-['Roberto Bueno'],"['Adrian Cabeza', 'Kiko Romero El Grillo', 'El Suso', 'Rubén Martín', 'Cherezade']"
-['W&W'],"['NWYR', 'Orjan Nilsen', 'Ummet Ozcan', 'Jorn van Deynhoven', 'Simon Patterson']"
-['Terrier'],"['Diamante Negro', 'Juventud Juché', 'Fuckaine', 'Disco las palmeras!', 'Futuro Terror']"
-['Montse Cortés'],"['La Susi', 'Potito', 'La Tana', 'Marina Heredia', 'Ginesa Ortega']"
-['Diana Navarro'],"['Pasión Vega', 'David DeMaría', 'Rocio Jurado', 'Nuria Fergó', 'Roser']"
-['Javier Ojeda'],"['La Dama Se Esconde', 'Cabaret Pop', 'Pistones', 'Los Sencillos', 'Esclarecidos']"
+id_genero,artista,similar
+3,Sombra y Luz,Los Moles
+3,Sombra y Luz,Saray Vargas & Tijeritas
+3,Sombra y Luz,Tijeritas
+3,Fleur East,Alexandra Burke
+3,Fleur East,Louisa Johnson
+3,Fleur East,Alesha Dixon
+3,Tino Casal,Alaska y Dinarama
+3,Tino Casal,Olé Olé
+3,Tino Casal,La Guardia
+3,JENCARLOS,Jencarlos Canela
+3,JENCARLOS,Chyno Miranda
+3,JENCARLOS,Felipe Santos
+3,DJ Antoine,R.I.O.
+3,DJ Antoine,Edward Maya
+3,DJ Antoine,Global Deejays
+3,Sergio Dalma,Café Quijano
+3,Sergio Dalma,José Luis Perales
+3,Sergio Dalma,Melendi
+3,Loquillo,Loquillo Y Los Trogloditas
+3,Loquillo,Seguridad Social
+3,Loquillo,La Guardia
+3,El Palacio de Linares,Hazte Lapón
+3,El Palacio de Linares,Kokoshca
+3,El Palacio de Linares,Rusos Blancos
+3,Marco Mengoni,Ermal Meta
+3,Marco Mengoni,Mahmood
+3,Marco Mengoni,Annalisa
+3,Bomba Estéreo,Systema Solar
+3,Bomba Estéreo,ChocQuibTown
+3,Bomba Estéreo,Mitú
+3,Rosana,Deborah Blando
+3,Rosana,Ella Baila Sola
+3,Rosana,Rosario
+3,Los Rebeldes,Gatos Locos
+3,Los Rebeldes,Loquillo y Trogloditas
+3,Los Rebeldes,Loquillo Y Los Intocables
+3,Felix Jaehn,Robin Schulz
+3,Felix Jaehn,Topic
+3,Felix Jaehn,Sam Feldt
+3,Pablo Alborán,David Bisbal
+3,Pablo Alborán,Jesse & Joy
+3,Pablo Alborán,Manuel Carrasco
+3,Juventud Juché,cuello
+3,Juventud Juché,Antiguo Régimen
+3,Juventud Juché,Disco las palmeras!
+3,Kañasur,Cherezade
+3,Kañasur,El Suso
+3,Kañasur,El biri
+3,Sigala,Joel Corry
+3,Sigala,Jonas Blue
+3,Sigala,Jax Jones
+3,Nada Surf,Rogue Wave
+3,Nada Surf,The Lemonheads
+3,Nada Surf,Superdrag
+3,Sweet California,Auryn
+3,Sweet California,Lucy Paradise
+3,Sweet California,Calum
+3,Varry Brava,Viva Suecia
+3,Varry Brava,Miss Caffeina
+3,Varry Brava,Lori Meyers
+3,John Newman,Zak Abel
+3,John Newman,Kwabs
+3,John Newman,Olly Murs
+3,Extraperlo,Cuchillo
+3,Extraperlo,Klaus & Kinski
+3,Extraperlo,Doble Pletina
+3,Baby K,Takagi & Ketra
+3,Baby K,Fred De Palma
+3,Baby K,Elettra Lamborghini
+3,Bastille,To Kill a King
+3,Bastille,Imagine Dragons
+3,Bastille,X Ambassadors
+3,Maki,NIO
+3,Maki,Cup of Joe
+3,Maki,Rob Deniel
+3,Nyno Vargas,Nikone
+3,Nyno Vargas,Raoul Vázquez
+3,Nyno Vargas,Merche
+3,Cristian Guerrero,Ginera Ortega
+3,Cristian Guerrero,Israel Paz
+3,Cristian Guerrero,Enrique Morente con La Barberia del Sur
+3,Paty Cantú,María José
+3,Paty Cantú,Belinda
+3,Paty Cantú,Jesse & Joy
+3,David Barrull,Nolasco
+3,David Barrull,Sarayma
+3,David Barrull,Canelita
+3,Soraya,Chenoa
+3,Soraya,Mónica Naranjo
+3,Soraya,Thalía
+3,Neleonard,Sagrado Corazón de Jesús
+3,Neleonard,Hazte Lapón
+3,Neleonard,Rusos Blancos
+3,Fernando Castro,El maki
+3,Fernando Castro,Antonio Romero
+3,Fernando Castro,Radio Macandé
+3,DMEI,Eva Ruiz
+3,DMEI,Salvador Beltran
+3,DMEI,Neus Ferri
+3,Rulo y la contrabanda,Albertucho
+3,Rulo y la contrabanda,Forraje
+3,Rulo y la contrabanda,EXCESO
+3,Scotty,Fidel Wicked
+3,Scotty,Marc Korn
+3,Scotty,Chris Parker
+3,Texxcoco,Perro
+3,Texxcoco,Medalla
+3,Texxcoco,Monteperdido
+3,Pablo Und Destruktion,Fee Reega
+3,Pablo Und Destruktion,Lorena Álvarez
+3,Pablo Und Destruktion,Antiguo Régimen
+3,Fernando Caro,Sergio Contreras
+3,Fernando Caro,El Tren De Los Sueños
+3,Fernando Caro,fernando castro
+3,Pablo López,Antonio José
+3,Pablo López,Malú
+3,Pablo López,Miriam Rodríguez
+3,Dimitri Vegas & Like Mike,Hardwell
+3,Dimitri Vegas & Like Mike,Timmy Trumpet
+3,Dimitri Vegas & Like Mike,R3hab
+3,Tasmin Archer,Sophie B. Hawkins
+3,Tasmin Archer,M People
+3,Tasmin Archer,Texas
+3,Murciano Total,Hazte Lapón
+3,Murciano Total,Cosmen Adelaida
+3,Murciano Total,Doble Pletina
+3,Luis Fonsi,David Bisbal
+3,Luis Fonsi,Reik
+3,Luis Fonsi,Alex Ubago
+3,Manuel Medrano,Andrés Cepeda
+3,Manuel Medrano,Bacilos
+3,Manuel Medrano,Sin Bandera
+3,La Unión,Duncan Dhu
+3,La Unión,Hombres G
+3,La Unión,Mikel Erentxun
+3,DNCE,Jonas Brothers
+3,DNCE,Nick Jonas
+3,DNCE,Joe Jonas
+3,Joe Crepúsculo,Los Punsetes
+3,Joe Crepúsculo,Nacho Vegas
+3,Joe Crepúsculo,Hidrogenesse
+3,Juan Magán,Omar Montes
+3,Juan Magán,Ana Mena
+3,Juan Magán,David Bisbal
+3,Rasel,Sergio Contreras
+3,Rasel,Demarco Flamenco
+3,Rasel,Luis Cortés
+3,Lucas Masciano,Jaula de Grillos
+3,Lucas Masciano,Iguana Tango
+3,Lucas Masciano,Melocos
+3,The New Raemon,McEnroe
+3,The New Raemon,"The New Raemon, Francisco Nixon & Ricardo Vicente"
+3,The New Raemon,Francisco Nixon
+3,Sidecars,Leiva
+3,Sidecars,Shinova
+3,Sidecars,Despistaos
+3,3LAU,Seven Lions
+3,3LAU,Gryffin
+3,3LAU,Vicetone
+3,Juanes,Bacilos
+3,Juanes,Carlos Vives
+3,Juanes,Fonseca
+3,Alex Ubago,Sin Bandera
+3,Alex Ubago,Cristian Castro
+3,Alex Ubago,David Bisbal
+3,Mikel Erentxun,Duncan Dhu
+3,Mikel Erentxun,La Unión
+3,Mikel Erentxun,Enrique Bunbury
+3,Marta Quintero,El Tren De Los Sueños
+3,Marta Quintero,Joana Jiménez
+3,Marta Quintero,Juan Pena
+3,Bordon-4,Los Calis (F)
+3,Bordon-4,Junco
+3,Bordon-4,Bordon 4
+3,Paulina Rubio,Fey
+3,Paulina Rubio,Thalía
+3,Paulina Rubio,Belinda
+3,Marta Soto,Sofia Ellar
+3,Marta Soto,Gonzalo Hermida
+3,Marta Soto,Famous Oberogo
+3,Capitán Sunrise,Band À Part
+3,Capitán Sunrise,Doble Pletina
+3,Capitán Sunrise,Lois Casino
+3,Kylie Minogue,Dannii Minogue
+3,Kylie Minogue,Sophie Ellis-Bextor
+3,Kylie Minogue,Madonna
+3,Armin van Buuren,Andrew Rayel
+3,Armin van Buuren,Ferry Corsten
+3,Armin van Buuren,Ben Gold
+3,Tony Ronald,Bruno Lomas
+3,Tony Ronald,Santabarbara
+3,Tony Ronald,Dúo Dinámico
+3,Depressing Claim,Los Reactivos
+3,Depressing Claim,No Picky
+3,Depressing Claim,Fast Food
+3,Jarabe De Palo,Fito Y Fitipaldis
+3,Jarabe De Palo,El Canto del Loco
+3,Jarabe De Palo,Enanitos Verdes
+3,Vainica Doble,Carlos Berlanga
+3,Vainica Doble,Single
+3,Vainica Doble,Aventuras De Kirlian
+3,Nuevos Hobbies,El Palacio De Linares
+3,Nuevos Hobbies,Hazte Lapón
+3,Nuevos Hobbies,Río Arga
+3,Umberto Tozzi,Ricchi e poveri
+3,Umberto Tozzi,Toto Cutugno
+3,Umberto Tozzi,Al Bano & Romina Power
+3,Camela,El Arrebato
+3,Camela,Estopa
+3,Camela,El Canto del Loco
+3,Grises,Jero Romero
+3,Grises,Neuman
+3,Grises,Buffetlibre
+3,Corizonas,Arizona Baby
+3,Corizonas,The Right Ons
+3,Corizonas,El Meister
+3,Poupie,Aloïse Sauvage
+3,Poupie,kalika
+3,Poupie,The Pirouettes
+3,Makarines,Diego Magallanes
+3,Makarines,Ginera Ortega
+3,Makarines,Alicia Gil
+3,Justin Timberlake,*NSYNC
+3,Justin Timberlake,Usher
+3,Justin Timberlake,Timbaland
+3,Aitana,Ana Mena
+3,Aitana,Belén Aguilera
+3,Aitana,Lola Indigo
+3,Efecto Pasillo,Leiva
+3,Efecto Pasillo,Melendi
+3,Efecto Pasillo,Maldita Nerea
+3,Miguel Bosé,Alejandro Sanz
+3,Miguel Bosé,Emmanuel
+3,Miguel Bosé,Aleks Syntek
+3,Radio Futura,Burning
+3,Radio Futura,Gabinete Caligari
+3,Radio Futura,Nacha Pop
+3,Alesso,Martin Garrix
+3,Alesso,Hardwell
+3,Alesso,Afrojack
+3,Betacam,Kokoshca
+3,Betacam,Los lagos de Hinault
+3,Betacam,La estrella de David
+3,MARLENA,K!ngdom
+3,MARLENA,st. Pedro
+3,MARLENA,Mel Ömana
+3,George Ezra,Vance Joy
+3,George Ezra,James Bay
+3,George Ezra,Tom Grennan
+3,Liam Payne,Zayn
+3,Liam Payne,One Direction
+3,Liam Payne,Niall Horan
+3,Kokoshca,Betacam
+3,Kokoshca,Rusos Blancos
+3,Kokoshca,La estrella de David
+3,Sia,Bebe Rexha
+3,Sia,Adele
+3,Sia,Birdy
+3,The Civil Wars,Damien Rice
+3,The Civil Wars,Ray LaMontagne
+3,The Civil Wars,Mumford & Sons
+3,Sebastian Yatra,Piso 21
+3,Sebastian Yatra,Cali & El Dandee
+3,Sebastian Yatra,Manuel Turizo
+3,Sexy Sadie,Australian Blonde
+3,Sexy Sadie,Tachenko
+3,Sexy Sadie,La Costa Brava
+3,Paco Candela,Lubricán
+3,Paco Candela,Ecos del Rocío
+3,Paco Candela,María de la Colina
+3,Antonio José,Pablo López
+3,Antonio José,Manuel Carrasco
+3,Antonio José,Antonio Orozco
+3,Duran Duran,Arcadia
+3,Duran Duran,Kajagoogoo
+3,Duran Duran,The Power Station
+3,Marisol,Los Secretos
+3,Marisol,Massiel
+3,Marisol,Los Bravos
+3,Kungs,Ofenbach
+3,Kungs,Martin Solveig
+3,Kungs,Feder
+3,Tequila,Leño
+3,Tequila,Los Ronaldos
+3,Tequila,Burning
+3,Tachenko,La Costa Brava
+3,Tachenko,Francisco Nixon
+3,Tachenko,Travolta
+3,Lola Indigo,Ana Mena
+3,Lola Indigo,Aitana
+3,Lola Indigo,Belén Aguilera
+3,Sylvia Pantoja,Tatiana Delalvz
+3,Sylvia Pantoja,La Húngara
+3,Sylvia Pantoja,Rosa López
+3,Ana Guerra,Miriam Rodríguez
+3,Ana Guerra,Vicco
+3,Ana Guerra,Aitana
+3,Leiva,Pereza
+3,Leiva,Vetusta Morla
+3,Leiva,Sidecars
+3,Hans Laguna,Cosmen Adelaida
+3,Hans Laguna,Les Sueques
+3,Hans Laguna,Las Ruinas
+3,a-ha,Morten Harket
+3,a-ha,Alphaville
+3,a-ha,Duran Duran
+3,Loquillo Y Los Trogloditas,Loquillo
+3,Loquillo Y Los Trogloditas,Los Ronaldos
+3,Loquillo Y Los Trogloditas,Radio Futura
+3,Cuello,La URSS
+3,Cuello,L'Hereu Escampa
+3,Cuello,Kokoshca
+3,Meghan Trainor,Ava Max
+3,Meghan Trainor,Bebe Rexha
+3,Meghan Trainor,Rita Ora
+3,Oblique,Katsen
+3,Oblique,The Ultrasonics
+3,Oblique,Electrobelle
+3,Karina,Cazzu
+3,Karina,NINGNING
+3,Karina,aespa
+3,Cosmo K,Lidia Damunt
+3,Cosmo K,Maria Rodés Y La Estrella de David
+3,Cosmo K,Maria Rodés
+3,Mujeres,Triángulo de Amor Bizarro
+3,Mujeres,La Paloma
+3,Mujeres,Cala Vento
+3,Fangoria,Alaska y Dinarama
+3,Fangoria,La Prohibida
+3,Fangoria,Mónica Naranjo
+3,Da Igual,nada que decir
+3,Da Igual,Doctor Pitangú
+3,Da Igual,Barrio Sur
+3,P!nk,Kelly Clarkson
+3,P!nk,Jessie J
+3,P!nk,Avril Lavigne
+3,Carlos Baute,David Bisbal
+3,Carlos Baute,Chayanne
+3,Carlos Baute,Luis Fonsi
+3,Post Malone,Tyla Yaweh
+3,Post Malone,The Kid LAROI
+3,Post Malone,24kGoldn
+3,Noelia,Chayanne
+3,Noelia,Cristian Castro
+3,Noelia,Franco De Vita
+3,VINAI,Klaas
+3,VINAI,lunax
+3,VINAI,Tungevaag
+3,Manuel Carrasco,Antonio Orozco
+3,Manuel Carrasco,India Martinez
+3,Manuel Carrasco,Antonio José
+3,Chaqueta de Chándal,Camellos
+3,Chaqueta de Chándal,Pantocrator
+3,Chaqueta de Chándal,Parquesvr
+3,Leif Garrett,Racey
+3,Leif Garrett,Bay City Rollers
+3,Leif Garrett,The Rubettes
+3,Dani Fernández,Antonio José
+3,Dani Fernández,Mayo
+3,Dani Fernández,Depol
+3,Miley Cyrus,Hannah Montana
+3,Miley Cyrus,Lady Gaga
+3,Miley Cyrus,Selena Gomez
+3,No Me Pises Que Llevo Chanclas,Los Inhumanos
+3,No Me Pises Que Llevo Chanclas,Los Sencillos
+3,No Me Pises Que Llevo Chanclas,Manolo Tena
+3,Los Yakis,Angeliyo El Blanco
+3,Los Yakis,Los Rockin Devils
+3,Los Yakis,Los Locos Del Ritmo
+3,Blas Cantó,Emma Muscat
+3,Blas Cantó,James Newman
+3,Blas Cantó,Benny Cristo
+3,Carlos Berlanga,Algora
+3,Carlos Berlanga,Mano De Santo
+3,Carlos Berlanga,Single
+3,Diego Martín,David DeMaría
+3,Diego Martín,Efecto Mariposa
+3,Diego Martín,La Caja De Pandora
+3,The Cardigans,A Camp
+3,The Cardigans,Sixpence None the Richer
+3,The Cardigans,Garbage
+3,El Arrebato,El Barrio
+3,El Arrebato,Andy & Lucas
+3,El Arrebato,Estopa
+3,MEDUZA,Alok
+3,MEDUZA,Joel Corry
+3,MEDUZA,Jax Jones
+3,Swing Out Sister,Basia
+3,Swing Out Sister,Matt Bianco
+3,Swing Out Sister,Lisa Stansfield
+3,Vanesa Martín,Manuel Carrasco
+3,Vanesa Martín,Pastora Soler
+3,Vanesa Martín,Rozalén
+3,Pyllo Cortes,M Caló
+3,Pyllo Cortes,Pedro El Flamenkito
+3,Pyllo Cortes,Luis Cortés
+3,Kenny Man,Dimelo Flow
+3,Kenny Man,Lil Silvio & El Vega
+3,Kenny Man,Chris Jeday
+3,"Emilia, Pardo y Bazán",Alejandro Rosa
+3,"Emilia, Pardo y Bazán",canciller
+3,"Emilia, Pardo y Bazán",Dj Moderno
+3,Potito,Montse Cortés
+3,Potito,El Potito
+3,Potito,Diego Carrasco
+3,Greeicy,Mike Bahía
+3,Greeicy,Camilo
+3,Greeicy,Piso 21
+3,MARÍA TOLEDO,Kiki Morente
+3,MARÍA TOLEDO,Parrita
+3,MARÍA TOLEDO,Israel Fernández
+3,Rayo,Lasitud
+3,Rayo,Vaya Futuro
+3,Rayo,Cora Yako
+3,Álvaro De Luna,Vicco
+3,Álvaro De Luna,Ana Mena
+3,Álvaro De Luna,Dvicio
+3,Avicii,Kygo
+3,Avicii,Tim Berg
+3,Avicii,Martin Garrix
+3,Los Piratas,Iván Ferreiro
+3,Los Piratas,Los Planetas
+3,Los Piratas,Lori Meyers
+3,Airbag,Bjørn Riis
+3,Airbag,RPWL
+3,Airbag,The Pineapple Thief
+3,Nueva Vulcano,Madee
+3,Nueva Vulcano,Half Foot Outside
+3,Nueva Vulcano,The Unfinished Sympathy
+3,Diamante Negro,La trinidad
+3,Diamante Negro,Camellos
+3,Diamante Negro,Mediapunta
+3,Shinova,Supersubmarina
+3,Shinova,Vetusta Morla
+3,Shinova,Second
+3,Fito y Fitipaldis,El Canto del Loco
+3,Fito y Fitipaldis,Platero y tú
+3,Fito y Fitipaldis,Extremoduro
+3,Melenas,Mujeres
+3,Melenas,Triángulo de Amor Bizarro
+3,Melenas,Chastity Belt
+3,Massiel,Mari Trini
+3,Massiel,Rocío Jurado
+3,Massiel,Marisol
+3,Miss Caffeina,Sidonie
+3,Miss Caffeina,Lori Meyers
+3,Miss Caffeina,Supersubmarina
+3,David DeMaría,Diego Martín
+3,David DeMaría,Merche
+3,David DeMaría,David Bustamante
+3,Nolasco,Los Rebujitos
+3,Nolasco,Siempre Asi
+3,Nolasco,juanlu montoya
+3,Elbicho,Mártires Del Compás
+3,Elbicho,Canteca De Macao
+3,Elbicho,Miguel Campello
+3,Marlon,Fran Perea
+3,Marlon,Flynn Bridgewater
+3,Marlon,Mellow Strings
+3,from,Marcelo Criminal
+3,from,Diamante Negro
+3,from,el buen hijo
+3,Antonio Orozco,Manuel Carrasco
+3,Antonio Orozco,Conchita
+3,Antonio Orozco,Melendi
+3,Pitingo,Antonio Carmona
+3,Pitingo,José Mercé
+3,Pitingo,Falete
+3,Pitovnis,Ragdog
+3,Pitovnis,Indras
+3,Pitovnis,MISTER COMETA
+3,Alexie Divello,Allertz
+3,Alexie Divello,Electrick Village
+3,Alexie Divello,Sebastian Sollerman
+3,Sinay,Parrita
+3,Sinay,LOS BANIS
+3,Sinay,Nouna
+3,Barroso,León Bravo
+3,Barroso,Keen Levy
+3,Barroso,Dani MDR
+3,El Sueño de Morfeo,Amaral
+3,El Sueño de Morfeo,El Canto del Loco
+3,El Sueño de Morfeo,Nena Daconte
+3,Detergente Líquido,Hazte Lapón
+3,Detergente Líquido,Alexanderplatz
+3,Detergente Líquido,Betacam
+3,Feedbacks,Bryan Estepa
+3,Feedbacks,Bronco Bullfrog
+3,Feedbacks,Kurt Baker
+3,The Reflectors,The Speedways
+3,The Reflectors,The Whiffs
+3,The Reflectors,Brad Marino
+3,Bravo Fisher!,Rusos Blancos
+3,Bravo Fisher!,Ellos
+3,Bravo Fisher!,Klaus & Kinski
+3,Ghost Town,Get Scared
+3,Ghost Town,Snow White's Poison Bite
+3,Ghost Town,Famous Last Words
+3,Merche,La Caja De Pandora
+3,Merche,Efecto Mariposa
+3,Merche,David Bustamante
+3,Belako,Alcalá Norte
+3,Belako,Melenas
+3,Belako,Nudozurdo
+3,Pastora Soler,Vanesa Martín
+3,Pastora Soler,Malú
+3,Pastora Soler,Edurne
+3,Parade,Girls Can't Catch
+3,Parade,SoundGirl
+3,Parade,Wonderland
+3,Huecco,Alvaro Soler
+3,Huecco,Los Aslándticos
+3,Huecco,Sofia Reyes
+3,Depedro,Izal
+3,Depedro,Sidonie
+3,Depedro,Supersubmarina
+3,José El Francés,Queco
+3,José El Francés,Navajita Plateá
+3,José El Francés,Tijeritas
+3,La Barbería Del Sur,Navajita Plateá
+3,La Barbería Del Sur,Ray Heredia
+3,La Barbería Del Sur,Raimundo Amador
+3,Nicky Romero,Hardwell
+3,Nicky Romero,DubVision
+3,Nicky Romero,Martin Garrix
+3,Vinicio Capossela,Francesco De Gregori
+3,Vinicio Capossela,Fabrizio De André
+3,Vinicio Capossela,Mannarino
+3,Atencion Tsunami,Incendios
+3,Atencion Tsunami,Autumn Comets
+3,Atencion Tsunami,Modelo de respuesta polar
+3,Manta Ray,Surfin' Bichos
+3,Manta Ray,Mercromina
+3,Manta Ray,Corcobado y Manta Ray
+3,Pastor Lopez Y Su Combo,Nelson Henriquez
+3,Pastor Lopez Y Su Combo,Armando Hernandez
+3,Pastor Lopez Y Su Combo,Los Hispanos
+3,José Parra,Pansequito
+3,José Parra,Vicente Soto Sordera
+3,José Parra,Sonia Miranda
+3,Los Flechazos,Cooper
+3,Los Flechazos,Brighton 64
+3,Los Flechazos,la granja
+3,Cristóbal Jiménez,Francisco Montoya
+3,Cristóbal Jiménez,Freddy Salcedo
+3,Cristóbal Jiménez,Reynaldo Armas
+3,Roberto Bueno,Adrian Cabeza
+3,Roberto Bueno,Kiko Romero El Grillo
+3,Roberto Bueno,El Suso
+3,W&W,NWYR
+3,W&W,Orjan Nilsen
+3,W&W,Ummet Ozcan
+3,Terrier,Diamante Negro
+3,Terrier,Juventud Juché
+3,Terrier,Fuckaine
+3,Montse Cortés,La Susi
+3,Montse Cortés,Potito
+3,Montse Cortés,La Tana
+3,Diana Navarro,Pasión Vega
+3,Diana Navarro,David DeMaría
+3,Diana Navarro,Rocio Jurado
+3,Javier Ojeda,La Dama Se Esconde
+3,Javier Ojeda,Cabaret Pop
+3,Javier Ojeda,Pistones
+3,Gorgon City,Duke Dumont
+3,Gorgon City,Sonny Fodera
+3,Gorgon City,CamelPhat

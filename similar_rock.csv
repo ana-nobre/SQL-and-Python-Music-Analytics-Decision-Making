@@ -1,201 +1,574 @@
-artista,similares
-['Gari'],"['Monica Uranglass', 'avengers in sci-fi', 'The Mirraz', 'AFRICAEMO', 'DOPING PANDA']"
-['Joan Colomo'],"['El Petit De Cal Eril', 'La Iaia', 'Mishima', 'Inspira', 'Sanjosex']"
-['Familia Caamagno'],"['Terbutalina', 'Oh! Ayatollah', 'Boyanka Kostova', 'GRANDE AMORE', 'The Rapants']"
-['Los Negativos'],"['Brighton 64', 'Los Flechazos', 'kamenbert', 'Los Elegantes', 'Cooper']"
-['Igor Paskual'],"['Alfredo González', 'José Ignacio Lapido', 'Jaime Urrutia', 'Stormy Mondays', 'Ramoncín']"
-['Los Hermanos Cubero'],"['Lorena Álvarez', 'La estrella de David', 'Pablo und destruktion', 'Karmento', 'Marilia Monzón']"
-['Sergio Dalma'],"['Café Quijano', 'José Luis Perales', 'Melendi', 'Seguridad Social', 'David Bisbal']"
-['Loquillo'],"['Loquillo Y Los Trogloditas', 'Seguridad Social', 'La Guardia', 'Los Ronaldos', 'Antonio Flores']"
-['Petti'],"['Ville Kalliosta & Puppa J', 'Hannibal, Edorf, Tykopaatti & Jodarok', 'OG Ikonen & Asa', 'OG Ikonen & Stig Dogg', 'Adebizi, Pikkupiru & Konna']"
-['Lauroba'],"['Kerobia', 'Katamalo', 'Esne Beltza', 'Zea Mays', 'Gatibu']"
-['Altxatu'],"['Glaukoma', 'Skabidean', 'Hesian', 'skakeitan', 'Arkada Social']"
-['Bomba Estéreo'],"['Systema Solar', 'ChocQuibTown', 'Mitú', 'Aterciopelados', 'Monsieur Periné']"
-['Jammin´ Dose'],"['FUTU MATANO', 'Super Skunk', 'La Selva Sur', 'La Sra. Tomasa', 'Atom Rhumba']"
-['Los Rebeldes'],"['Gatos Locos', 'Loquillo y Trogloditas', 'Loquillo Y Los Intocables', 'Los Coyotes', 'Rey Lui']"
-['Aerolineas Federales'],[]
-['Pep Sala'],"['Sau', 'Els Pets', ""Lax'n'Busto"", 'Gerard Quintana', 'Gossos']"
-['Arco'],"['Tram', 'Codeine', 'Low', 'The For Carnation', 'Idaho']"
-['Nocturnos'],"['Mucho', 'Full', 'Modelo de respuesta polar', 'Pasajero', 'Angel Stanich']"
-['Cybee'],"['Els Catarres', 'Buhos', 'Joan Dausà', 'Doctor Prats', 'Itaca Band']"
-['Comandante Twin'],"['Carmen 113', 'ELYELLA', 'Héroes 2020', 'Melifluo', 'Embusteros']"
-['Physis Versus Nomos'],"['Benito Lertxundi', 'Tatxers', 'Katamalo', 'Eñaut Elorrieta', 'Gozategi']"
-['Eskean Kristö'],"['Izaki Gardenak', 'LiHer', 'Ibil Bedi', 'Glaukoma', 'Etxekalte']"
-['Rukula'],[]
-['Maki'],"['NIO', 'Cup of Joe', 'Rob Deniel', 'Bini', 'Adie']"
-['Embusteros'],"['Comandante Twin', 'ELYELLA', 'Melifluo', 'Valira', 'Héroes 2020']"
-['Bantastic Fand'],"['Stormy Mondays', 'The Limboos', 'Nat Simons', 'The Soul Jacket', 'Aurora & The Betrayers']"
-['The Prussians'],"['The Levitants', 'Jack Knife', 'Mirémonos', 'El Imperio Del Perro', 'Die Katapult']"
-['Bastille'],"['To Kill a King', 'Imagine Dragons', 'X Ambassadors', 'BANNERS', 'American Authors']"
-['Xiula'],"['El Pot Petit', 'Mainasons', 'Ambauka', 'SX3', 'Lali BeGood']"
-['Bluestain'],"['Hynkel', 'Félix Lineker', 'Lucia Scansetti', 'Julián Maeso', 'Rick&Vera']"
-['Eraso!'],"['PI L.T.', 'Keike', 'Willis Drummond', 'Flitter', 'Urgabe']"
-['Oskorri'],"['Tapia eta Leturia', 'Pantxoa Eta Peio', 'Anje Duhalde', 'Xabier Lete', 'Etzakit']"
-['Atzembla'],"['VaDeBo', 'Aspencat', 'La Gossa Sorda', 'Obrint Pas', 'Xeic!']"
-['The Kleejoss Band'],"['Handsome Jack', 'The Magpie Salute', 'Los Deltonos', 'DATURA4', 'The Whybirds']"
-['Os Resentidos'],"['Os Diplomáticos de Monte Alto', 'Lamatumbá', 'Fuxan os Ventos', 'Ataque Escampe', 'The Homens']"
-['La Porta Dels Somnis'],"['La Puerta De Los Sueños', 'Miquel Abras', 'Ivette Nadal', 'Vuit', 'Blaumut']"
-['Track Dogs'],"['Garrett Wall Band', 'Julián Maeso', 'Juan Perro', 'Corizonas', 'Chema Lara & Track Dogs']"
-['The Oddballs'],"['Cuddles C. Newsome', 'Mike Cunninghan & His Sparks', 'Sharon Arnold & The Ambassadors', 'Del Swade', 'Larry Lee Phillipson']"
-['Young Forest'],"['Xosé Lois Romero & Aliboria', 'Ángel Stanich', 'The New Raemon, David Cordero & Marc Clos', 'Sés', 'Club del Río']"
-['Tano!'],"['Anchord', 'Ànteros', 'Habitar La Mar', 'Hurricäde', 'Trono de sangre']"
-['Terratombats'],"['Dijous Paella', 'Ai Ai Ai', 'Strombers', 'Txarango', 'Gertrudis']"
-['Bely Basarte'],"['Sofia Ellar', '30s40s50s', 'Operación Triunfo 2018', 'David Otero', 'Sinsinati']"
-['Lildami'],"['Flashy Ice Cream', 'Doctor Prats', '31 FAM', 'TRIQUELL', 'P.A.W.N. Gang']"
-['Salto'],"['Ciclo Preparatório', 'Trêsporcento', 'Samuel Úria', 'Doismileoito', 'Rapaz Ego']"
-['Bultz!'],"['Iheskide', 'Egurra ta Kitto', 'Rotten XIII', 'Kaleko Urdangak', 'Alerta Gorria']"
-['Pepet I Marieta'],"['Xeic!', 'Cesk Freixas', 'Pau Alabajos', ""Pirat's Sound Sistema"", 'Dijous Paella']"
-['Correcaminos Rock and Roll Band'],"[""Rock 'N' Bordes"", 'Tarque', 'Los Deltonos', 'Más Birras', 'Los Zigarros']"
-['Pablo Valdés'],"['Pablo Valdés & the Crazy Lovers', 'Pablo Moro', 'Alfredo González', 'Pablo Valdés/& the Crazy Lovers', 'Mala Reputación']"
-['Pelax'],"['Willis Drummond', 'Lukiek', 'Ezpalak', 'NAKAR', 'Gorka Urbizu']"
-['Rulo y la contrabanda'],"['Albertucho', 'Forraje', 'EXCESO', 'Barricada Y Rosendo', 'Inconscientes']"
-['The Gift'],"['Amor Electro', 'Humanos', 'GNR', 'Ana Moura', 'Tiago Bettencourt']"
-['La Terrasseta de Preixens'],"['Itaca Band', 'Strombers', 'Els Catarres', 'Blaumut', 'Txarango']"
-['O Sonoro Maxín'],"['Festicultores', 'Lamatumbá', 'Zënzar', 'Rastreros', 'Ataque Escampe']"
-['Txapelpunk'],"['Etsaiak', 'Tijuana in blue', 'Leihotikan', 'The Meas', 'Zirrosis']"
-['Raimon'],"['Ovidi Montllor', 'Al Tall', 'Maria Del Mar Bonet', 'Sisa', 'Pau Riba']"
-['La Unión'],"['Duncan Dhu', 'Hombres G', 'Mikel Erentxun', 'Enanitos Verdes', 'Radio Futura']"
-['The Sick Boys'],"['Weak', 'Throck Morton', 'Bitter Grin', 'Rumble Devils', 'Rum Runner']"
-['Dixebra'],"['Avientu', 'La bandina', 'Skanda', 'La Col.la Propinde', 'Toli Morilla']"
-['Dio'],"['Heaven & Hell', 'Rainbow', 'Elf', 'Black Sabbath', 'Judas Priest']"
-['El Mató a un Policía Motorizado'],[]
-['Lucas Masciano'],"['Jaula de Grillos', 'Iguana Tango', 'Melocos', 'Calle París', 'Indras']"
-['Miquel Abras'],"['Gossos', 'Teràpia de Shock', 'Ivette Nadal', ""Lax'n'Busto"", 'Blaumut']"
-['Sidecars'],"['Leiva', 'Shinova', 'Despistaos', 'Pereza', 'Dani Martín']"
-['Banda de Gaites Villa de Xixón'],"['La Coḷḷá Propinde', 'Músicos pola oficialidá', 'Xaime Martínez', 'Fala non caduca', 'Soncai System']"
-"['Quico El Célio, El Noi I El Mut De Ferreries']","['Pepet I Marieta', 'La Carrau', 'Miquel Gil', 'Grup de folk', ""El Pont d'Arcalís""]"
-['Cesk Freixas'],"['Feliu Ventura', 'Els Pets', ""Lax'n'Busto"", ""Pirat's Sound Sistema"", 'Gossos']"
-['El Chico Amperio'],"['PUK*2', 'Mamá Ladilla', 'Gérmenes', 'Bullitt', 'Carroña']"
-['Juanes'],"['Bacilos', 'Carlos Vives', 'Fonseca', 'Maná', 'Andrés Cepeda']"
-['Sherish'],[]
-['Isla Iglú'],"['Nunatak', 'Molina Molina', 'amatria', 'Full', 'Neuman']"
-['Hendrik Röver'],"['Los Deltonos', 'Los Enemigos', 'Arizona Baby', '091', 'Le Punk']"
-['Faith No More'],"['Mr. Bungle', 'Tomahawk', 'Mike Patton', 'Peeping Tom', 'Primus']"
-['Alex Ubago'],"['Sin Bandera', 'Cristian Castro', 'David Bisbal', 'Reik', 'Chayanne']"
-['Melange'],"['Hemp Dept', 'Jah Torch', 'Раста Оркестра', 'ТуNNель', 'Остров']"
-['Strombers'],"['Txarango', 'Xeic!', 'Els Catarres', 'Gertrudis', 'Itaca Band']"
-['Joseba Tapia'],"['Oskorri', 'Tapia eta Leturia', 'Alaitz Eta Maider', 'Gozategi', 'Mikel Laboa']"
-['Feliu Ventura'],"['La Carrau', 'Conxita', 'Gerard Quintana', 'Mesclat', 'Ovidi Montllor']"
-['Astarot'],"['Basarabian Hills', 'All The Cold', 'Beqanatas', 'Melankoli', 'Lux Funestus']"
-['Autumn Comets'],"['Wilhelm and the Dancing Animals', 'Retribution Gospel Choir', 'Hebronix', 'Stereosaurio', 'Tuya']"
-['Molina Molina'],"['Delafé', 'Carmen 113', 'Mostaza Gálvez', 'ELYELLA', 'Angel Stanich']"
-['Animal'],"['Still_bloom', 'Yüth Forever', 'Barrier', 'lordis', 'devthbed']"
-['Roy Orbison'],"['The Everly Brothers', 'Traveling Wilburys', 'Jerry Lee Lewis', 'Elvis Presley', 'Buddy Holly']"
-['Camilo Séptimo'],"['Reyno', 'Odisseo', 'Comisario Pantera', 'León Larregui', 'young tender']"
-['Efecto Pasillo'],"['Leiva', 'Melendi', 'Maldita Nerea', 'Måneskin', 'El Canto del Loco']"
-['Robbie Williams'],"['Take That', 'Robbie Williams & Kylie Minogue', 'Robbie Williams & Nicole Kidman', 'Gary Barlow', 'Mark Owen']"
-['The Potes'],"['McONAK', 'BRIGADE LOCO', 'Sofokaos', 'UNIDAD ALAVESA', 'Kaleko Urdangak']"
-['Nat Simons'],"['The Bright', 'Paula Rojo', 'Hola a todo el mundo', 'Alondra Bentley', 'Luis Brea']"
-['Álvaro Urquijo'],"['Enrique Urquijo y Los Problemas', 'Los Limones', 'Manolo Tena', 'Andrés Suárez', 'Anglada Cerezuela']"
-['Perlata'],"['Kaosa Euskal Herrian', 'Chaos in Basque Country', 'Las Sexpeares', 'Kaleko Urdangak', 'The Lio']"
-['Caboverde'],"['Avida Dollars', 'VIVEN', 'Ella La Rabia', 'Nothink', 'Battosai']"
-['Minor Empires'],"['Nothink', 'Catorce', 'Böira', 'Krilin', 'Our Next Movement']"
-['Tregua'],"['Versoix', 'NoProcede', 'Gato Ventura', 'cobardes', 'Bocanada']"
-['Nyandú'],"['La Iaia', 'Quart Primera', 'Joan Colomo', 'Joan Dausà', 'Blaumut']"
-['Ochobre'],"['Músicos pola oficialidá', 'Misiva', 'La Tarrancha', 'Algaire', 'Skama la rede']"
-['Koel'],"['Full', 'Delafé', 'Rey Chico', 'Nunatak', 'amatria']"
-['Mikel Laboa'],"['Benito Lertxundi', 'Oskorri', 'Xabier Lete', 'Hertzainak', 'Sorotan Bele']"
-['Egurra Ta Kitto'],"['Ze Esatek!', 'Glaukoma', 'Nikotina', 'skakeitan', 'BRIGADE LOCO']"
-['Lluis Llach'],[]
-['MARLENA'],"['K!ngdom', 'st. Pedro', 'Mel Ömana', 'Noan', 'Megara']"
-['La Trinca'],"['Mesclat', 'La Carrau', 'Els Pets', ""Lax'n'Busto"", 'Sau']"
-['Stai Zitto'],"['Maider Carral', 'Gatibu', 'Glaukoma', 'En Tol Sarmiento', 'Hemendik At']"
-['Dinamita Pa Los Pollos'],"['Pistones', 'Ramoncín', '091', 'Revólver', 'Jaime Urrutia']"
-['Gotelé'],"['Ciudad Jara', 'Comandante Twin', 'Elefantes', 'el Drogas', 'Valira']"
-['Quimi Portet'],"['Adrià Puntí', 'Roger Mas', 'Gerard Quintana', ""Whiskyn's"", 'Feliu Ventura']"
-['Tachenko'],"['La Costa Brava', 'Francisco Nixon', 'Travolta', 'Tarik y la Fábrica de Colores', 'Clovis']"
-['Xarim Aresté'],"['Ferran Palau', 'Guillem Ramisa', 'El Petit De Cal Eril', 'Caïm Riba', 'Very Pomelo']"
-['Chelsea Boots'],"['Mediapunta', 'The Levitants', 'nostalgia.en.los.autobuses', 'Angel Stanich', 'Kokoshca']"
-['Dakidarria'],[]
-['Gimnástica'],"['Mailers', 'Ruidoblanco', 'Embusteros', 'LAS CHILLERS', 'Alberto & Garcia']"
-['EraBatera'],"['Willis Drummond', 'LiHer', 'Ezpalak', 'NØGEN', 'Olatz Salvador']"
-['Duran Duran'],"['Arcadia', 'Kajagoogoo', 'The Power Station', 'Japan', 'Spandau Ballet']"
-['Ñekü'],"['Angel Stanich', 'Astropålido', 'Molina Molina', 'Luis Brea', 'Tu otra bonita']"
-['Los Gatos del Gitano'],"['El Niño de La Hipoteca', 'El Canijo de Jerez', 'Capitán Cobarde', 'Lucas Colman', 'Diván du Don']"
-['Grises'],"['Jero Romero', 'Neuman', 'Buffetlibre', 'We Are Standard', 'Hola a todo el mundo']"
-['ALIS'],"['Lovely Luna', 'El Chico Con La Espina En El Costado', 'Pauline en la Playa', 'The Bright', 'Pecker']"
-['Los Retrovisores'],"['Brighton 64', 'Los Flechazos', 'Cooper', 'Los Negativos', 'Chicos del Sábado']"
-['Mujeres'],"['Triángulo de Amor Bizarro', 'La Paloma', 'Cala Vento', 'Karavana', 'Carolina Durante']"
-['ENMA FERNÁNDEZ'],"['Tito Ramírez', 'The Limboos', 'MFC Chicken', 'La Perra Blanco', 'Doctor Explosion']"
-['Da Igual'],"['nada que decir', 'Doctor Pitangú', 'Barrio Sur', 'EXCESO', 'Lagarto Amarillo']"
-['Kiko Veneno'],"['Pata Negra', 'Ketama', 'Los Delinqüentes', 'Antonio Flores', 'Manolo García']"
-['Skama la rede'],"['Los Berrones', 'La Tarrancha', 'Sambre', 'La bandina', 'Nuberu']"
-['Itaca Band'],"['Buhos', 'Doctor Prats', 'Txarango', 'Atupa', 'Els Catarres']"
-['Nixon'],"['Hormones in abundance', 'Second-Hand Furniture', 'The Tidy Ups', 'Free Loan Investments', 'They Go Boom!!']"
-['Qverno'],"['Flinks', 'Radio75', 'Hell of a Mind', 'Ganzer', 'Alejandro Rosa']"
-['Vaquero'],"['Chikita Violenta', 'Canseco', 'Los Abandoned', 'Plastiko', 'Radio Kaos']"
-['Alejandro Conde'],"['Julio Madrid', 'Alejandro Conde (F)', 'Los Cabales', 'Alborada Flamenca', 'Paquiro']"
-['Barricada'],"['Los Suaves', 'Porretas', 'Platero y tú', 'Rosendo', 'Marea']"
-['Urtz'],"['EH Sukarra', 'Latzen', 'Etzakit', 'Lin Ton Taun', 'Kauta']"
-['La Vil Canalla'],[]
-['Durango14'],"['Arizona Baby', 'The Boo Devils', 'Los Coronas', 'El Twanguero', 'Corizonas']"
-['Ruxe Ruxe'],[]
-['Xabi Bandini'],"['NØGEN', 'Olatz Salvador', 'skakeitan', 'Ibil Bedi', 'Xabi Solano Maiza']"
-['Ataque Escampe'],"['The Homens', 'Terbutalina', 'Fanny + Alexander', 'Galegoz', 'Familia Caamagno']"
-['Zona Oscura'],"['Blooming Bairds', 'Amyl Justin & Peter Malick', 'DzYn Brothers (Братья ДзЫнь)', '5 pence', 'Brente Fingre']"
-['Os Amigos dos Músicos'],"['Esposa', 'Caxade', 'Ataque Escampe', 'Oh! Ayatollah', 'Familia Caamagno']"
-['Miquel Gil'],"['Al Tall', 'Feliu Ventura', 'Conxita', 'La Carrau', 'Ovidi Montllor']"
-['Melendi'],"['Estopa', 'El Canto del Loco', 'Pereza', 'Pignoise', 'Maldita Nerea']"
-['The Cardigans'],"['A Camp', 'Sixpence None the Richer', 'Garbage', 'No Doubt', 'Alanis Morissette']"
-['Wham!'],"['George Michael', 'Culture Club', 'Paul Young', 'Bananarama', 'Rick Astley']"
-['Planet Funk'],"['Kraak & Smaak', 'Spiller', 'Bent', 'Narcotic Thrust', 'Groove Armada']"
-['Jofre Bardagí'],"[""Whiskyn's"", 'Gerard Quintana', 'Adrià Puntí', 'Andreu Rifé', ""Joan Dausà i els tipus d'interès""]"
-['Ezpalak'],"['LiHer', 'Etxekalte', 'Gorka Urbizu', 'Lamiak', 'Dupla']"
-['Liher'],"['Ezpalak', 'Etxekalte', 'Lamiak', 'Eskean Kristö', 'txopet']"
-['Los Piratas'],"['Iván Ferreiro', 'Los Planetas', 'Lori Meyers', 'Love of Lesbian', 'Sidonie']"
-['Sanjosex'],"['Mazoni', 'Roger Mas', 'Adrià Puntí', 'Mishima', 'Joan Miquel Oliver']"
-['Airbag'],"['Bjørn Riis', 'RPWL', 'The Pineapple Thief', 'Gazpacho', 'Nosound']"
-['Nueva Vulcano'],"['Madee', 'Half Foot Outside', 'The Unfinished Sympathy', 'Betunizer', 'Nisei']"
-['Mentah'],"['nogato', 'Jamie 4 President', 'Monteperdido', 'Falsonueve', 'Wild Animals']"
-['Shinova'],"['Supersubmarina', 'Vetusta Morla', 'Second', 'Sexy Zebras', 'Sidecars']"
-['Mexican Institute Of Sound'],"['Nortec Collective', 'Kinky', 'Plastilina Mosh', 'Control Machete', 'Nortec: Bostich + Fussible']"
-['Cobra'],"['Pretty Maids', 'King Kobra', 'Icon', 'Loudness', 'Sinner']"
-['Miss Caffeina'],"['Sidonie', 'Lori Meyers', 'Supersubmarina', 'Varry Brava', 'Veintiuno']"
-['Fito y Fitipaldis'],"['El Canto del Loco', 'Platero y tú', 'Extremoduro', 'M-Clan', 'Pereza']"
-['Bestia Bebé'],"['107 Faunos', 'Él mató a un policía motorizado', 'Las Ligas Menores', 'Santiago Motorizado', 'mi amigo invencible']"
-['Keu Agirretxea'],"['Izaki Gardenak', 'Eñaut Elorrieta', 'Esne Beltza', 'Katamalo', 'Zea Mays']"
-['Habi'],"['Lamiak', 'Ezpalak', 'LiHer', 'Peiremans', 'IZARO']"
-['Los Marañones'],"['Josele Santiago y Sus Menudencias', 'Señor Mostaza', 'Mucho', 'Quique González', 'Los Marrones']"
-['Cris Juanico'],"[""Ja T'ho Diré"", 'Gerard Quintana', 'Plouen Catximbes', 'Conxita', ""Lexu's""]"
-['Elbicho'],"['Mártires Del Compás', 'Canteca De Macao', 'Miguel Campello', ""D'Callaos"", 'Muchachito Bombo Infierno']"
-['CLAIM'],"['Kokoshca', 'David Otero', 'BlackPanda', 'Mostaza Gálvez', 'Maren']"
-['El Belda i el Conjunt Badabadoc'],"['Xerramequ Tiquis Miquis', 'Dijous Paella', 'Aramateix', 'Mesclat', 'La Carrau']"
-['Thee Braindrops'],"['Lie Detectors', 'Doctor Explosion', 'The Pleasure Fuckers', 'KING SALAMI and the cumberland three', 'Fundación Francisco Frankenstein']"
-['Triana'],"['Medina Azahara', 'El Último de la Fila', 'Derby Motoreta’s Burrito Kachimba', 'Miguel Ríos', 'Antonio Flores']"
-['Marlon'],"['Fran Perea', 'Flynn Bridgewater', 'Mellow Strings', 'DCS', 'Harmonic Fusion']"
-['Joan Miquel Oliver'],"['Antònia Font', 'Sanjosex', 'Mishima', 'Roger Mas', 'Mazoni']"
-['Mägo de Oz'],"['Warcry', 'Tierra Santa', 'Saurom', 'Saratoga', 'Rata Blanca']"
-['Jabier Muguruza'],"['Txuma Murugarren', 'Anje Duhalde', 'Tapia eta Leturia', 'Ruper Ordorika', 'Rafa Rueda']"
-['Toulouse'],"['Allan Rayman', 'Betty Wright', 'Shungudzo', 'Melanie Fiona', 'Destin Conrad']"
-['Pastora Soler'],"['Vanesa Martín', 'Malú', 'Edurne', 'Ruth Lorenzo', 'Mónica Naranjo']"
-['Los Delinqüentes'],"['Estopa', 'Pereza', 'La Plazuela', 'La Raíz', 'La Pegatina']"
-['Los Secretos'],"['Gabinete Caligari', 'Antonio Flores', 'Nacha Pop', 'M-Clan', 'Los Ronaldos']"
-['Jarabe De Palo'],"['Fito Y Fitipaldis', 'El Canto del Loco', 'Enanitos Verdes', 'Café Quijano', 'Duncan Dhu']"
-['Diego Martín'],"['David DeMaría', 'Efecto Mariposa', 'La Caja De Pandora', 'Belén Arjona', 'Melocos']"
-['107 Faunos'],"['Bestia Bebé', 'Él mató a un policía motorizado', 'Las Ligas Menores', 'Mora y los Metegoles', 'mi amigo invencible']"
-['Tomeu Penya'],"['Anegats', 'Ossifar', 'Sau', ""Ja T'ho Diré"", 'Cris Juanico']"
-['El Sueño de Morfeo'],"['Amaral', 'El Canto del Loco', 'Nena Daconte', 'La Oreja de Van Gogh', 'Pereza']"
-['Lynyrd Skynyrd'],"['Molly Hatchet', 'Blackfoot', 'The Marshall Tucker Band', 'The Allman Brothers Band', 'ZZ Top']"
-['Carmen 113'],"['Comandante Twin', 'ELYELLA', 'Melifluo', 'Héroes 2020', 'Valira']"
-['La Pegatina'],"['Oques Grasses', 'Los Delinqüentes', 'Estopa', 'Manel', 'Figa Flawas']"
-['Etxe'],"['Urgabe', 'Keike', 'Etzakit', 'Bide Ertzean', 'Kokein']"
-['Txuma Murugarren'],"['Rafa Rueda', 'Anje Duhalde', 'Etzakit', 'Ruper Ordorika', 'Pantxoa Eta Peio']"
-['Javier Ojeda'],"['La Dama Se Esconde', 'Cabaret Pop', 'Pistones', 'Los Sencillos', 'Esclarecidos']"
-['Etsaiak'],"['EH Sukarra', 'Lin Ton Taun', 'Urtz', 'Latzen', 'Su ta gar']"
-['Izeberg'],"['Su ta gar', 'Zea Mays', 'Etsaiak', 'KOP', 'PI.L.T.']"
-['Brioles'],"['The Nu Niles', 'Luna Vegas', 'Radium Cats', 'The Surf Rats', 'Wigsville Spliffs']"
-['Destino 48'],"['Rulo y la contrabanda', 'Alfredo González', 'Isma Romero', 'Luter', 'Albertucho']"
-['Capsula'],"['Dymons', 'Hoopy Frood', 'Slackbaba', 'Makyo', 'Digital Mystery Tour']"
-['Huecco'],"['Alvaro Soler', 'Los Aslándticos', 'Sofia Reyes', 'Pereza', 'La Fuga']"
-['Vinicio Capossela'],"['Francesco De Gregori', 'Fabrizio De André', 'Mannarino', 'Ivano Fossati', 'Daniele Silvestri']"
-['Atencion Tsunami'],"['Incendios', 'Autumn Comets', 'Modelo de respuesta polar', 'Perro', 'Rusos Blancos']"
-['El Diluvi'],"['Auxili', 'Xavi Sarrià', 'Roba Estesa', 'La Fúmiga', 'Smoking Souls']"
-['Pokers'],"['Jordi Ninus', 'Txarango', 'CyBee', 'La Iaia', 'Sense sal']"
-['Texxcoco'],"['Perro', 'Medalla', 'Monteperdido', 'Kings Of The Beach', 'Pinpilinpussies']"
-['Adrià Puntí'],"['Quimi Portet', 'Roger Mas', 'Gerard Quintana', 'Pau Riba', 'Umpah-Pah']"
-['Ivette Nadal'],"['Bikimel', 'Lluís Gavaldà', 'Miquel Abras', 'Gerard Quintana', ""Whiskyn's""]"
-"[""Jane's Addiction""]","['Porno for Pyros', 'Mother Love Bone', 'Stone Temple Pilots', 'Soundgarden', 'Blind Melon']"
-['La Gossa Sorda'],"['Aspencat', 'Obrint Pas', ""Pirat's Sound Sistema"", 'Atzembla', 'Sva-ters']"
-['Roger Usart'],"['Joana Serrat', 'Oliva Trencada', 'Maika Makovski', 'Maria Rodés', 'Juan Zelada']"
-['Jacobo Serra'],"['Angel Stanich', 'Luis Brea', 'Egon Soda', 'was', 'Alberto & Garcia']"
-['Kokein'],"['Keike', 'Urgabe', 'Seiurte', 'Bide Ertzean', 'Kashbad']"
+id_genero,artista,similar
+4,Joan Colomo,El Petit De Cal Eril
+4,Joan Colomo,La Iaia
+4,Joan Colomo,Mishima
+4,Familia Caamagno,Terbutalina
+4,Familia Caamagno,Oh! Ayatollah
+4,Familia Caamagno,Boyanka Kostova
+4,Los Negativos,Brighton 64
+4,Los Negativos,Los Flechazos
+4,Los Negativos,kamenbert
+4,Igor Paskual,Alfredo González
+4,Igor Paskual,José Ignacio Lapido
+4,Igor Paskual,Jaime Urrutia
+4,Los Hermanos Cubero,Lorena Álvarez
+4,Los Hermanos Cubero,La estrella de David
+4,Los Hermanos Cubero,Pablo und destruktion
+4,Sergio Dalma,Café Quijano
+4,Sergio Dalma,José Luis Perales
+4,Sergio Dalma,Melendi
+4,Loquillo,Loquillo Y Los Trogloditas
+4,Loquillo,Seguridad Social
+4,Loquillo,La Guardia
+4,Petti,Ville Kalliosta & Puppa J
+4,Petti,"Hannibal, Edorf, Tykopaatti & Jodarok"
+4,Petti,OG Ikonen & Asa
+4,Lauroba,Kerobia
+4,Lauroba,Katamalo
+4,Lauroba,Esne Beltza
+4,Altxatu,Glaukoma
+4,Altxatu,Skabidean
+4,Altxatu,Hesian
+4,Bomba Estéreo,Systema Solar
+4,Bomba Estéreo,ChocQuibTown
+4,Bomba Estéreo,Mitú
+4,Jammin´ Dose,FUTU MATANO
+4,Jammin´ Dose,Super Skunk
+4,Jammin´ Dose,La Selva Sur
+4,Los Rebeldes,Gatos Locos
+4,Los Rebeldes,Loquillo y Trogloditas
+4,Los Rebeldes,Loquillo Y Los Intocables
+4,Pep Sala,Sau
+4,Pep Sala,Els Pets
+4,Pep Sala,Lax'n'Busto
+4,Arco,Tram
+4,Arco,Codeine
+4,Arco,Low
+4,Nocturnos,Mucho
+4,Nocturnos,Full
+4,Nocturnos,Modelo de respuesta polar
+4,Cybee,Els Catarres
+4,Cybee,Buhos
+4,Cybee,Joan Dausà
+4,Comandante Twin,Carmen 113
+4,Comandante Twin,ELYELLA
+4,Comandante Twin,Héroes 2020
+4,Physis Versus Nomos,Benito Lertxundi
+4,Physis Versus Nomos,Tatxers
+4,Physis Versus Nomos,Katamalo
+4,Eskean Kristö,Izaki Gardenak
+4,Eskean Kristö,LiHer
+4,Eskean Kristö,Ibil Bedi
+4,Maki,NIO
+4,Maki,Cup of Joe
+4,Maki,Rob Deniel
+4,Embusteros,Comandante Twin
+4,Embusteros,ELYELLA
+4,Embusteros,Melifluo
+4,Bantastic Fand,Stormy Mondays
+4,Bantastic Fand,The Limboos
+4,Bantastic Fand,Nat Simons
+4,The Prussians,The Levitants
+4,The Prussians,Jack Knife
+4,The Prussians,Mirémonos
+4,Bastille,To Kill a King
+4,Bastille,Imagine Dragons
+4,Bastille,X Ambassadors
+4,Xiula,El Pot Petit
+4,Xiula,Mainasons
+4,Xiula,Ambauka
+4,Bluestain,Hynkel
+4,Bluestain,Félix Lineker
+4,Bluestain,Lucia Scansetti
+4,Eraso!,PI L.T.
+4,Eraso!,Keike
+4,Eraso!,Willis Drummond
+4,Oskorri,Tapia eta Leturia
+4,Oskorri,Pantxoa Eta Peio
+4,Oskorri,Anje Duhalde
+4,Atzembla,VaDeBo
+4,Atzembla,Aspencat
+4,Atzembla,La Gossa Sorda
+4,The Kleejoss Band,Handsome Jack
+4,The Kleejoss Band,The Magpie Salute
+4,The Kleejoss Band,Los Deltonos
+4,Os Resentidos,Os Diplomáticos de Monte Alto
+4,Os Resentidos,Lamatumbá
+4,Os Resentidos,Fuxan os Ventos
+4,La Porta Dels Somnis,La Puerta De Los Sueños
+4,La Porta Dels Somnis,Miquel Abras
+4,La Porta Dels Somnis,Ivette Nadal
+4,Track Dogs,Garrett Wall Band
+4,Track Dogs,Julián Maeso
+4,Track Dogs,Juan Perro
+4,The Oddballs,Cuddles C. Newsome
+4,The Oddballs,Mike Cunninghan & His Sparks
+4,The Oddballs,Sharon Arnold & The Ambassadors
+4,Young Forest,Xosé Lois Romero & Aliboria
+4,Young Forest,Ángel Stanich
+4,Young Forest,"The New Raemon, David Cordero & Marc Clos"
+4,Tano!,Anchord
+4,Tano!,Ànteros
+4,Tano!,Habitar La Mar
+4,Terratombats,Dijous Paella
+4,Terratombats,Ai Ai Ai
+4,Terratombats,Strombers
+4,Bely Basarte,Sofia Ellar
+4,Bely Basarte,30s40s50s
+4,Bely Basarte,Operación Triunfo 2018
+4,Lildami,Flashy Ice Cream
+4,Lildami,Doctor Prats
+4,Lildami,31 FAM
+4,Salto,Ciclo Preparatório
+4,Salto,Trêsporcento
+4,Salto,Samuel Úria
+4,Bultz!,Iheskide
+4,Bultz!,Egurra ta Kitto
+4,Bultz!,Rotten XIII
+4,Pepet I Marieta,Xeic!
+4,Pepet I Marieta,Cesk Freixas
+4,Pepet I Marieta,Pau Alabajos
+4,Correcaminos Rock and Roll Band,Rock 'N' Bordes
+4,Correcaminos Rock and Roll Band,Tarque
+4,Correcaminos Rock and Roll Band,Los Deltonos
+4,Pablo Valdés,Pablo Valdés & the Crazy Lovers
+4,Pablo Valdés,Pablo Moro
+4,Pablo Valdés,Alfredo González
+4,Pelax,Willis Drummond
+4,Pelax,Lukiek
+4,Pelax,Ezpalak
+4,Rulo y la contrabanda,Albertucho
+4,Rulo y la contrabanda,Forraje
+4,Rulo y la contrabanda,EXCESO
+4,The Gift,Amor Electro
+4,The Gift,Humanos
+4,The Gift,GNR
+4,La Terrasseta de Preixens,Itaca Band
+4,La Terrasseta de Preixens,Strombers
+4,La Terrasseta de Preixens,Els Catarres
+4,O Sonoro Maxín,Festicultores
+4,O Sonoro Maxín,Lamatumbá
+4,O Sonoro Maxín,Zënzar
+4,Txapelpunk,Etsaiak
+4,Txapelpunk,Tijuana in blue
+4,Txapelpunk,Leihotikan
+4,Raimon,Ovidi Montllor
+4,Raimon,Al Tall
+4,Raimon,Maria Del Mar Bonet
+4,La Unión,Duncan Dhu
+4,La Unión,Hombres G
+4,La Unión,Mikel Erentxun
+4,The Sick Boys,Weak
+4,The Sick Boys,Throck Morton
+4,The Sick Boys,Bitter Grin
+4,Dixebra,Avientu
+4,Dixebra,La bandina
+4,Dixebra,Skanda
+4,Dio,Heaven & Hell
+4,Dio,Rainbow
+4,Dio,Elf
+4,Lucas Masciano,Jaula de Grillos
+4,Lucas Masciano,Iguana Tango
+4,Lucas Masciano,Melocos
+4,Miquel Abras,Gossos
+4,Miquel Abras,Teràpia de Shock
+4,Miquel Abras,Ivette Nadal
+4,Sidecars,Leiva
+4,Sidecars,Shinova
+4,Sidecars,Despistaos
+4,Banda de Gaites Villa de Xixón,La Coḷḷá Propinde
+4,Banda de Gaites Villa de Xixón,Músicos pola oficialidá
+4,Banda de Gaites Villa de Xixón,Xaime Martínez
+4,"Quico El Célio, El Noi I El Mut De Ferreries",Pepet I Marieta
+4,"Quico El Célio, El Noi I El Mut De Ferreries",La Carrau
+4,"Quico El Célio, El Noi I El Mut De Ferreries",Miquel Gil
+4,Cesk Freixas,Feliu Ventura
+4,Cesk Freixas,Els Pets
+4,Cesk Freixas,Lax'n'Busto
+4,El Chico Amperio,PUK*2
+4,El Chico Amperio,Mamá Ladilla
+4,El Chico Amperio,Gérmenes
+4,Juanes,Bacilos
+4,Juanes,Carlos Vives
+4,Juanes,Fonseca
+4,Isla Iglú,Nunatak
+4,Isla Iglú,Molina Molina
+4,Isla Iglú,amatria
+4,Hendrik Röver,Los Deltonos
+4,Hendrik Röver,Los Enemigos
+4,Hendrik Röver,Arizona Baby
+4,Faith No More,Mr. Bungle
+4,Faith No More,Tomahawk
+4,Faith No More,Mike Patton
+4,Alex Ubago,Sin Bandera
+4,Alex Ubago,Cristian Castro
+4,Alex Ubago,David Bisbal
+4,Melange,Hemp Dept
+4,Melange,Jah Torch
+4,Melange,Раста Оркестра
+4,Strombers,Txarango
+4,Strombers,Xeic!
+4,Strombers,Els Catarres
+4,Joseba Tapia,Oskorri
+4,Joseba Tapia,Tapia eta Leturia
+4,Joseba Tapia,Alaitz Eta Maider
+4,Feliu Ventura,La Carrau
+4,Feliu Ventura,Conxita
+4,Feliu Ventura,Gerard Quintana
+4,Astarot,Basarabian Hills
+4,Astarot,All The Cold
+4,Astarot,Beqanatas
+4,Autumn Comets,Wilhelm and the Dancing Animals
+4,Autumn Comets,Retribution Gospel Choir
+4,Autumn Comets,Hebronix
+4,Molina Molina,Delafé
+4,Molina Molina,Carmen 113
+4,Molina Molina,Mostaza Gálvez
+4,Animal,Still_bloom
+4,Animal,Yüth Forever
+4,Animal,Barrier
+4,Roy Orbison,The Everly Brothers
+4,Roy Orbison,Traveling Wilburys
+4,Roy Orbison,Jerry Lee Lewis
+4,Camilo Séptimo,Reyno
+4,Camilo Séptimo,Odisseo
+4,Camilo Séptimo,Comisario Pantera
+4,Efecto Pasillo,Leiva
+4,Efecto Pasillo,Melendi
+4,Efecto Pasillo,Maldita Nerea
+4,Robbie Williams,Take That
+4,Robbie Williams,Robbie Williams & Kylie Minogue
+4,Robbie Williams,Robbie Williams & Nicole Kidman
+4,The Potes,McONAK
+4,The Potes,BRIGADE LOCO
+4,The Potes,Sofokaos
+4,Nat Simons,The Bright
+4,Nat Simons,Paula Rojo
+4,Nat Simons,Hola a todo el mundo
+4,Álvaro Urquijo,Enrique Urquijo y Los Problemas
+4,Álvaro Urquijo,Los Limones
+4,Álvaro Urquijo,Manolo Tena
+4,Perlata,Kaosa Euskal Herrian
+4,Perlata,Chaos in Basque Country
+4,Perlata,Las Sexpeares
+4,Caboverde,Avida Dollars
+4,Caboverde,VIVEN
+4,Caboverde,Ella La Rabia
+4,Minor Empires,Nothink
+4,Minor Empires,Catorce
+4,Minor Empires,Böira
+4,Tregua,Versoix
+4,Tregua,NoProcede
+4,Tregua,Gato Ventura
+4,Nyandú,La Iaia
+4,Nyandú,Quart Primera
+4,Nyandú,Joan Colomo
+4,Ochobre,Músicos pola oficialidá
+4,Ochobre,Misiva
+4,Ochobre,La Tarrancha
+4,Koel,Full
+4,Koel,Delafé
+4,Koel,Rey Chico
+4,Mikel Laboa,Benito Lertxundi
+4,Mikel Laboa,Oskorri
+4,Mikel Laboa,Xabier Lete
+4,Egurra Ta Kitto,Ze Esatek!
+4,Egurra Ta Kitto,Glaukoma
+4,Egurra Ta Kitto,Nikotina
+4,MARLENA,K!ngdom
+4,MARLENA,st. Pedro
+4,MARLENA,Mel Ömana
+4,La Trinca,Mesclat
+4,La Trinca,La Carrau
+4,La Trinca,Els Pets
+4,Stai Zitto,Maider Carral
+4,Stai Zitto,Gatibu
+4,Stai Zitto,Glaukoma
+4,Dinamita Pa Los Pollos,Pistones
+4,Dinamita Pa Los Pollos,Ramoncín
+4,Dinamita Pa Los Pollos,091
+4,Gotelé,Ciudad Jara
+4,Gotelé,Comandante Twin
+4,Gotelé,Elefantes
+4,Quimi Portet,Adrià Puntí
+4,Quimi Portet,Roger Mas
+4,Quimi Portet,Gerard Quintana
+4,Tachenko,La Costa Brava
+4,Tachenko,Francisco Nixon
+4,Tachenko,Travolta
+4,Xarim Aresté,Ferran Palau
+4,Xarim Aresté,Guillem Ramisa
+4,Xarim Aresté,El Petit De Cal Eril
+4,Chelsea Boots,Mediapunta
+4,Chelsea Boots,The Levitants
+4,Chelsea Boots,nostalgia.en.los.autobuses
+4,Gimnástica,Mailers
+4,Gimnástica,Ruidoblanco
+4,Gimnástica,Embusteros
+4,EraBatera,Willis Drummond
+4,EraBatera,LiHer
+4,EraBatera,Ezpalak
+4,Duran Duran,Arcadia
+4,Duran Duran,Kajagoogoo
+4,Duran Duran,The Power Station
+4,Ñekü,Angel Stanich
+4,Ñekü,Astropålido
+4,Ñekü,Molina Molina
+4,Los Gatos del Gitano,El Niño de La Hipoteca
+4,Los Gatos del Gitano,El Canijo de Jerez
+4,Los Gatos del Gitano,Capitán Cobarde
+4,Grises,Jero Romero
+4,Grises,Neuman
+4,Grises,Buffetlibre
+4,ALIS,Lovely Luna
+4,ALIS,El Chico Con La Espina En El Costado
+4,ALIS,Pauline en la Playa
+4,Los Retrovisores,Brighton 64
+4,Los Retrovisores,Los Flechazos
+4,Los Retrovisores,Cooper
+4,Mujeres,Triángulo de Amor Bizarro
+4,Mujeres,La Paloma
+4,Mujeres,Cala Vento
+4,Da Igual,nada que decir
+4,Da Igual,Doctor Pitangú
+4,Da Igual,Barrio Sur
+4,Kiko Veneno,Pata Negra
+4,Kiko Veneno,Ketama
+4,Kiko Veneno,Los Delinqüentes
+4,Skama la rede,Los Berrones
+4,Skama la rede,La Tarrancha
+4,Skama la rede,Sambre
+4,Itaca Band,Buhos
+4,Itaca Band,Doctor Prats
+4,Itaca Band,Txarango
+4,Nixon,Hormones in abundance
+4,Nixon,Second-Hand Furniture
+4,Nixon,The Tidy Ups
+4,Qverno,Flinks
+4,Qverno,Radio75
+4,Qverno,Hell of a Mind
+4,Vaquero,Chikita Violenta
+4,Vaquero,Canseco
+4,Vaquero,Los Abandoned
+4,Alejandro Conde,Julio Madrid
+4,Alejandro Conde,Alejandro Conde (F)
+4,Alejandro Conde,Los Cabales
+4,Barricada,Los Suaves
+4,Barricada,Porretas
+4,Barricada,Platero y tú
+4,Urtz,EH Sukarra
+4,Urtz,Latzen
+4,Urtz,Etzakit
+4,Durango14,Arizona Baby
+4,Durango14,The Boo Devils
+4,Durango14,Los Coronas
+4,Xabi Bandini,NØGEN
+4,Xabi Bandini,Olatz Salvador
+4,Xabi Bandini,skakeitan
+4,Ataque Escampe,The Homens
+4,Ataque Escampe,Terbutalina
+4,Ataque Escampe,Fanny + Alexander
+4,Zona Oscura,Blooming Bairds
+4,Zona Oscura,Amyl Justin & Peter Malick
+4,Zona Oscura,DzYn Brothers (Братья ДзЫнь)
+4,Os Amigos dos Músicos,Esposa
+4,Os Amigos dos Músicos,Caxade
+4,Os Amigos dos Músicos,Ataque Escampe
+4,Miquel Gil,Al Tall
+4,Miquel Gil,Feliu Ventura
+4,Miquel Gil,Conxita
+4,Melendi,Estopa
+4,Melendi,El Canto del Loco
+4,Melendi,Pereza
+4,The Cardigans,A Camp
+4,The Cardigans,Sixpence None the Richer
+4,The Cardigans,Garbage
+4,Wham!,George Michael
+4,Wham!,Culture Club
+4,Wham!,Paul Young
+4,Planet Funk,Kraak & Smaak
+4,Planet Funk,Spiller
+4,Planet Funk,Bent
+4,Jofre Bardagí,Whiskyn's
+4,Jofre Bardagí,Gerard Quintana
+4,Jofre Bardagí,Adrià Puntí
+4,Ezpalak,LiHer
+4,Ezpalak,Etxekalte
+4,Ezpalak,Gorka Urbizu
+4,Liher,Ezpalak
+4,Liher,Etxekalte
+4,Liher,Lamiak
+4,Los Piratas,Iván Ferreiro
+4,Los Piratas,Los Planetas
+4,Los Piratas,Lori Meyers
+4,Sanjosex,Mazoni
+4,Sanjosex,Roger Mas
+4,Sanjosex,Adrià Puntí
+4,Airbag,Bjørn Riis
+4,Airbag,RPWL
+4,Airbag,The Pineapple Thief
+4,Nueva Vulcano,Madee
+4,Nueva Vulcano,Half Foot Outside
+4,Nueva Vulcano,The Unfinished Sympathy
+4,Mentah,nogato
+4,Mentah,Jamie 4 President
+4,Mentah,Monteperdido
+4,Shinova,Supersubmarina
+4,Shinova,Vetusta Morla
+4,Shinova,Second
+4,Mexican Institute Of Sound,Nortec Collective
+4,Mexican Institute Of Sound,Kinky
+4,Mexican Institute Of Sound,Plastilina Mosh
+4,Cobra,Pretty Maids
+4,Cobra,King Kobra
+4,Cobra,Icon
+4,Miss Caffeina,Sidonie
+4,Miss Caffeina,Lori Meyers
+4,Miss Caffeina,Supersubmarina
+4,Fito y Fitipaldis,El Canto del Loco
+4,Fito y Fitipaldis,Platero y tú
+4,Fito y Fitipaldis,Extremoduro
+4,Bestia Bebé,107 Faunos
+4,Bestia Bebé,Él mató a un policía motorizado
+4,Bestia Bebé,Las Ligas Menores
+4,Keu Agirretxea,Izaki Gardenak
+4,Keu Agirretxea,Eñaut Elorrieta
+4,Keu Agirretxea,Esne Beltza
+4,Habi,Lamiak
+4,Habi,Ezpalak
+4,Habi,LiHer
+4,Los Marañones,Josele Santiago y Sus Menudencias
+4,Los Marañones,Señor Mostaza
+4,Los Marañones,Mucho
+4,Cris Juanico,Ja T'ho Diré
+4,Cris Juanico,Gerard Quintana
+4,Cris Juanico,Plouen Catximbes
+4,Elbicho,Mártires Del Compás
+4,Elbicho,Canteca De Macao
+4,Elbicho,Miguel Campello
+4,CLAIM,Kokoshca
+4,CLAIM,David Otero
+4,CLAIM,BlackPanda
+4,El Belda i el Conjunt Badabadoc,Xerramequ Tiquis Miquis
+4,El Belda i el Conjunt Badabadoc,Dijous Paella
+4,El Belda i el Conjunt Badabadoc,Aramateix
+4,Thee Braindrops,Lie Detectors
+4,Thee Braindrops,Doctor Explosion
+4,Thee Braindrops,The Pleasure Fuckers
+4,Triana,Medina Azahara
+4,Triana,El Último de la Fila
+4,Triana,Derby Motoreta’s Burrito Kachimba
+4,Marlon,Fran Perea
+4,Marlon,Flynn Bridgewater
+4,Marlon,Mellow Strings
+4,Joan Miquel Oliver,Antònia Font
+4,Joan Miquel Oliver,Sanjosex
+4,Joan Miquel Oliver,Mishima
+4,Mägo de Oz,Warcry
+4,Mägo de Oz,Tierra Santa
+4,Mägo de Oz,Saurom
+4,Jabier Muguruza,Txuma Murugarren
+4,Jabier Muguruza,Anje Duhalde
+4,Jabier Muguruza,Tapia eta Leturia
+4,Toulouse,Allan Rayman
+4,Toulouse,Betty Wright
+4,Toulouse,Shungudzo
+4,Pastora Soler,Vanesa Martín
+4,Pastora Soler,Malú
+4,Pastora Soler,Edurne
+4,Los Delinqüentes,Estopa
+4,Los Delinqüentes,Pereza
+4,Los Delinqüentes,La Plazuela
+4,Los Secretos,Gabinete Caligari
+4,Los Secretos,Antonio Flores
+4,Los Secretos,Nacha Pop
+4,Jarabe De Palo,Fito Y Fitipaldis
+4,Jarabe De Palo,El Canto del Loco
+4,Jarabe De Palo,Enanitos Verdes
+4,Diego Martín,David DeMaría
+4,Diego Martín,Efecto Mariposa
+4,Diego Martín,La Caja De Pandora
+4,107 Faunos,Bestia Bebé
+4,107 Faunos,Él mató a un policía motorizado
+4,107 Faunos,Las Ligas Menores
+4,Tomeu Penya,Anegats
+4,Tomeu Penya,Ossifar
+4,Tomeu Penya,Sau
+4,El Sueño de Morfeo,Amaral
+4,El Sueño de Morfeo,El Canto del Loco
+4,El Sueño de Morfeo,Nena Daconte
+4,Lynyrd Skynyrd,Molly Hatchet
+4,Lynyrd Skynyrd,Blackfoot
+4,Lynyrd Skynyrd,The Marshall Tucker Band
+4,Carmen 113,Comandante Twin
+4,Carmen 113,ELYELLA
+4,Carmen 113,Melifluo
+4,La Pegatina,Oques Grasses
+4,La Pegatina,Los Delinqüentes
+4,La Pegatina,Estopa
+4,Etxe,Urgabe
+4,Etxe,Keike
+4,Etxe,Etzakit
+4,Txuma Murugarren,Rafa Rueda
+4,Txuma Murugarren,Anje Duhalde
+4,Txuma Murugarren,Etzakit
+4,Javier Ojeda,La Dama Se Esconde
+4,Javier Ojeda,Cabaret Pop
+4,Javier Ojeda,Pistones
+4,Etsaiak,EH Sukarra
+4,Etsaiak,Lin Ton Taun
+4,Etsaiak,Urtz
+4,Izeberg,Su ta gar
+4,Izeberg,Zea Mays
+4,Izeberg,Etsaiak
+4,Brioles,The Nu Niles
+4,Brioles,Luna Vegas
+4,Brioles,Radium Cats
+4,Destino 48,Rulo y la contrabanda
+4,Destino 48,Alfredo González
+4,Destino 48,Isma Romero
+4,Capsula,Dymons
+4,Capsula,Hoopy Frood
+4,Capsula,Slackbaba
+4,Huecco,Alvaro Soler
+4,Huecco,Los Aslándticos
+4,Huecco,Sofia Reyes
+4,Vinicio Capossela,Francesco De Gregori
+4,Vinicio Capossela,Fabrizio De André
+4,Vinicio Capossela,Mannarino
+4,Atencion Tsunami,Incendios
+4,Atencion Tsunami,Autumn Comets
+4,Atencion Tsunami,Modelo de respuesta polar
+4,El Diluvi,Auxili
+4,El Diluvi,Xavi Sarrià
+4,El Diluvi,Roba Estesa
+4,Pokers,Jordi Ninus
+4,Pokers,Txarango
+4,Pokers,CyBee
+4,Texxcoco,Perro
+4,Texxcoco,Medalla
+4,Texxcoco,Monteperdido
+4,Adrià Puntí,Quimi Portet
+4,Adrià Puntí,Roger Mas
+4,Adrià Puntí,Gerard Quintana
+4,Ivette Nadal,Bikimel
+4,Ivette Nadal,Lluís Gavaldà
+4,Ivette Nadal,Miquel Abras
+4,Jane's Addiction,Porno for Pyros
+4,Jane's Addiction,Mother Love Bone
+4,Jane's Addiction,Stone Temple Pilots
+4,La Gossa Sorda,Aspencat
+4,La Gossa Sorda,Obrint Pas
+4,La Gossa Sorda,Pirat's Sound Sistema
+4,Roger Usart,Joana Serrat
+4,Roger Usart,Oliva Trencada
+4,Roger Usart,Maika Makovski
+4,Jacobo Serra,Angel Stanich
+4,Jacobo Serra,Luis Brea
+4,Jacobo Serra,Egon Soda
+4,Kokein,Keike
+4,Kokein,Urgabe
+4,Kokein,Seiurte
+4,Eneritz Furyak,Joseba B. Lenoir
+4,Eneritz Furyak,Willis Drummond
+4,Eneritz Furyak,M I C E
