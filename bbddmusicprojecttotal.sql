@@ -1,0 +1,1 @@
+SELECT * FROM musicproject.tabla_tracks;
