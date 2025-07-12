@@ -79,7 +79,7 @@ ALTER TABLE tabla_tracks MODIFY COLUMN fecha VARCHAR(35);
 INSERT INTO tabla_genero (genero)
 VALUES ('classical'),('jazz'),('pop'),('rock');
 
-UPDATE tabla_tracks SET id_genero = 1 WHERE id_track BETWEEN 15001 AND 17500; /*estos ID se pueden ver alterados segun quien lo haga*/
+UPDATE tabla_tracks SET id_genero = 1 WHERE id_track BETWEEN 2501 AND 17500; /*estos ID se pueden ver alterados segun quien lo haga*/
 UPDATE tabla_tracks SET id_genero = 2 WHERE id_track BETWEEN 17501 AND 30000;
 UPDATE tabla_tracks SET id_genero = 3 WHERE id_track BETWEEN 30001 AND 32500;
 UPDATE tabla_tracks SET id_genero = 4 WHERE id_track BETWEEN 32501 AND 35000;
