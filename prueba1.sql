@@ -1,1 +1,0 @@
-SELECT * FROM prueba1.tabla_tracks;
