@@ -32,26 +32,9 @@ It includes extraction with **Spotipy**, structured storage with **SQL**, explor
 ## Tech Stack
 
 - **Python** (pandas, numpy, matplotlib, seaborn, requests)
-- **Spotipy** for Spotify Web API
-- **SQL** (e.g., MySQL or SQLite) for persistence
-- **Jupyter Notebooks** for analysis
+- **Spotipy** 
+- **SQL** 
+- **Jupyter Notebooks** 
 
 ---
 
-## Project Structure
-
-```
-
-```
-
----
-
-## Setup
-
-
----
-
-## Usage
-
-
----
