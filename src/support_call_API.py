@@ -119,10 +119,11 @@ def get_statistics_list(artist_list):
         statistics_list.append(info)
     return statistics_list
 
-#%% Deliverable = Biographies
+#%% Deliverable = Biographies (WIP - see TODO.md)
 def biographie(artist, api_key):
     url = 'http://ws.audioscrobbler.com/2.0/'
     params = {
+        
         'method': 'artist.getinfo',
         'artist' : artist,
         'api_key': api_key,

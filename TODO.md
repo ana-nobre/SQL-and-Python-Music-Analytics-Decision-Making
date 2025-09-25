@@ -1,21 +1,20 @@
-# TO DO Python
+# TO DO — Python
 
-- Corrigir los codigos de llamadas a las API 
-    - tracks ✔️
-    - album ✔️
-    - biografia ✔️
-    - estadisticas ✔️
+- Fix the API call functions:  
+  - Tracks ✔️  
+  - Albums ✔️  
+  - Biography ✔️  
+  - Statistics ✔️  
 
-- Automatizar las llamadas a la API:
-    - artista ✔️
-    - album ✔️
-    - biografia 
-    - estadisticas 
-    - criacion de CSVs para cada extraccion X
- 
- - crear una funcion que intere solamente una vez por cada artista
+- Automate API calls for:  
+  - Biography  
+  - Artists ✔️  
+  - Albums ✔️  
+  - Statistics ✔️  
+  - Automatic CSV creation for each extraction ✔️  
 
- - Automatizar la creacion de la base de datos
+- Create a function that iterates over each artist only once ✔️  
+- Update the code to save all generated CSV files into a dedicated folder  
+- Automate the creation of the database (SQL)
 
 
----

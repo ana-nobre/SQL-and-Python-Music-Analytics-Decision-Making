@@ -1,6 +1,11 @@
 # SQL-and-Python-Music-Analytics-Decision-Making
 
-This project was developed to combine **Python** and **SQL** for extracting, organizing, and analyzing real-world music data.
+This project integrates **Python** and **SQL** to extract and transform music data from **APIs**, **export it to CSV files**, and **build a SQL database from scratch**. It concludes with **analytical SQL queries** that generate insights to support **data-driven decision-making** in the music industry.
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![SQL](https://img.shields.io/badge/SQL-MySQL-orange)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-green)
+
 
 ---
 
@@ -24,27 +29,31 @@ This project was developed to combine **Python** and **SQL** for extracting, org
 **Example — Python function to extract tracks by genre and year:**
 
 ```python
-def call(genre):
-    results = []
-    artist_list = []
-    for year in range(2016, 2021):
-        for offset in range(0, 500, 50):
-            datos = sp.search(
-                q=f'genre:{genre}, year:{year}',
-                type='track',
-                limit=50,
-                offset=offset)
-            for item in datos['tracks']['items']:
-                release_date = item['album']['release_date']
+def get_album(genre, start_year=2020, end_year=2025):
+    resultados_album = []
+
+    for offset in range(0, 500, 50):  # start stop step 
+        datos = sp.search(q=f'{genre}', type='album', limit=50, offset=offset)
+
+        for album in datos['albums']['items']:
+            release_date = album.get('release_date', '')
+            for year in range(start_year,end_year): 
                 if release_date.startswith(str(year)):
-                    info = {   
-                        'nombre_artista': item['artists'][0]['name'],
-                        'album': item['album']['name'],
-                        'fecha': item['album']['release_date'],
-                        'tipo': item['type'],
-                        'track': item['name']}
-                    results.append(info)
-    return results
+                    info = {
+                        'album': album['name'],
+                        'fecha': release_date,
+                        'tipo': album['album_type'],
+                        'id': album['id']  
+                    }
+                    print("El nombre del álbum es:", info['album'])
+                    print("La fecha de lanzamiento es:", info['fecha'])
+                    print("Tipo:", info['tipo'])
+                    print("..........")
+                    
+                    resultados_album.append(info)
+                    break
+
+    return resultados_album
 ```
 
 ---
@@ -53,7 +62,7 @@ def call(genre):
 To make the workflow scalable and maintainable, I created the `src/` folder to organize reusable Python scripts:
 
 - `support_call_api.py` → Functions to handle Spotify API calls.  
-- `data_manipulation.py` → Functions to process and export data.  
+- `data_manipulation_to_csv.py` → Functions to process and export data into CSV files.  
 
 **Example — Export function:**
 
@@ -67,13 +76,14 @@ def extract_artist(results, genre):
 **Example — Automated loop for multiple genres:**
 
 ```python
-from src import support_call_API as ap
+from src import support_call_api as ap
 from src import data_manipulation as dm
 
 genre_list = ['rock', 'jazz', 'pop', 'classical']
+
 for genre in genre_list:
-    resultados, artist_list = ap.call(genre)
-    dm.extract_artist(resultados, genre)
+    track_list, artist_list = ap.get_tracks_and_artists(genre, start_year=2024, end_year=2025)
+    dm.load_track(track_list, genre)
 ```
 
 This approach allows adding new genres simply by updating the list — keeping the pipeline reproducible and easy to maintain.
@@ -151,12 +161,6 @@ These queries allowed to uncover patterns in artist collaborations, popularity t
 ```
 SQL-AND-PYTHON-MUSIC-ANALYTICS-DECISION-MAKING/
 │
-├── Jupyter Notebooks/
-│   ├── .cache/
-│   ├── API_album.ipynb
-│   ├── bio.ipynb
-│   └── stats.ipynb
-│
 ├── Python+SQL/
 │   ├── CSV_to_SQL.ipynb
 │   ├── mysql.connector.ipynb
@@ -167,19 +171,31 @@ SQL-AND-PYTHON-MUSIC-ANALYTICS-DECISION-MAKING/
 │   └── reasearch-questions-final-queries.sql
 │
 ├── src/
-│   ├── __pycache__/
-│   ├── data_manipulation.py
+│   ├── __pycache__
+│   ├── data_manipulation_to_csv.py
 │   └── support_call_api.py
 │
 ├── .cache/
 ├── .gitignore
+│
 ├── api.env
 ├── main.py
-├── README.md
 │
+├── album_jazz.csv
+├── album_pop.csv
+├── album_rock.csv
+│
+├── statistics_jazz.csv
+├── statistics_pop.csv
+├── statistics_rock.csv
+│
+├── track_classical.csv
 ├── track_jazz.csv
 ├── track_pop.csv
-└── track_rock.csv
+├── track_rock.csv
+│
+├── README.md
+└── TODO.md
 ```
 
 ---
@@ -213,13 +229,22 @@ The project concludes with a presentation that covers:
 
 ## 👩‍💻 Author & Role
 
-The work started in a **cross-functional team environment**, where I led scope alignment and the initial API strategy. We practiced shared code ownership and pair programming to accelerate delivery and ensure high-quality results.  
-We held **daily stand-ups** for alignment and progress tracking, as well as **sprint reviews** and **retrospectives** to adapt and improve.  
+The work started in a **colaborative environment**, we practiced shared code ownership and pair programming. Later, I’ve been iterating on the project independently to raise its quality bar: refactoring code for clarity and reliability, removing sources of error, and automating repeatable tasks (starting with CSV exports via `support_call_api.py` and `data_manipulation_to_csv.py`). I also created and refined the SQL schema and developed the queries that generate decision-ready insights. Throughout, I balanced hands-on coding with leadership—aligning stakeholders, managing delivery risks, and keeping documentation crisp—so the work remains transparent, scalable, and impactful.
 
-I’ve been iterating on the project independently to raise its quality bar: refactoring code for clarity and reliability, removing sources of error, and automating repeatable tasks (starting with CSV exports via `support_call_api.py` and `data_manipulation.py`). I also created and refined the SQL schema and developed the queries that generate decision-ready insights. Throughout, I balanced hands-on coding with leadership—aligning stakeholders, managing delivery risks, and keeping documentation crisp—so the work remains transparent, scalable, and impactful.
+### Key contributions 
+
+- **Clear orchestration:** A single `main()` function coordinates the end-to-end flow (API → CSV) per genre in a predictable sequence.  
+- **Straightforward configuration:** Years, genres, and paths live in one place, making changes easy and safe to rerun.  
+- **Intuitive naming & structure:** Functions and variables reflect their purpose (tracks, albums, stats, biography), so the code reads like the process.  
+- **Fewer moving parts:** Reduced unnecessary steps and stitched stages where it made sense, making the pipeline shorter, easier to follow, and faster.  
+- **De-dup & rate-limit awareness:** Avoids duplicate calls and includes small pauses, reducing API overhead and keeping requests reliable.  
+- **Consistent outputs:** CSV files follow a stable naming pattern and schema, simplifying downstream SQL/analytics and ensuring reproducibility.  
+- **Import-friendly design:** The entrypoint pattern lets you reuse pipeline pieces in notebooks or tests without side effects.
 
 ---
 
 ## 🚀 Next Steps
 
 Currently expanding the project by **automating artist biographies, statistics ingestion** and **SQL** — applying the same ETL approach used for the main datasets to enrich the database further.
+
+
