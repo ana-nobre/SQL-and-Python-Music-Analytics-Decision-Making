@@ -24,6 +24,12 @@ sp = spotipy.Spotify(auth_manager=auth_manager)
 
 print("Successfully authenticated with Spotify!")
 
+API_KEY_LASTFM = os.getenv('API_KEY_LASTFM') 
+
+if not API_KEY_LASTFM:
+    raise ValueError("API_KEY_LASTFM not found in environment variables. "
+                     "Please check  your api.env file and path.")
+
 #%% Deliverable = Tracks's list 
 
 def get_tracks(genre):
@@ -83,9 +89,33 @@ def get_album(genre):
 
     return resultados_album
 
-#%%
+#%% Deliverable = Statistics
+def get_statistics(id_genero, artist, api_key):
+    url = 'http://ws.audioscrobbler.com/2.0/'
+    params = {
+        'method': 'artist.getinfo',
+        'artist' : artist,
+        'api_key':  api_key,
+        'format': 'json',
+        'lang': 'es'
+        }
 
-def get_biography(artist, api_key):
+    response = requests.get(url, params=params)
+    if response.status_code != 200:
+        print(f"Da error")
+    else:
+        datos = response.json()
+        info = datos['artist']['stats'] #extraer listeners y plays por separado
+        info_artista = {
+            'id_genero': id_genero,
+            'artista': artist, 
+            'oyentes': info.get('listeners'),
+            'reproducciones': info.get('playcount'),
+            } 
+        return info_artista
+    
+#%% Deliverable = Biographys
+def bio(artist, api_key):
     url = 'http://ws.audioscrobbler.com/2.0/'
     params = {
         'method': 'artist.getinfo',
@@ -102,38 +132,3 @@ def get_biography(artist, api_key):
         datos = response.json()
         resumen = datos['artist']['bio']['summary']
         return resumen
-        
-resultados, artist_list = get()
-artistas_unic = pd.Series(artist_list)
-artistas_unique = artistas_unic.unique()
-print(artistas_unique)
-
-
-resultados_nombres = []
-limit = 200
-contador = 0
-for i in lista_artistas:
-    if contador >= limit:
-        break
-    resumen = bio(i, api_key)
-    resultados_nombres.append({
-        'artista': i,
-        'biografia': resumen
-    })
-
-    contador += 1
-
-lista_artistas_limpia = [artista[0] if isinstance(artista, list) else artista for artista in lista_artistas] # clean brackets
-df['artista'] = df['artista'].apply(lambda x: x[0] if isinstance(x, list) else x)
-
-df_artist_jazz = pd.DataFrame(artistas_unic)
-df_artist_jazz.to_csv('jazz_artists.csv', index=False)
-
-df_artist_rock = pd.DataFrame(artist_list)
-df_artist_rock.to_csv('pop_artists.csv', index=False)
-
-df_artist_rock = pd.DataFrame(artist_list)
-df_artist_rock.to_csv('rock_artists.csv', index=False)
-df.to_csv('bio_rock.csv', index=False)
-
- """
