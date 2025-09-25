@@ -32,11 +32,11 @@ if not API_KEY_LASTFM:
 
 #%% Deliverable = Tracks's list 
 
-def get_tracks(genre):
-    results = []
+def get_tracks_and_artists(genre,start_year=2020, end_year=2025):
+    track_list = []
     artist_list = []
     for offset in range(0,500,50):
-        for year in range(2016,2021):
+        for year in range(start_year,end_year):
             datos = sp.search(q= f'genre:{genre}, year:{year}', type='track', limit=50, offset=offset) 
             for item in datos['tracks']['items']: 
                 release_date = item['album']['release_date']
@@ -56,28 +56,26 @@ def get_tracks(genre):
                     print("Este es el nombre del track:", item['name']), #track
                     print('..........')
                     
-                    results.append(info)
+                    track_list.append(info)
                     artist_list.append(item['artists'][0]['name'])
-    for artist in artist_list:
-        print(artist)
-    return results, artist_list
+    return track_list, artist_list
 
 # %% Deliverable = Albuns's list 
-def get_album(genre):
+def get_album(genre, start_year=2020, end_year=2025):
     resultados_album = []
 
-    for offset in range(0, 500, 50):  # hasta 500 resultados (Spotify limita a 1000 máx)
+    for offset in range(0, 500, 50):  # hasta 500 resultados 
         datos = sp.search(q=f'{genre}', type='album', limit=50, offset=offset)
 
         for album in datos['albums']['items']:
             release_date = album.get('release_date', '')
-            for year in range(2016, 2021):  # años 2016 a 2020
+            for year in range(start_year,end_year): 
                 if release_date.startswith(str(year)):
                     info = {
                         'album': album['name'],
                         'fecha': release_date,
                         'tipo': album['album_type'],
-                        'id': album['id']  # puedes eliminar esto si no lo necesitas
+                        'id': album['id']  
                     }
                     print("El nombre del álbum es:", info['album'])
                     print("La fecha de lanzamiento es:", info['fecha'])
@@ -89,13 +87,13 @@ def get_album(genre):
 
     return resultados_album
 
-#%% Deliverable = Statistics
-def get_statistics(id_genero, artist, api_key):
+#%% Deliverable = Statistics from LastFM
+def get_statistics(artist):
     url = 'http://ws.audioscrobbler.com/2.0/'
     params = {
         'method': 'artist.getinfo',
         'artist' : artist,
-        'api_key':  api_key,
+        'api_key':  API_KEY_LASTFM,
         'format': 'json',
         'lang': 'es'
         }
@@ -105,17 +103,24 @@ def get_statistics(id_genero, artist, api_key):
         print(f"Da error")
     else:
         datos = response.json()
-        info = datos['artist']['stats'] #extraer listeners y plays por separado
-        info_artista = {
-            'id_genero': id_genero,
+        info = datos['artist']['stats'] 
+        info_artist = {
             'artista': artist, 
             'oyentes': info.get('listeners'),
             'reproducciones': info.get('playcount'),
             } 
-        return info_artista
-    
-#%% Deliverable = Biographys
-def bio(artist, api_key):
+        return info_artist
+
+def get_statistics_list(artist_list):
+    statistics_list = []
+    for artist in artist_list:
+        print(f'getting statistics for {artist}')
+        info = get_statistics(artist) # info_artist
+        statistics_list.append(info)
+    return statistics_list
+
+#%% Deliverable = Biographies
+def biographie(artist, api_key):
     url = 'http://ws.audioscrobbler.com/2.0/'
     params = {
         'method': 'artist.getinfo',
