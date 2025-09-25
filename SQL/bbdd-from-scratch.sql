@@ -71,33 +71,26 @@ USE Musicproject;
     id_bio INT AUTO_INCREMENT PRIMARY KEY,
     artista VARCHAR(50) NOT NULL,
     bio VARCHAR (500) NOT NULL);
-    
-ALTER TABLE tabla_tracks MODIFY COLUMN track LONGTEXT;
-ALTER TABLE tabla_tracks MODIFY COLUMN album LONGTEXT;
-ALTER TABLE tabla_tracks MODIFY COLUMN fecha VARCHAR(35);
 
-INSERT INTO tabla_genero (genero)
-VALUES ('classical'),('jazz'),('pop'),('rock');
-
-UPDATE tabla_tracks SET id_genero = 1 WHERE id_track BETWEEN 2501 AND 17500; /*estos ID se pueden ver alterados segun quien lo haga*/
-UPDATE tabla_tracks SET id_genero = 2 WHERE id_track BETWEEN 17501 AND 30000;
-UPDATE tabla_tracks SET id_genero = 3 WHERE id_track BETWEEN 30001 AND 32500;
-UPDATE tabla_tracks SET id_genero = 4 WHERE id_track BETWEEN 32501 AND 35000;
 
 ALTER TABLE tabla_bio MODIFY COLUMN bio LONGTEXT; /*hacer más grande el texto de la bio y el de abajo, quitar ['']*/
 UPDATE tabla_bio
 SET artista = REPLACE(REPLACE(REPLACE(artista, '[', ''), ']', ''), '''', '');
 
-SET FOREIGN_KEY_CHECKS = 0; /*eliminar tabla artista, era un duplicado*/
-DROP TABLE tabla_artista;
-SET FOREIGN_KEY_CHECKS = 1;
-
-DROP TABLE tabla_artista;
-ALTER TABLE tabla_similar MODIFY COLUMN similares LONGTEXT;
 
 ALTER TABLE tabla_tracks MODIFY COLUMN id_artista INT NOT NULL;
 
+-- JOIN
+SELECT t.*
+FROM tabla_tracks t
+INNER JOIN tabla_artista a
+  ON TRIM(LOWER(t.nombre_artista)) = TRIM(LOWER(a.nombre_artista));
 
+UPDATE Tabla_stats ts
+JOIN tabla_artista ta ON TRIM(ts.nombre_artista) = TRIM(ta.nombre_artista)
+SET ts.id_artista = ta.id_artista
+WHERE ts.id_artista IS NULL;
 
-    
-    
+UPDATE tabla_artista a
+JOIN tabla_tracks t ON a.id_artista = t.id_artista
+SET a.album = t.album;

@@ -29,10 +29,10 @@ def call(genre):
     artist_list = []
     for offset in range(0,500,50):
         for year in range(2016,2021):
-            datos = sp.search(q= f'genre:{genre}, year:{year}', type='track', limit=50, offset=offset) #offset se iguala para que cuando entre en el bucle for pueda iterar hasta extraer el número de tracks que queremos, es el límite por paginas y en spotify el máx es 50
+            datos = sp.search(q= f'genre:{genre}, year:{year}', type='track', limit=50, offset=offset) 
             for item in datos['tracks']['items']: 
                 release_date = item['album']['release_date']
-                if release_date.startswith(str(year)): #la api de spotify no filtra el año en la query, #se necesita poner startswith para que en la fecha empieze por 2025 que es el año que queremos buscar
+                if release_date.startswith(str(year)): 
                     info = {   
                         'nombre_artista' : item['artists'][0]['name'],
                         'album' : item['album']['name'],
@@ -41,11 +41,11 @@ def call(genre):
                         'track' : item['name']
                     }
 
-                    print("Este es el nombre del artista:", item['artists'][0]['name']), #nombre artista
-                    print("Este es el nombre del album:",item['album']['name']), #nombre del album
-                    print("Esta es la fecha de lanzamiento:", item['album']['release_date']), #fecha de lanzamiento
-                    print("Este es el tipo de audio:", item['type']), #tipo 
-                    print("Este es el nombre del track:", item['name']), #nom del track
+                    print("Este es el nombre del artista:", item['artists'][0]['name']), # artist
+                    print("Este es el nombre del album:",item['album']['name']), #album
+                    print("Esta es la fecha de lanzamiento:", item['album']['release_date']), #date
+                    print("Este es el tipo de audio:", item['type']), #type
+                    print("Este es el nombre del track:", item['name']), #track
                     print('..........')
                     
                     results.append(info)
