@@ -7,13 +7,14 @@
   - Statistics ✔️  
 
 - Automate API calls for:  
-  - Biography  
+  - Biography ✔️
   - Artists ✔️  
   - Albums ✔️  
   - Statistics ✔️  
   - Automatic CSV creation for each extraction ✔️  
 
 - Create a function that iterates over each artist only once ✔️  
+- Update paths and realtive paths
 - Update the code to save all generated CSV files into a dedicated folder  
 - Automate the creation of the database (SQL)
 

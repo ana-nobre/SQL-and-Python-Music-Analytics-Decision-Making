@@ -15,7 +15,8 @@ for genre in genre_list:
     statistics_list = ap.get_statistics_list(unique_artist_list)
     dm.load_statistics(statistics_list, genre)
 
-    resultados_album = ap.get_biography(genre)
+    resultados_album = ap.get_biographies_list(unique_artist_list)
     dm.load_biography(resultados_album, genre)
+
 
 # %%
