@@ -2,16 +2,10 @@
 
 This project integrates **Python** and **SQL** to extract and transform music data from **APIs**, **export it to CSV files**, and **build a SQL database from scratch**. It concludes with **analytical SQL queries** that generate insights to support **data-driven decision-making** in the music industry.
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![SQL](https://img.shields.io/badge/SQL-MySQL-orange)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-green)
-
-
 ---
 
 ## 📌 Objectives
-
-- Consolidate Python and SQL knowledge in a real-world project.  
+ 
 - Automate data extraction from music APIs (Spotify and Last.fm).  
 - Design and populate a relational database using SQL.  
 - Perform analysis through SQL queries to answer business-driven questions.  
@@ -149,10 +143,17 @@ These queries allowed to uncover patterns in artist collaborations, popularity t
 
 ---
 
-## 🌍 International vs Local Data
+## 🌍 APIs used
 
-- **Spotify API**: The `/search` endpoint queries the **global catalog** unless a `market` parameter is specified. Without it, results are international by default.  
-- **Last.fm API**: Returns global data by default, but offers endpoints (e.g., `geo.getTopArtists`) to filter by country or region if needed.  
+- **Spotify Web API**  
+  - Search endpoint: https://developer.spotify.com/documentation/web-api/reference/search  
+  - Docs: https://developer.spotify.com/documentation/web-api/
+
+- **Last.fm API**  
+  - Getting started: https://www.last.fm/api#getting-started  
+  - Example endpoint (artist info): https://www.last.fm/api/show/artist.getInfo
+
+> **Note:** This project integrates with two APIs—Spotify and Last.fm. Public API availability can fluctuate, and Last.fm does not publish an official status page. The code includes basic safeguards. If a call fails or data looks incomplete, please check the error messages/logs and re-run to ensure correct results.
 
 ---
 
@@ -237,7 +238,6 @@ The work started in a **colaborative environment**, we practiced shared code own
 - **Straightforward configuration:** Years, genres, and paths live in one place, making changes easy and safe to rerun.  
 - **Intuitive naming & structure:** Functions and variables reflect their purpose (tracks, albums, stats, biography), so the code reads like the process.  
 - **Fewer moving parts:** Reduced unnecessary steps and stitched stages where it made sense, making the pipeline shorter, easier to follow, and faster.  
-- **De-dup & rate-limit awareness:** Avoids duplicate calls and includes small pauses, reducing API overhead and keeping requests reliable.  
 - **Consistent outputs:** CSV files follow a stable naming pattern and schema, simplifying downstream SQL/analytics and ensuring reproducibility.  
 - **Import-friendly design:** The entrypoint pattern lets you reuse pipeline pieces in notebooks or tests without side effects.
 
@@ -245,6 +245,9 @@ The work started in a **colaborative environment**, we practiced shared code own
 
 ## 🚀 Next Steps
 
-Currently expanding the project by **automating artist biographies, statistics ingestion** and **SQL** — applying the same ETL approach used for the main datasets to enrich the database further.
+Currently expanding the project by:
 
+- **automating SQL** — applying the same ETL approach used for the main datasets to enrich the database further.
+
+- **De-dup & rate-limit awareness:** Avoids duplicate calls and includes small pauses, reducing API overhead and keeping requests reliable.  
 
